@@ -1,0 +1,29 @@
+{
+    "optimism": {
+        "VeloFactory": "0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746",
+        "VeloRouter": "0x9c12939390052919aF3155f41Bf4160Fd3666A6f",
+
+        "AddressRegistry": "0x85603119C938750Dfb5904f8a501b64F3F3A01D2",
+        "VeTokenAddress": "0x292a1f318b1Ab0C7701f30F42603adc7F95F5e66",
+
+        "ReserveLogicLibraryAddress": "0xEc120bC6e12Cea127553B1f53445947B1f73A132",
+        "ETokenDeployerAddress": "0xeccE0f5E758D01C142ebD5Ed2565038E4c0EDd80",
+        "StakingRewardsDeployer": "0xcEFa665165281B7a9807BDCd4d7Ac54a54Ca1e13",
+        "LendingPoolContractAddress": "0xBB505c54D71E9e599cB8435b4F0cEEc05fC71cbD",
+
+        "VaultFactory": "0x155620A2E6A9392c754B73296d9655061525729B",
+
+        "SwapPathManager": "0xAC9E42209038bcA0B2B026906De97a032400F2b4",
+
+        "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
+        "VaultInitializerLib": "0x7FD13C20EebA7A3776EbC422CEF7c8752D40766f",
+        "VaultPositionLogicLib": "0x4F4940a87d63A290d43B6550911896fF7AEe354C",
+        "VaultOwnerActionsLib": "0x797DE59D04D43261A402cF3B85ed76C4Af40F5a3",
+        "VaultRewardsLogicLib": "0xF9d40a60fD6bDc866daf0918264a30acCE1DC9Cc",
+        "VaultPositionManager": "0xf9cFB8a62f50e10AdDE5Aa888B44cF01C5957055",
+
+        "Airdrop": "0x1613beB3B2C4f22Ee086B2b38C1476A3cE7f78E8",
+
+        "VeRewardDistributor": "0xE3eE1F0e6ce8083410436606D1493E8ffBD5FcD3"
+    }
+}

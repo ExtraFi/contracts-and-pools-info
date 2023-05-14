@@ -1,0 +1,73 @@
+{
+    "optimism": {
+        "USD+": {
+            "name": "USD+",
+            "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+            "decimals": 6
+        },
+        "STG": {
+            "name": "STG",
+            "address": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+            "decimals": 18
+        },
+        "EXTRA": {
+            "name": "EXTRA",
+            "address": "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0",
+            "decimals": 18
+        },
+        "VELO": {
+            "name": "VELO",
+            "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+            "decimals": 18
+        },
+
+        "WETH": {
+            "name": "WETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "decimals": 18
+        },
+
+        "OP": {
+            "name": "OP",
+            "address": "0x4200000000000000000000000000000000000042",
+            "decimals": 18
+        },
+
+        "USDC": {
+            "name": "USDC",
+            "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "decimals": 6
+        },
+
+        "SNX": {
+            "name": "SNX",
+            "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+            "decimals": 18
+        },
+        "DOLA": {
+            "name": "DOLA",
+            "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+            "decimals": 18
+        },
+        "sUSD": {
+            "name": "sUSD",
+            "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+            "decimals": 18
+        },
+        "MAI": {
+            "name": "MAI",
+            "address": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "decimals": 18
+        },
+        "DAI": {
+            "name": "DAI",
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "decimals": 18
+        },
+        "USX": {
+            "name": "USX",
+            "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+            "decimals": 18
+        }
+    }
+}
