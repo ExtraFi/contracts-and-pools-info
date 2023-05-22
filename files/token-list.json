@@ -1,5 +1,10 @@
 {
     "optimism": {
+        "wUSDR": {
+            "name": "wUSDR",
+            "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+            "decimals": 9
+        },
         "frxETH": {
             "name": "frxETH",
             "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",

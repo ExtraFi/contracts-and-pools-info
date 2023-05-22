@@ -383,6 +383,31 @@
                     }
                 ]
             ]
+        },
+        "vAMM-wUSDR/USDC": {
+            "vaultId": "17",
+            "vaultAddress": "0xcE60CBBeA05fAfdAd18f66f299E19FF048567672",
+            "veloGauge": "0x497E7F08F153FB58f522032B408D7DAfC29FcAC8",
+            "veloPair": "0x48dce63BacF1C7C839cFa7d4F871ad17c0D30D38",
+            "token0": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+            "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": false,
+            "rewards": [
+                "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+                "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    }
+                ]
+            ]
         }
     }
 }
