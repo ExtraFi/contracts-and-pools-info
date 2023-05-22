@@ -1,5 +1,30 @@
 {
     "optimism": {
+        "frxETH": {
+            "name": "frxETH",
+            "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+            "decimals": 18
+        },
+        "wstETH": {
+            "name": "wstETH",
+            "address": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+            "decimals": 18
+        },
+        "SONNE": {
+            "name": "SONNE",
+            "address": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+            "decimals": 18
+        },
+        "LYRA": {
+            "name": "LYRA",
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "decimals": 18
+        },
+        "KWENTA": {
+            "name": "KWENTA",
+            "address": "0x920Cf626a271321C151D027030D5d08aF699456b",
+            "decimals": 18
+        },
         "USD+": {
             "name": "USD+",
             "address": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
@@ -20,25 +45,21 @@
             "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
             "decimals": 18
         },
-
         "WETH": {
             "name": "WETH",
             "address": "0x4200000000000000000000000000000000000006",
             "decimals": 18
         },
-
         "OP": {
             "name": "OP",
             "address": "0x4200000000000000000000000000000000000042",
             "decimals": 18
         },
-
         "USDC": {
             "name": "USDC",
             "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
             "decimals": 6
         },
-
         "SNX": {
             "name": "SNX",
             "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
