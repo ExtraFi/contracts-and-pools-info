@@ -6,7 +6,7 @@
             "eTokenAddress": "0x3dC60bE8092C851c3f512eDbFe3b61Fc40D33bb9",
             "stakingAddress": "0x5F8d42635A2fa74D03b5F91c825dE6F44c443dA5",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "USDC-0": {
@@ -15,7 +15,7 @@
             "eTokenAddress": "0xBf785098C120C06e2547b04d26Ecb76300023e95",
             "stakingAddress": "0x21C43d9B3b7c25C740B0D5dC9F62495aeC0d1ecC",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "VELO-0": {
@@ -24,7 +24,7 @@
             "eTokenAddress": "0xEeADaF138006063a0002BAa9490A564412e19656",
             "stakingAddress": "0x8f480b12B321dac9D5427aAD8F3e560fca2b3216",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "OP-0": {
@@ -33,7 +33,7 @@
             "eTokenAddress": "0x1De04dCD405B2e5e5ECD9cB9875B764416c1c055",
             "stakingAddress": "0x89A049290CC6d56A316ed7e8D0422f54aD2BFEaC",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "SNX-0": {
@@ -42,7 +42,7 @@
             "eTokenAddress": "0x5a57B5Bd972D232B9E269afA686a54849f8e4613",
             "stakingAddress": "0xF767Dd4Dd089948254477a918E63F3Ee55BA3F74",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "USX-0": {
@@ -51,7 +51,7 @@
             "eTokenAddress": "0x300F9eaD07D92D222493409d87ed784B873b24a2",
             "stakingAddress": "0x1fC5c45645BF98cB5F24ABBf24Df12a0Fb1a5F49",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "STG-0": {
@@ -60,7 +60,7 @@
             "eTokenAddress": "0x78C8B197F964aa664Ce997ad706F8A4587c7FFb6",
             "stakingAddress": "0x20d49B0F7536BE3694Fc1B87adBFA8D16d23B861",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "DOLA-0": {
@@ -69,7 +69,7 @@
             "eTokenAddress": "0x4Fb952278A7e01E924d14309BDAB38a3235B66a5",
             "stakingAddress": "0xB8dFD948b4D36F9E4e11728Dc4E6b38764dBBDd3",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "USD+-0": {
@@ -78,7 +78,7 @@
             "eTokenAddress": "0xdF1664691c640BB672E8465CcBC60A1b145951d5",
             "stakingAddress": "0x2868eBcf5B4f24d5eE1C738ea0a954AC8d7ceb35",
             "rewardsToken": [
-                "0xAeA8384088Eb1a98E555D8B5C8aaA953087716f0"
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
             ]
         },
         "frxETH-0": {
