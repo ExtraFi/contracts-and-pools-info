@@ -12,11 +12,12 @@
         "SwapPathManager": "0xAC9E42209038bcA0B2B026906De97a032400F2b4",
         "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
         "VaultInitializerLib": "0x7FD13C20EebA7A3776EbC422CEF7c8752D40766f",
-        "VaultPositionLogicLib": "0x4F4940a87d63A290d43B6550911896fF7AEe354C",
+        "VaultPositionLogicLib": "0xA4dd7Df0A13743508217941D2b155B5B32DF7045",
         "VaultOwnerActionsLib": "0x797DE59D04D43261A402cF3B85ed76C4Af40F5a3",
         "VaultRewardsLogicLib": "0xF9d40a60fD6bDc866daf0918264a30acCE1DC9Cc",
         "VaultPositionManager": "0xf9cFB8a62f50e10AdDE5Aa888B44cF01C5957055",
         "Airdrop": "0x9A4E503F5C26239f9AEaa1001404C378783E9476",
-        "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a"
+        "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
+        "ChainLinkOracle": "0xBEdfdA828475005Dc8E4a09Aaa34BD0b8CA807e4"
     }
 }
