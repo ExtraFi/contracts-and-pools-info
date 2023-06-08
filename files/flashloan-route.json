@@ -129,6 +129,60 @@
                     "to": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
                     "stable": false
                 }
+            ],
+            "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000042",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000042",
+                    "to": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+                    "stable": false
+                }
+            ],
+            "0x217D47011b23BB961eB6D93cA9945B7501a5BB11": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+                    "stable": false
+                }
+            ],
+            "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+                    "stable": true
+                }
+            ],
+            "0x2E3D870790dC77A83DD1d18184Acc7439A53f475": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+                    "stable": true
+                }
+            ],
+            "0x970D50d09F3a656b43E11B0D45241a84e3a6e011": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
+                    "stable": true
+                }
+            ],
+            "0xc5b001DC33727F8F26880B184090D3E252470D45": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+                    "stable": true
+                }
+            ],
+            "0xCa0E54b636DB823847B29F506BFFEE743F57729D": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+                    "stable": true
+                }
             ]
         }
     }

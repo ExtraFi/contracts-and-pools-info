@@ -1,5 +1,40 @@
 {
     "optimism": {
+        "DHT": {
+            "name": "DHT",
+            "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+            "decimals": 18
+        },
+        "THALES": {
+            "name": "THALES",
+            "address": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+            "decimals": 18
+        },
+        "BOB": {
+            "name": "BOB",
+            "address": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+            "decimals": 18
+        },
+        "FRAX": {
+            "name": "FRAX",
+            "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+            "decimals": 18
+        },
+        "DAI+": {
+            "name": "DAI+",
+            "address": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
+            "decimals": 18
+        },
+        "ERN": {
+            "name": "ERN",
+            "address": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+            "decimals": 18
+        },
+        "CHI": {
+            "name": "CHI",
+            "address": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+            "decimals": 18
+        },
         "wUSDR": {
             "name": "wUSDR",
             "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",

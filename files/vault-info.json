@@ -408,6 +408,286 @@
                     }
                 ]
             ]
+        },
+        "sAMM-DOLA/MAI": {
+            "vaultId": "18",
+            "vaultAddress": "0x6648cfc95d6FdD991C887A114De746ab5323644e",
+            "veloGauge": "0x58E3532062f83c8962B388426c0fE0EF56f75B2A",
+            "veloPair": "0x21950a0cA249A0ef3d182338c86c8C066B24D801",
+            "token0": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+            "token1": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "stable": true,
+            "rewards": [
+                "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    },
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                        "stable": true
+                    }
+                ]
+            ]
+        },
+        "sAMM-USDC/ERN": {
+            "vaultId": "19",
+            "vaultAddress": "0x7774BA236867c83705dd3748fCE8d994F9985F46",
+            "veloGauge": "0x50a0059A2A9FE69174B78b0182FB38725F4CB7F2",
+            "veloPair": "0x55624DC97289A19045b4739627BEaEB1E70Ab64c",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+            "stable": true,
+            "rewards": [
+                "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "0xc5b001DC33727F8F26880B184090D3E252470D45",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    }
+                ]
+            ]
+        },
+        "sAMM-USD+/DAI+": {
+            "vaultId": "20",
+            "vaultAddress": "0x0abAb518B3D57E69C3d4f9BD2Be607dC668d515c",
+            "veloGauge": "0xFc73bD75f1493f39de41ff41C20AF69C7563F33a",
+            "veloPair": "0x69C28d5BbE392eF48C0dC347C575023dAf0CD243",
+            "token0": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+            "token1": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
+            "stable": true,
+            "rewards": [
+                "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    },
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "stable": true
+                    }
+                ]
+            ]
+        },
+        "sAMM-FRAX/DOLA": {
+            "vaultId": "21",
+            "vaultAddress": "0x5df1Ca4a50551fe1434833bDc5DA89B30c184d70",
+            "veloGauge": "0xa4a9EC4ceEEF2317c016645E1E00f50b12821296",
+            "veloPair": "0xD29DE64c1a9Dd3e829A7345BE1E9c32a9414541f",
+            "token0": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+            "token1": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+            "stable": true,
+            "rewards": [
+                "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+                "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    },
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                        "stable": true
+                    }
+                ]
+            ]
+        },
+        "sAMM-USDC/BOB": {
+            "vaultId": "22",
+            "vaultAddress": "0xB7f4b4BE58556f444f2b53923ebB198cF042dA8e",
+            "veloGauge": "0xb702e9E5B407D8A8741Cb3b2d579cd683114fA94",
+            "veloPair": "0x0A8f50D8a22e2a36f46F3931a3086E6662B48Bf5",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+            "stable": true,
+            "rewards": [
+                "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    }
+                ]
+            ]
+        },
+        "sAMM-FRAX/USD+": {
+            "vaultId": "23",
+            "vaultAddress": "0xF1Ba27b9F161A56A4F9790e4e7908D2EcE30070D",
+            "veloGauge": "0xAe95F97c4b189144D0323b424121e2c94b823906",
+            "veloPair": "0x947A96B025C70497DbC0D095D966f3B59a675a70",
+            "token0": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+            "token1": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+            "stable": true,
+            "rewards": [
+                "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+                "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    },
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "stable": true
+                    }
+                ]
+            ]
+        },
+        "vAMM-THALES/WETH": {
+            "vaultId": "24",
+            "vaultAddress": "0x5A87368BFe68F9ac8a4D48cC9017e3F37C575cB8",
+            "veloGauge": "0xe9111e0D7BBb5a06F908AaCd7398266e39F49c5f",
+            "veloPair": "0x6Fe429de4284B7625CAC1FCaACFa1D705ac9ec28",
+            "token0": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+            "token1": "0x4200000000000000000000000000000000000006",
+            "stable": false,
+            "rewards": [
+                "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+                "0x4200000000000000000000000000000000000006",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    },
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x4200000000000000000000000000000000000006",
+                        "stable": false
+                    }
+                ]
+            ]
+        },
+        "vAMM-THALES/USDC": {
+            "vaultId": "25",
+            "vaultAddress": "0x55B8E2ACe238bd9442915A3fda58F849256cb8d5",
+            "veloGauge": "0x055EE7DDc298Dca46172a7A9A43E28b76C17Ad26",
+            "veloPair": "0x9355292f66552ea5717B274d27EEFc8254011d83",
+            "token0": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+            "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": false,
+            "rewards": [
+                "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+                "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    }
+                ]
+            ]
+        },
+        "vAMM-OP/DHT": {
+            "vaultId": "26",
+            "vaultAddress": "0xBbD6cf5825F437Bc611611c72Cb4D335899c6974",
+            "veloGauge": "0x8C339Cd8E99cDd2fE691d4Fc1feECf78187D6B63",
+            "veloPair": "0x827ecD158b76f63010e8F129b19fE64A85E97e95",
+            "token0": "0x4200000000000000000000000000000000000042",
+            "token1": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+            "stable": false,
+            "rewards": [
+                "0x4200000000000000000000000000000000000042",
+                "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x4200000000000000000000000000000000000042",
+                        "stable": false
+                    }
+                ]
+            ]
+        },
+        "sAMM-CHI/DAI": {
+            "vaultId": "27",
+            "vaultAddress": "0x1A5CD279B1378baDD644533554554aA2f702dAE0",
+            "veloGauge": "0xAeFCde87FDc53D473FD1011f66D66e105b2169F7",
+            "veloPair": "0x123624D23fb30B5A92c0c95b1a46A342A0aA1454",
+            "token0": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+            "token1": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "stable": true,
+            "rewards": [
+                "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+                "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+                "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05"
+            ],
+            "routes": [
+                [],
+                [],
+                [
+                    {
+                        "from": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    },
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+                        "stable": true
+                    }
+                ]
+            ]
         }
     }
 }

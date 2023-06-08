@@ -85,43 +85,112 @@
             "ReserveId": "10",
             "underlyingToken": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
             "eTokenAddress": "0x0B74e5333003EB22FC70a5e7ad3419Ecea2Bf586",
-            "stakingAddress": "0x7A883e7752f20f98869E3Ea7E29E0f2478CD34a2"
+            "stakingAddress": "0x7A883e7752f20f98869E3Ea7E29E0f2478CD34a2",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ]
         },
         "MAI-0": {
             "ReserveId": "11",
             "underlyingToken": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
             "eTokenAddress": "0x2EA3f5CfD52CD44404b12957Ed4aAabF81986528",
-            "stakingAddress": "0x0e30e5C9aF804A026424987C30ba6d8CCea06697"
+            "stakingAddress": "0x0e30e5C9aF804A026424987C30ba6d8CCea06697",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ]
         },
         "wstETH-0": {
             "ReserveId": "12",
             "underlyingToken": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
             "eTokenAddress": "0x1Edf5941F5e52a811DBf5823B497C92a2691d1a4",
-            "stakingAddress": "0x79a5a9e97Dc8f4a1c2370E1049dB960275431793"
+            "stakingAddress": "0x79a5a9e97Dc8f4a1c2370E1049dB960275431793",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ]
         },
         "SONNE-0": {
             "ReserveId": "13",
             "underlyingToken": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
             "eTokenAddress": "0x109de84eACa1f5EC3ab694F8cEDC7b35224757Ab",
-            "stakingAddress": "0xcE205b12b7106c56D81b9320b95c23DA5d8773a5"
+            "stakingAddress": "0xcE205b12b7106c56D81b9320b95c23DA5d8773a5",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ]
         },
         "LYRA-0": {
             "ReserveId": "14",
             "underlyingToken": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
             "eTokenAddress": "0x8F7bA7579cf3Af0f1D378A38758a4857fDD2F082",
-            "stakingAddress": "0x9B767FEB01525EA8F304a65d4483251cF18835b7"
+            "stakingAddress": "0x9B767FEB01525EA8F304a65d4483251cF18835b7",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ]
         },
         "KWENTA-0": {
             "ReserveId": "15",
             "underlyingToken": "0x920Cf626a271321C151D027030D5d08aF699456b",
             "eTokenAddress": "0xA113DFe4Ba446e6Da671D87F6F8A8832b61FC2F7",
-            "stakingAddress": "0x94e5DEBA1eDbf9B2CC38d4E3AA587326d4709E41"
+            "stakingAddress": "0x94e5DEBA1eDbf9B2CC38d4E3AA587326d4709E41",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ]
         },
         "wUSDR-0": {
             "ReserveId": "16",
             "underlyingToken": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
             "eTokenAddress": "0xe3796C7B538E9F3E5F5b4D494f9A0d30834B6e8d",
-            "stakingAddress": "0xD51f35915E9779e9d8D77B3a65e14C433E8Ffc5B"
+            "stakingAddress": "0xD51f35915E9779e9d8D77B3a65e14C433E8Ffc5B",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ]
+        },
+        "DHT-0": {
+            "ReserveId": "17",
+            "underlyingToken": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+            "eTokenAddress": "0xdd70345BFF51e46406F255ce7442E7fCc2ab74c5",
+            "stakingAddress": "0x124643e130171850f2b32861F7E9555F2C062E37"
+        },
+        "THALES-0": {
+            "ReserveId": "18",
+            "underlyingToken": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+            "eTokenAddress": "0xAEe6ab92498869CCaF0b527E1c8d90ccB3fe1A78",
+            "stakingAddress": "0xC1A0b7ca1A0A4Db2731f724e6C609401DD6667C9"
+        },
+        "BOB-0": {
+            "ReserveId": "19",
+            "underlyingToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+            "eTokenAddress": "0xae2F35AcE13b1939Ff33AE05f90Aa295946cE9Ea",
+            "stakingAddress": "0x744549E841E1283Ff3f3A8C03d1d9253f22343c4"
+        },
+        "FRAX-0": {
+            "ReserveId": "20",
+            "underlyingToken": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+            "eTokenAddress": "0xb42e5B53c54be130BfE61134d32522443f390D0F",
+            "stakingAddress": "0x70A638c0b1393Cdb7b5A2E7907e787501A2dc191"
+        },
+        "DAI+-0": {
+            "ReserveId": "21",
+            "underlyingToken": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
+            "eTokenAddress": "0x92FdADF23af38cbB8149F4570Ce276e6a77c5e05",
+            "stakingAddress": "0xF1CEb1805800cdf247390Ad4c0e10A4F7B0C8DC9"
+        },
+        "ERN-0": {
+            "ReserveId": "22",
+            "underlyingToken": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+            "eTokenAddress": "0x76A6C9fDD95FF713E5849856EccA6FE50cABC508",
+            "stakingAddress": "0xCCbd9EA3cbb7CF97D3Ef13AB07ac8d53Da7c9B97"
+        },
+        "CHI-0": {
+            "ReserveId": "23",
+            "underlyingToken": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+            "eTokenAddress": "0xBE5730CbC6f401EE4E0Af894f85dBc9453bdB35c",
+            "stakingAddress": "0x4DB1Cb2589f2a9d3d9C6a8C50900bB2E583048Fd"
+        },
+        "DAI-0": {
+            "ReserveId": "24",
+            "underlyingToken": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "eTokenAddress": "0x796836229a75c5cb230CD1FAE4EDBC1dA6EE18D8",
+            "stakingAddress": "0x93d4172b50E82f0fa1C8026782c0ed8Ff39513AF"
         }
     }
 }
