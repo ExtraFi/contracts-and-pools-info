@@ -191,6 +191,66 @@
             "underlyingToken": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
             "eTokenAddress": "0x796836229a75c5cb230CD1FAE4EDBC1dA6EE18D8",
             "stakingAddress": "0x93d4172b50E82f0fa1C8026782c0ed8Ff39513AF"
+        },
+        "USDC-STABLE": {
+            "ReserveId": "25",
+            "underlyingToken": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "eTokenAddress": "0x40Bc6dA651F9cbDCbFa886d2ae4135D18a8369f0",
+            "stakingAddress": "0xE61662C09c30E1F3f3CbAeb9BC1F13838Ed18957"
+        },
+        "DAI-STABLE": {
+            "ReserveId": "26",
+            "underlyingToken": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "eTokenAddress": "0xC2fF72eD93dbDd869472B7262ef01aECddc8C0f3",
+            "stakingAddress": "0x370b6D72dE289eD1779f3B770d8dAc6D290b69F8"
+        },
+        "DOLA-STABLE": {
+            "ReserveId": "27",
+            "underlyingToken": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+            "eTokenAddress": "0x74D66197537990b1BFc5F42930607E30fcc7a920",
+            "stakingAddress": "0x68484DFc807384F235578daB996D3D5028fB9D9C"
+        },
+        "FRAX-STABLE": {
+            "ReserveId": "28",
+            "underlyingToken": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+            "eTokenAddress": "0x6BFFFEfECAE3B5dD8C91F4149E0E1987e728Eef2",
+            "stakingAddress": "0x9138A810947422CFA4f82FF14a57890f0D2BBbb3"
+        },
+        "BOB-STABLE": {
+            "ReserveId": "29",
+            "underlyingToken": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+            "eTokenAddress": "0xb6dD8c69B8C668148480a0Ee5aDAB33aBF4C3644",
+            "stakingAddress": "0x4940A3F9DB30E83A4a4F49BEc7473eb525607060"
+        },
+        "MAI-STABLE": {
+            "ReserveId": "30",
+            "underlyingToken": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+            "eTokenAddress": "0x0f2474683A8F25D0260c5Bf12B67810626D4b91A",
+            "stakingAddress": "0xaF95ab5105b544840a5d449329e932373f878E8e"
+        },
+        "USX-STABLE": {
+            "ReserveId": "31",
+            "underlyingToken": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+            "eTokenAddress": "0x5B86df89811CEA487Cf5C6215f9a05bd482D8E30",
+            "stakingAddress": "0x2Bed5aC2B27f24cdb2A727914139EE1e888f818D"
+        },
+        "ERN-STABLE": {
+            "ReserveId": "32",
+            "underlyingToken": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+            "eTokenAddress": "0x1A5efd6d4B62F3BdEd1BD1275b5105732C5f2EBC",
+            "stakingAddress": "0x08b8B3b3F17F9E6Ac6cd8167C66F125Ea2033A8c"
+        },
+        "CHI-STABLE": {
+            "ReserveId": "33",
+            "underlyingToken": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+            "eTokenAddress": "0x130Da04D78Abc3D782419114FEEB66df677e21D1",
+            "stakingAddress": "0xedf1a687Fc62C2335EE3338cda10CFe2204Aea53"
+        },
+        "wUSDR-STABLE": {
+            "ReserveId": "34",
+            "underlyingToken": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+            "eTokenAddress": "0xE6Ef77179B740F6597C402842Ed6bc3959Ea440C",
+            "stakingAddress": "0xae3C0Cc859358Dc90bd2B02b25B7a2EC39C61175"
         }
     }
 }

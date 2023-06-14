@@ -9,7 +9,7 @@
         "StakingRewardsDeployer": "0xcEFa665165281B7a9807BDCd4d7Ac54a54Ca1e13",
         "LendingPoolContractAddress": "0xBB505c54D71E9e599cB8435b4F0cEEc05fC71cbD",
         "VaultFactory": "0x155620A2E6A9392c754B73296d9655061525729B",
-        "SwapPathManager": "0xAC9E42209038bcA0B2B026906De97a032400F2b4",
+        "SwapPathManager": "0x73C3C06A2e1e5eB3d24f2AE021a1aF8E0DD2B5bD",
         "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
         "VaultInitializerLib": "0x7FD13C20EebA7A3776EbC422CEF7c8752D40766f",
         "VaultPositionLogicLib": "0xA4dd7Df0A13743508217941D2b155B5B32DF7045",
