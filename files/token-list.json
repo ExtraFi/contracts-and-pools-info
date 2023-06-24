@@ -1,5 +1,10 @@
 {
     "optimism": {
+        "VELOV2": {
+            "name": "VELOV2",
+            "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+            "decimals": 18
+        },
         "DHT": {
             "name": "DHT",
             "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",

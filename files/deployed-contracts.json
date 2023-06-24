@@ -2,6 +2,8 @@
     "optimism": {
         "VeloFactory": "0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746",
         "VeloRouter": "0x9c12939390052919aF3155f41Bf4160Fd3666A6f",
+        "VeloFactoryV2": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
+        "VeloRouterV2": "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858",
         "AddressRegistry": "0x85603119C938750Dfb5904f8a501b64F3F3A01D2",
         "VeTokenAddress": "0xe0BeC4F45aEF64CeC9dCB9010d4beFfB13e91466",
         "ReserveLogicLibraryAddress": "0xEc120bC6e12Cea127553B1f53445947B1f73A132",

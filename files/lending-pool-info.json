@@ -251,6 +251,24 @@
             "underlyingToken": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
             "eTokenAddress": "0xE6Ef77179B740F6597C402842Ed6bc3959Ea440C",
             "stakingAddress": "0xae3C0Cc859358Dc90bd2B02b25B7a2EC39C61175"
+        },
+        "VELOV2-0": {
+            "ReserveId": "35",
+            "underlyingToken": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+            "eTokenAddress": "0xC89Bddb6E5aada6Ef9e15eeA77E9C5e0dB9dAe5D",
+            "stakingAddress": "0x78D49Baa0FaE8CfB1CA2e51B2eA5C03fDdDFa4D5"
+        },
+        "WETH-STABLE": {
+            "ReserveId": "36",
+            "underlyingToken": "0x4200000000000000000000000000000000000006",
+            "eTokenAddress": "0x919db75700945210EB5C7e25ccD3637f376d47F2",
+            "stakingAddress": "0x5DC1a8Fa98508e342FA8CFf0c49ab57138d53337"
+        },
+        "frxETH-STABLE": {
+            "ReserveId": "37",
+            "underlyingToken": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+            "eTokenAddress": "0x3B13673E10739490f844Bf13A0640826bAa92439",
+            "stakingAddress": "0xB2fd1724Ef2d03E4816EDCe649Cd37ff2d1c280e"
         }
     }
 }
