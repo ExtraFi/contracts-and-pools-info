@@ -1,5 +1,15 @@
 {
     "optimism": {
+        "msETH": {
+            "name": "msETH",
+            "address": "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5",
+            "decimals": 18
+        },
+        "alETH": {
+            "name": "alETH",
+            "address": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+            "decimals": 18
+        },
         "VELOV2": {
             "name": "VELOV2",
             "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",

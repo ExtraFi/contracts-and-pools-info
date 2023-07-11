@@ -306,6 +306,27 @@
             "eTokenAddress": "0x3B13673E10739490f844Bf13A0640826bAa92439",
             "stakingAddress": "0xB2fd1724Ef2d03E4816EDCe649Cd37ff2d1c280e",
             "interestModel": "MODEL-STABLE"
+        },
+        "EXTRA-0": {
+            "ReserveId": "38",
+            "underlyingToken": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+            "eTokenAddress": "0x0b95c6c227ff0181e63b7c7c26b4b16f8fc05ad9",
+            "stakingAddress": "0x17de1ee6c44394b3dce6cb6f939ded673681264c",
+            "interestModel": "MODEL-2"
+        },
+        "msETH-STABLE": {
+            "ReserveId": "39",
+            "underlyingToken": "0x1610e3c85dd44af31ed7f33a63642012dca0c5a5",
+            "eTokenAddress": "0x527eceb2ff4c4dacc014c78b7fac53e8332642bd",
+            "stakingAddress": "0x7405071c69dd4ebd5803a18efccbe1cf51d1171b",
+            "interestModel": "MODEL-STABLE"
+        },
+        "alETH-STABLE": {
+            "ReserveId": "40",
+            "underlyingToken": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
+            "eTokenAddress": "0xc0808dfe029501c9626a1c595a227803b17632e4",
+            "stakingAddress": "0x265348e6fe7a4c2b5d1d3c7dd45aa145a30ee2fb",
+            "interestModel": "MODEL-STABLE"
         }
     }
 }
