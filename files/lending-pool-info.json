@@ -327,6 +327,48 @@
             "eTokenAddress": "0xc0808dfe029501c9626a1c595a227803b17632e4",
             "stakingAddress": "0x265348e6fe7a4c2b5d1d3c7dd45aa145a30ee2fb",
             "interestModel": "MODEL-STABLE"
+        },
+        "USDT-STABLE": {
+            "ReserveId": "41",
+            "underlyingToken": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+            "eTokenAddress": "0x55177d870ade3841a40e0298546a2ac2f090e4ba",
+            "stakingAddress": "0xf3b236b21033702d37a44ce7289122f2b8ebf6b0",
+            "interestModel": "MODEL-STABLE"
+        },
+        "rETH-STABLE": {
+            "ReserveId": "42",
+            "underlyingToken": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+            "eTokenAddress": "0x0ffe5c36d94faaa2474bacfefa2ee30658307358",
+            "stakingAddress": "0x9bb7512d04d00b1128c237ab41a3c0cac2a9ab30",
+            "interestModel": "MODEL-STABLE"
+        },
+        "sUSD-STABLE": {
+            "ReserveId": "43",
+            "underlyingToken": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+            "eTokenAddress": "0x2ce8f6c1135d5b7f04594ab36705458297119db3",
+            "stakingAddress": "0xf4bc7a2aff9e9446d213599136507b8983b52279",
+            "interestModel": "MODEL-STABLE"
+        },
+        "alUSD-STABLE": {
+            "ReserveId": "44",
+            "underlyingToken": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
+            "eTokenAddress": "0x7502a6726c55e8dc662aa8f2ec4df0fbeff3cefd",
+            "stakingAddress": "0xf510c4ee0f5060f384865761b2452ef0d2e5821e",
+            "interestModel": "MODEL-STABLE"
+        },
+        "wBTC-STABLE": {
+            "ReserveId": "45",
+            "underlyingToken": "0x68f180fcce6836688e9084f035309e29bf0a2095",
+            "eTokenAddress": "0x2e82b12e39bfb74d7a52339812c5b55b2457eb5d",
+            "stakingAddress": "0xbabfd91aabee9586cd3c2752ed945aeb9b5f4b95",
+            "interestModel": "MODEL-STABLE"
+        },
+        "tBTC-STABLE": {
+            "ReserveId": "46",
+            "underlyingToken": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+            "eTokenAddress": "0x376a16d7cdf18fa9ce554d29f5fd8a64152e6db6",
+            "stakingAddress": "0x1727dfea5282f3b934c960566badbc8c6dd0f53d",
+            "interestModel": "MODEL-STABLE"
         }
     }
 }

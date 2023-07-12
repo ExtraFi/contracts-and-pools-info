@@ -1,5 +1,30 @@
 {
     "optimism": {
+        "tBTC": {
+            "name": "tBTC",
+            "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+            "decimals": 18
+        },
+        "wBTC": {
+            "name": "wBTC",
+            "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+            "decimals": 8
+        },
+        "alUSD": {
+            "name": "alUSD",
+            "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+            "decimals": 18
+        },
+        "rETH": {
+            "name": "rETH",
+            "address": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+            "decimals": 18
+        },
+        "USDT": {
+            "name": "USDT",
+            "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "decimals": 6
+        },
         "msETH": {
             "name": "msETH",
             "address": "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5",

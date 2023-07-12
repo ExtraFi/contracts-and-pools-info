@@ -741,6 +741,78 @@
                     }
                 ]
             ]
+        },
+        "sAMMV2-USD+/USDC": {
+            "vaultVersion": "1",
+            "vaultId": "64",
+            "vaultAddress": "0x8D541094C6a4cE2fc5BA5D67cfdc58E0551acC51",
+            "borrowingReserveId0": "9",
+            "borrowingReserveId1": "25",
+            "veloGauge": "0xC263655114CdE848C73B899846FE7A2D219c10a8",
+            "veloPair": "0xd95E98fc33670dC033424E7Aa0578D742D00f9C7",
+            "token0": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+            "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "routes": [
+                [
+                    {
+                        "from": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    }
+                ]
+            ]
+        },
+        "sAMMV2-USDC/USDT": {
+            "vaultVersion": "1",
+            "vaultId": "65",
+            "vaultAddress": "0x89497E2869ad74E4A329C4a59fC053Aaf9DD093E",
+            "borrowingReserveId0": "25",
+            "borrowingReserveId1": "41",
+            "veloGauge": "0xa2f27d183A4E409c734367712f9344328f8EC98D",
+            "veloPair": "0x2B47C794c3789f499D8A54Ec12f949EeCCE8bA16",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "routes": [
+                [
+                    {
+                        "from": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false
+                    }
+                ]
+            ]
+        },
+        "vAMMV2-FRAX/OP": {
+            "vaultVersion": "1",
+            "vaultId": "66",
+            "vaultAddress": "0x45F2342b2e5D230f63fC4F6e8C62C48A7607A509",
+            "borrowingReserveId0": "20",
+            "borrowingReserveId1": "4",
+            "veloGauge": "0x0B09767bA62084Ad6db640D9fC7e5e9BADaA1BbE",
+            "veloPair": "0xe9b168fa9409EaFFa07679196c7568317baf80eD",
+            "token0": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+            "token1": "0x4200000000000000000000000000000000000042",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "routes": [
+                [
+                    {
+                        "from": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+                        "to": "0x4200000000000000000000000000000000000042",
+                        "stable": false
+                    }
+                ]
+            ]
         }
     }
 }
