@@ -813,6 +813,51 @@
                     }
                 ]
             ]
+        },
+        "vAMMV2-USDC/BLU": {
+            "vaultVersion": "1",
+            "vaultId": "67",
+            "vaultAddress": "0x5cFF6A661f68c690F73E52f92735E67c0D3E5218",
+            "borrowingReserveId0": "2",
+            "borrowingReserveId1": "48",
+            "veloGauge": "0x8166f06D50a65F82850878c951fcA29Af5Ea7Db2",
+            "veloPair": "0x615B9dd61f1F9a80f5bcD33A53Eb79c37b20adDC",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-RED/VELO": {
+            "vaultVersion": "1",
+            "vaultId": "68",
+            "vaultAddress": "0xbd06595789a5b202ad8e138faf4f82642f6fd8c1",
+            "borrowingReserveId0": "47",
+            "borrowingReserveId1": "35",
+            "veloGauge": "0xeC9df85F362D3EBc4b9CA0eD7d7fDecF8Cfbdeb8",
+            "veloPair": "0x7A7f1187c4710010DB17d0a9ad3fcE85e6ecD90a",
+            "token0": "0x3417E54A51924C225330f8770514aD5560B9098D",
+            "token1": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-RED/OP": {
+            "vaultVersion": "1",
+            "vaultId": "69",
+            "vaultAddress": "0xEAFcd0ED384E7bAc4B35d79ba9e3C7f269d8da50",
+            "borrowingReserveId0": "47",
+            "borrowingReserveId1": "4",
+            "veloGauge": "0x261725c82e93b4Ce6892e42C5b06501a3db36046",
+            "veloPair": "0x4E316557f63C2156eAFdfec08f31DF4957136203",
+            "token0": "0x3417E54A51924C225330f8770514aD5560B9098D",
+            "token1": "0x4200000000000000000000000000000000000042",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
         }
     }
 }

@@ -1,5 +1,15 @@
 {
     "optimism": {
+        "BLU": {
+            "name": "BLU",
+            "address": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+            "decimals": 18
+        },
+        "RED": {
+            "name": "RED",
+            "address": "0x3417E54A51924C225330f8770514aD5560B9098D",
+            "decimals": 18
+        },
         "tBTC": {
             "name": "tBTC",
             "address": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
