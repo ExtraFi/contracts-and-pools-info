@@ -858,6 +858,36 @@
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
+        },
+        "vAMMV2-EXA/WETH": {
+            "vaultVersion": "1",
+            "vaultId": "70",
+            "vaultAddress": "0x9558FF42E95dcA076A8DEB67c8FF8B86f52b2f8C",
+            "borrowingReserveId0": "50",
+            "borrowingReserveId1": "1",
+            "veloGauge": "0x76ec1eF8c0F72ccdFbB661664C6cB0Ac187D2fB5",
+            "veloPair": "0xf3C45b45223Df6071a478851B9C17e0630fDf535",
+            "token0": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
+            "token1": "0x4200000000000000000000000000000000000006",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-WETH/WLD": {
+            "vaultVersion": "1",
+            "vaultId": "71",
+            "vaultAddress": "0x8E530113638f74Fe8008Df7bc0b9aB848a51ffaa",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "49",
+            "veloGauge": "0xb91F873D3fed53B21ac348Ee86DEaf924D1f3818",
+            "veloPair": "0xe188C32a2aa8e65f9AB141f5E96F8FA96b1b7757",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
         }
     }
 }

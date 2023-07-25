@@ -42,6 +42,11 @@
             "0x920Cf626a271321C151D027030D5d08aF699456b": [
                 {
                     "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000006",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000006",
                     "to": "0x920Cf626a271321C151D027030D5d08aF699456b",
                     "stable": false
                 }
@@ -159,6 +164,11 @@
             "0x2E3D870790dC77A83DD1d18184Acc7439A53f475": [
                 {
                     "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                    "stable": true
+                },
+                {
+                    "from": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
                     "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
                     "stable": true
                 }
@@ -166,6 +176,11 @@
             "0x970D50d09F3a656b43E11B0D45241a84e3a6e011": [
                 {
                     "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                    "stable": true
+                },
+                {
+                    "from": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
                     "to": "0x970D50d09F3a656b43E11B0D45241a84e3a6e011",
                     "stable": true
                 }
@@ -180,6 +195,11 @@
             "0xCa0E54b636DB823847B29F506BFFEE743F57729D": [
                 {
                     "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+                    "stable": true
+                },
+                {
+                    "from": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
                     "to": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
                     "stable": true
                 }
@@ -189,6 +209,106 @@
                     "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                     "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
                     "stable": false
+                }
+            ],
+            "0x3E29D3A9316dAB217754d13b28646B76607c5f04": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000006",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000006",
+                    "to": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+                    "stable": true
+                }
+            ],
+            "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000006",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000006",
+                    "to": "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5",
+                    "stable": true
+                }
+            ],
+            "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+                    "stable": true
+                }
+            ],
+            "0x2dAD3a13ef0C6366220f989157009e501e7938F8": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+                    "stable": false
+                }
+            ],
+            "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000006",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000006",
+                    "to": "0x9Bcef72be871e61ED4fBbc7630889beE758eb81D",
+                    "stable": false
+                }
+            ],
+            "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+                    "stable": false
+                }
+            ],
+            "0x3417E54A51924C225330f8770514aD5560B9098D": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                    "stable": false
+                },
+                {
+                    "from": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                    "to": "0x3417E54A51924C225330f8770514aD5560B9098D",
+                    "stable": false
+                }
+            ],
+            "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000006",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000006",
+                    "to": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
+                    "stable": false
+                }
+            ],
+            "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000006",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000006",
+                    "to": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+                    "stable": false
+                }
+            ],
+            "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+                    "stable": true
                 }
             ]
         }

@@ -1,5 +1,15 @@
 {
     "optimism": {
+        "WLD": {
+            "name": "WLD",
+            "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+            "decimals": 18
+        },
+        "EXA": {
+            "name": "EXA",
+            "address": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
+            "decimals": 18
+        },
         "BLU": {
             "name": "BLU",
             "address": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
