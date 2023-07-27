@@ -888,6 +888,96 @@
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
+        },
+        "sAMMV2-USDC/sUSD": {
+            "vaultVersion": "1",
+            "vaultId": "72",
+            "vaultAddress": "0xD977D070c0Ab89163a7dd90db87c263994983bD3",
+            "borrowingReserveId0": "25",
+            "borrowingReserveId1": "43",
+            "veloGauge": "0x55a272304456355242F6690863B5c8D5c512fF71",
+            "veloPair": "0x6d5BA400640226e24b50214d2bBb3D4Db8e6e15a",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "sAMMV2-USDC/alUSD": {
+            "vaultVersion": "1",
+            "vaultId": "73",
+            "vaultAddress": "0x16d8B7a90651CCac527bF178CEaC6D5780CE3B50",
+            "borrowingReserveId0": "25",
+            "borrowingReserveId1": "44",
+            "veloGauge": "0x172a58D5E8c11Ee554B09D924D5e2c3aFADd44C0",
+            "veloPair": "0x4d7959d17B9710BE87e3657e69d946914221BB88",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "sAMMV2-LUSD/ERN": {
+            "vaultVersion": "1",
+            "vaultId": "74",
+            "vaultAddress": "0x3de1413989D28059779d2ff72467f6Dffb3777a4",
+            "borrowingReserveId0": "52",
+            "borrowingReserveId1": "32",
+            "veloGauge": "0xd3bad64aDfA4E442fdF21556E1f8eb7298282Ef5",
+            "veloPair": "0xF31cbe21Bbbb8056b75d6ca21e8fFd2CD38bD5C5",
+            "token0": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+            "token1": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-USDC/agEUR": {
+            "vaultVersion": "1",
+            "vaultId": "75",
+            "vaultAddress": "0x54015B124DcdCA1c6211fCf4efB57335bE4b4471",
+            "borrowingReserveId0": "2",
+            "borrowingReserveId1": "51",
+            "veloGauge": "0xBAc89e3d69A28bE4B3E436d590a7C921a6b19D81",
+            "veloPair": "0x4BE2CBE40521279b8fc561e65Bb842bf73ec3a80",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-TAROT/USDC": {
+            "vaultVersion": "1",
+            "vaultId": "76",
+            "vaultAddress": "0xF6D0D4044748d2e18c84d0fd1c8e4Fe6a6AeDE76",
+            "borrowingReserveId0": "54",
+            "borrowingReserveId1": "2",
+            "veloGauge": "0xC9FA5eFA02852D57DD13D90D8835f9378b530a03",
+            "veloPair": "0x9c78dA24F2843CCDD02085bDEc2484106554ca48",
+            "token0": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+            "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-UNIDX/WETH": {
+            "vaultVersion": "1",
+            "vaultId": "77",
+            "vaultAddress": "0xA19653176e2A88B5693F789e9209D8c81870415A",
+            "borrowingReserveId0": "53",
+            "borrowingReserveId1": "1",
+            "veloGauge": "0x31D553E63a92D5dc89FcE8c2e753ba422fAA2b93",
+            "veloPair": "0x9269F5199B01B7B7Dd38321B85c3F34EE3f28F7F",
+            "token0": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
+            "token1": "0x4200000000000000000000000000000000000006",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
         }
     }
 }

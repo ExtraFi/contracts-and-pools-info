@@ -1,5 +1,25 @@
 {
     "optimism": {
+        "UNIDX": {
+            "name": "UNIDX",
+            "address": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
+            "decimals": 18
+        },
+        "TAROT": {
+            "name": "TAROT",
+            "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+            "decimals": 18
+        },
+        "agEUR": {
+            "name": "agEUR",
+            "address": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+            "decimals": 18
+        },
+        "LUSD": {
+            "name": "LUSD",
+            "address": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+            "decimals": 18
+        },
         "WLD": {
             "name": "WLD",
             "address": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",

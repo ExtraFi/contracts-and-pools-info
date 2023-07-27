@@ -310,6 +310,39 @@
                     "to": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
                     "stable": true
                 }
+            ],
+            "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
+                    "stable": false
+                }
+            ],
+            "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+                    "stable": true
+                }
+            ],
+            "0x28b42698caf46b4b012cf38b6c75867e0762186d": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x4200000000000000000000000000000000000006",
+                    "stable": false
+                },
+                {
+                    "from": "0x4200000000000000000000000000000000000006",
+                    "to": "0x28b42698caf46b4b012cf38b6c75867e0762186d",
+                    "stable": false
+                }
+            ],
+            "0x375488f097176507e39b9653b88fdc52cde736bf": [
+                {
+                    "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                    "to": "0x375488f097176507e39b9653b88fdc52cde736bf",
+                    "stable": false
+                }
             ]
         }
     }
