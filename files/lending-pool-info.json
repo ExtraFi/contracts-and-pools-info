@@ -426,5 +426,13 @@
             "stakingAddress": "0xdfe1738ad66b7438c6eb8c1df5900a6e836fef48",
             "interestModel": "MODEL-2"
         }
+    },
+    "base": {
+        "WETH-0": {
+            "ReserveId": "1",
+            "underlyingToken": "0x4200000000000000000000000000000000000006",
+            "eTokenAddress": "0x3D2673a5a253052bF2b46EbB70da77876Cd085ac",
+            "stakingAddress": "0x5F8d42635A2fa74D03b5F91c825dE6F44c443dA5"
+        }
     }
 }

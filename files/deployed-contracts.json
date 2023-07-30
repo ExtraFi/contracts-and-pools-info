@@ -1,5 +1,7 @@
 {
     "optimism": {
+        "EXTRA_TREASURY": "0x4059e170D325163e2eC96cF8Ca489C40B6927A8c",
+        "EXTRA_GOV": "0x750f7153e6c92a24089a34eC6AFe65740C9bd40A",
         "VeloFactory": "0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746",
         "VeloRouter": "0x9c12939390052919aF3155f41Bf4160Fd3666A6f",
         "VeloFactoryV2": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
@@ -12,14 +14,55 @@
         "LendingPoolContractAddress": "0xBB505c54D71E9e599cB8435b4F0cEEc05fC71cbD",
         "VaultFactory": "0x155620A2E6A9392c754B73296d9655061525729B",
         "SwapPathManager": "0x73C3C06A2e1e5eB3d24f2AE021a1aF8E0DD2B5bD",
-        "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
-        "VaultInitializerLib": "0x7FD13C20EebA7A3776EbC422CEF7c8752D40766f",
-        "VaultPositionLogicLib": "0xA4dd7Df0A13743508217941D2b155B5B32DF7045",
-        "VaultOwnerActionsLib": "0x797DE59D04D43261A402cF3B85ed76C4Af40F5a3",
-        "VaultRewardsLogicLib": "0xF9d40a60fD6bDc866daf0918264a30acCE1DC9Cc",
+        "VaultDeployerSelectorLib": "0xdCf0f4A0FC44F33DE35D8c80Ad5D248DBF838943",
         "VaultPositionManager": "0xf9cFB8a62f50e10AdDE5Aa888B44cF01C5957055",
-        "Airdrop": "0x9A4E503F5C26239f9AEaa1001404C378783E9476",
+        "Airdrop": "0x5b414093362A7c768273D5f0405744B8c09556a8",
         "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
-        "ChainLinkOracle": "0xBEdfdA828475005Dc8E4a09Aaa34BD0b8CA807e4"
+        "ChainLinkOracle": "0xBEdfdA828475005Dc8E4a09Aaa34BD0b8CA807e4",
+        "DataProviderContract": "0x1A97E89572Fc303e4BfD4FA49d02Cd94161744DD",
+        "ExtraOftProxy": "",
+        "VaultLibraries": {
+            "0": {
+                "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
+                "VaultInitializerLib": "0x7FD13C20EebA7A3776EbC422CEF7c8752D40766f",
+                "VaultPositionLogicLib": "0x5a583Ccb69402d60BC360D691EeDb8EfdA6Fb7E5",
+                "VaultOwnerActionsLib": "0x4b677E52Be607C8f7b81e8dEC0d9711a5c7010C6",
+                "VaultRewardsLogicLib": "0xF9d40a60fD6bDc866daf0918264a30acCE1DC9Cc"
+            },
+            "1": {
+                "VaultDeployerLib": "0xa4b43b3D33f4E583194d05485c5691C0b205a75B",
+                "VaultInitializerLib": "0x9F4c4fadb66B19b687952Fe20f7659ce23ff99Ca",
+                "VaultPositionLogicLib": "0xDc15865785A57c13a4753C8318cAF4d775FFA417",
+                "VaultOwnerActionsLib": "0x2f879C47f4A89a89d69C21fA61D6705e26178511",
+                "VaultRewardsLogicLib": "0x360b864a59240eEbDa0f1a9B2534Ea96ED591B53"
+            }
+        }
+    },
+    "base": {
+        "EXTRA_TREASURY": "0xF3B58e1e8D52BA0c7D883Bc9A722720469C54f06",
+        "EXTRA_GOV": "0xF3B58e1e8D52BA0c7D883Bc9A722720469C54f06",
+        "VeloFactoryV2": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
+        "VeloRouterV2": "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858",
+        "AddressRegistry": "0x85603119C938750Dfb5904f8a501b64F3F3A01D2",
+        "ReserveLogicLibraryAddress": "0xEc120bC6e12Cea127553B1f53445947B1f73A132",
+        "ETokenDeployerAddress": "0xeccE0f5E758D01C142ebD5Ed2565038E4c0EDd80",
+        "StakingRewardsDeployer": "0xcEFa665165281B7a9807BDCd4d7Ac54a54Ca1e13",
+        "LendingPoolContractAddress": "0xBB505c54D71E9e599cB8435b4F0cEEc05fC71cbD",
+        "VaultFactory": "0x155620A2E6A9392c754B73296d9655061525729B",
+        "VaultDeployerSelectorLib": "0xAC9E42209038bcA0B2B026906De97a032400F2b4",
+        "VaultPositionManager": "0xf9cFB8a62f50e10AdDE5Aa888B44cF01C5957055",
+        "VeTokenAddress": "0xe0BeC4F45aEF64CeC9dCB9010d4beFfB13e91466",
+        "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
+        "SwapPathManager": "0xd625DAe03CC3E7A3aEFFF3Da25FBB94CD8150792",
+        "ChainLinkOracle": "0x93D09944B4b520289BeAAac646673095ca0fb1c4",
+        "VaultLibraries": {
+            "1": {
+                "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
+                "VaultInitializerLib": "0x47efC0Fe6a096c98D7e022daed2309aa9286DFef",
+                "VaultPositionLogicLib": "0x4F4940a87d63A290d43B6550911896fF7AEe354C",
+                "VaultOwnerActionsLib": "0x3AFCb1Ab1A78ECDD075647566258561acbeC01D5",
+                "VaultRewardsLogicLib": "0xF9d40a60fD6bDc866daf0918264a30acCE1DC9Cc"
+            }
+        }
     }
 }

@@ -210,5 +210,17 @@
             "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
             "decimals": 18
         }
+    },
+    "base": {
+        "WETH": {
+            "name": "WETH",
+            "address": "0x4200000000000000000000000000000000000006",
+            "decimals": 18
+        },
+        "OP": {
+            "name": "OP",
+            "address": "0x4200000000000000000000000000000000000042",
+            "decimals": 18
+        }
     }
 }
