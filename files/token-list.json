@@ -1,13 +1,33 @@
 {
     "optimism": {
-        "UNIDX": {
-            "name": "UNIDX",
-            "address": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
+        "wUSDRV3": {
+            "name": "wUSDRV3",
+            "address": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
+            "decimals": 18
+        },
+        "wUSDR": {
+            "name": "wUSDR",
+            "address": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
+            "decimals": 18
+        },
+        "TAROTV2": {
+            "name": "TAROT",
+            "address": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
             "decimals": 18
         },
         "TAROT": {
             "name": "TAROT",
+            "address": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
+            "decimals": 18
+        },
+        "TAROTV1": {
+            "name": "TAROTV1",
             "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+            "decimals": 18
+        },
+        "UNIDX": {
+            "name": "UNIDX",
+            "address": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
             "decimals": 18
         },
         "agEUR": {
@@ -115,8 +135,8 @@
             "address": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
             "decimals": 18
         },
-        "wUSDR": {
-            "name": "wUSDR",
+        "wUSDRV2": {
+            "name": "wUSDRV2",
             "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
             "decimals": 9
         },

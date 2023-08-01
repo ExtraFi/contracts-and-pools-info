@@ -150,7 +150,7 @@
             ],
             "interestModel": "MODEL-2"
         },
-        "wUSDR-0": {
+        "wUSDRV2-0": {
             "ReserveId": "16",
             "underlyingToken": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
             "eTokenAddress": "0xe3796C7B538E9F3E5F5b4D494f9A0d30834B6e8d",
@@ -419,11 +419,32 @@
             "stakingAddress": "0x1a6cb72ba9ad6cf0855d5b497e8e1485a3b3fe39",
             "interestModel": "MODEL-2"
         },
-        "TAROT-0": {
+        "TAROTV1-0": {
             "ReserveId": "54",
             "underlyingToken": "0x375488f097176507e39b9653b88fdc52cde736bf",
             "eTokenAddress": "0x12d422f51c4556dbc34b39438270eb5f2672927b",
             "stakingAddress": "0xdfe1738ad66b7438c6eb8c1df5900a6e836fef48",
+            "interestModel": "MODEL-2"
+        },
+        "tBTC-0": {
+            "ReserveId": "55",
+            "underlyingToken": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+            "eTokenAddress": "0x56c1d73821dbbad40b5f9112e903233dcf962d71",
+            "stakingAddress": "0x6521811caa47ff31ab91cc673089b17dda37d67f",
+            "interestModel": "MODEL-2"
+        },
+        "TAROT-0": {
+            "ReserveId": "56",
+            "underlyingToken": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
+            "eTokenAddress": "0xade8ec1176aa0628152fd3e99ea861fade4f56db",
+            "stakingAddress": "0x68284b04ecf060d22c4b82fadbf42e9fd2e3678e",
+            "interestModel": "MODEL-2"
+        },
+        "wUSDR-0": {
+            "ReserveId": "57",
+            "underlyingToken": "0xc03b43d492d904406db2d7d57e67c7e8234ba752",
+            "eTokenAddress": "0x6a6cf0d9293614760581777c3eb7e1859406cc30",
+            "stakingAddress": "0x7faf7f0d9475a167b5b46ac078e2642fc2d3d04f",
             "interestModel": "MODEL-2"
         }
     },
