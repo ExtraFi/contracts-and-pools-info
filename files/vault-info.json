@@ -1039,6 +1039,21 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
+        "vAMMV2-USDC/wUSDR": {
+            "vaultVersion": "1",
+            "vaultId": "82",
+            "vaultAddress": "0x5f88d6f7bed0538ca825404baf20c846b4073e5d",
+            "borrowingReserveId0": "2",
+            "borrowingReserveId1": "57",
+            "veloGauge": "0x5B97B8a28bD16E3a46E2baF85a25d946f2bc36CD",
+            "veloPair": "0x95a05D06Decf8e1Eb93aE09B612FbD342F2F9E2E",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
         "vAMMV2-GNode/USDC": {
             "vaultVersion": "1",
             "vaultId": "83",
