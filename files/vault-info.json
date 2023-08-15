@@ -1038,6 +1038,21 @@
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
+        },
+        "vAMMV2-GNode/USDC": {
+            "vaultVersion": "1",
+            "vaultId": "83",
+            "vaultAddress": "0xF68FC9a9a7D1118B0b54fEd80F2c335b802B1167",
+            "borrowingReserveId0": "58",
+            "borrowingReserveId1": "2",
+            "veloGauge": "0x34632B0B9F8f8E5c911aB2679d38fD4aD08C59C9",
+            "veloPair": "0x5954E5B20260c0CDD35c93bbDa98D1F2C5abecAF",
+            "token0": "0x5976d4c3bcFc1c5f90aB1419D7f3dDF109cEA35a",
+            "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
         }
     }
 }
