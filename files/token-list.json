@@ -1,5 +1,20 @@
 {
     "optimism": {
+        "fBOMB": {
+            "name": "fBOMB",
+            "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+            "decimals": 18
+        },
+        "PERP": {
+            "name": "PERP",
+            "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+            "decimals": 18
+        },
+        "MTA": {
+            "name": "MTA",
+            "address": "0x929B939f8524c3Be977af57A4A0aD3fb1E374b50",
+            "decimals": 18
+        },
         "GNode": {
             "name": "GNode",
             "address": "0x5976d4c3bcFc1c5f90aB1419D7f3dDF109cEA35a",

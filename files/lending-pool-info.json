@@ -453,6 +453,34 @@
             "eTokenAddress": "0xd86a4354c53f7486b0f69e4a9e361dad57fb7540",
             "stakingAddress": "0xc154b7325122bca3be3f19eddb919df8d2830bf8",
             "interestModel": "MODEL-2"
+        },
+        "auEUR-STABLE": {
+            "ReserveId": "59",
+            "underlyingToken": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
+            "eTokenAddress": "0x9e75628a053665d3139505479e0457b3ae1a7b70",
+            "stakingAddress": "0xbb2ab089d087c01b3006de91105611f8b846c4e7",
+            "interestModel": "MODEL-STABLE"
+        },
+        "MTA-0": {
+            "ReserveId": "60",
+            "underlyingToken": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
+            "eTokenAddress": "0x8eff18967d25df7785a2a48b6d4d98f6fb4384ef",
+            "stakingAddress": "0xcdc61440531107ac8218b11f311f400e4bfd8d0e",
+            "interestModel": "MODEL-2"
+        },
+        "PERP-0": {
+            "ReserveId": "61",
+            "underlyingToken": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
+            "eTokenAddress": "0x0b72aedefd4f00585abb9fc1f32ce6c9fe198b5c",
+            "stakingAddress": "0x88abe6b68a01cd49229d244e634e159e0cc968e8",
+            "interestModel": "MODEL-2"
+        },
+        "fBOMB-0": {
+            "ReserveId": "62",
+            "underlyingToken": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+            "eTokenAddress": "0x2d292355ccfa8f023ab66d1701c0c3a2e191b1ed",
+            "stakingAddress": "0xe098d086ec83327610c517f3f1793c2877ca2d89",
+            "interestModel": "MODEL-2"
         }
     },
     "base": {
