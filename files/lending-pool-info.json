@@ -489,6 +489,36 @@
             "underlyingToken": "0x4200000000000000000000000000000000000006",
             "eTokenAddress": "0x3D2673a5a253052bF2b46EbB70da77876Cd085ac",
             "stakingAddress": "0x5F8d42635A2fa74D03b5F91c825dE6F44c443dA5"
+        },
+        "USDbC-0": {
+            "ReserveId": "2",
+            "underlyingToken": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+            "eTokenAddress": "0x77971874212cd95b9ecfa16a6ea9f657aeff3ecb",
+            "stakingAddress": "0x21c43d9b3b7c25c740b0d5dc9f62495aec0d1ecc"
+        },
+        "AERO-0": {
+            "ReserveId": "3",
+            "underlyingToken": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+            "eTokenAddress": "0xbeca3916ea9cab70265d936729c446669dc12bb1",
+            "stakingAddress": "0x8f480b12b321dac9d5427aad8f3e560fca2b3216"
+        },
+        "EXTRA-0": {
+            "ReserveId": "4",
+            "underlyingToken": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+            "eTokenAddress": "0x92714c7772b07f15ec7e37c2e5d7899729b411c9",
+            "stakingAddress": "0x89a049290cc6d56a316ed7e8d0422f54ad2bfeac"
+        },
+        "TAROT-0": {
+            "ReserveId": "5",
+            "underlyingToken": "0xf544251d25f3d243a36b07e7e7962a678f952691",
+            "eTokenAddress": "0xa06ea5bb4dacb6ba8935675bd56e25e63cda68f8",
+            "stakingAddress": "0xf767dd4dd089948254477a918e63f3ee55ba3f74"
+        },
+        "wUSDR-0": {
+            "ReserveId": "6",
+            "underlyingToken": "0x9483ab65847a447e36d21af1cab8c87e9712ff93",
+            "eTokenAddress": "0xad2b00f131af67b0bec9617e521159bddc4f1875",
+            "stakingAddress": "0x1fc5c45645bf98cb5f24abbf24df12a0fb1a5f49"
         }
     }
 }

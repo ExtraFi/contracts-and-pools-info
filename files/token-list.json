@@ -257,10 +257,55 @@
             "address": "0x4200000000000000000000000000000000000006",
             "decimals": 18
         },
-        "OP": {
-            "name": "OP",
-            "address": "0x4200000000000000000000000000000000000042",
+        "USDbC": {
+            "name": "USDbC",
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "decimals": 6
+        },
+        "AERO": {
+            "name": "AERO",
+            "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
             "decimals": 18
+        },
+        "EXTRA": {
+            "name": "EXTRA",
+            "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+            "decimals": 18
+        },
+        "TAROT": {
+            "name": "TAROT",
+            "address": "0xF544251D25f3d243A36B07e7E7962a678f952691",
+            "decimals": 18
+        },
+        "wUSDR": {
+            "name": "wUSDR",
+            "address": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
+            "decimals": 9
+        },
+        "DOLA": {
+            "name": "DOLA",
+            "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+            "decimals": 18
+        },
+        "ERN": {
+            "name": "ERN",
+            "address": "0xa334884bf6b0a066d553d19e507315e839409e62",
+            "decimals": 18
+        },
+        "STG": {
+            "name": "STG",
+            "address": "0xe3b53af74a4bf62ae5511055290838050bf764df",
+            "decimals": 18
+        },
+        "DAI+": {
+            "name": "DAI+",
+            "address": "0x65a2508C429a6078a7BC2f7dF81aB575BD9D9275",
+            "decimals": 18
+        },
+        "USD+": {
+            "name": "USD+",
+            "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+            "decimals": 6
         }
     }
 }

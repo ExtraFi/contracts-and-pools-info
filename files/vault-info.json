@@ -1159,5 +1159,22 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         }
+    },
+    "base": {
+        "vAMMV2-wUSDR/USDbC": {
+            "vaultVersion": "1",
+            "vaultId": "1",
+            "vaultAddress": "0x84AF992CBbeedA2035AC98f2A27ebE6b782506Ce",
+            "borrowingReserveId0": "6",
+            "borrowingReserveId1": "2",
+            "veloGauge": "0xF64957C35409055776C7122AC655347ef88eaF9B",
+            "veloPair": "0x3Fc28BFac25fC8e93B5b2fc15EfBBD5a8aA44eFe",
+            "token0": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
+            "token1": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ]
+        }
     }
 }
