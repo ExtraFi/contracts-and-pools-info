@@ -39,10 +39,12 @@
         }
     },
     "base": {
-        "EXTRA_TREASURY": "0xF3B58e1e8D52BA0c7D883Bc9A722720469C54f06",
-        "EXTRA_GOV": "0xF3B58e1e8D52BA0c7D883Bc9A722720469C54f06",
-        "VeloFactoryV2": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
-        "VeloRouterV2": "0xa062ae8a9c5e11aaa026fc2670b0d65ccc8b2858",
+        "EXTRA_COMMUNITY": "0x89F0885DA2553232aeEf201692F8C97E24715c83",
+        "EXTRA_TREASURY": "0x4059e170D325163e2eC96cF8Ca489C40B6927A8c",
+        "EXTRA_GOV": "0x750f7153e6c92a24089a34eC6AFe65740C9bd40A",
+        "FLASHLOAN_LIQUIDATE_CONTRACT": "0x84c0C64c2608eC04FDFdD15fc8eE5DF77F4E398e",
+        "VeloFactoryV2": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da",
+        "VeloRouterV2": "0xcF77a3Ba9A5CA399B7c97c74d54e5b1Beb874E43",
         "AddressRegistry": "0x85603119C938750Dfb5904f8a501b64F3F3A01D2",
         "ReserveLogicLibraryAddress": "0xEc120bC6e12Cea127553B1f53445947B1f73A132",
         "ETokenDeployerAddress": "0xeccE0f5E758D01C142ebD5Ed2565038E4c0EDd80",
@@ -55,6 +57,7 @@
         "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
         "SwapPathManager": "0xd625DAe03CC3E7A3aEFFF3Da25FBB94CD8150792",
         "ChainLinkOracle": "0x93D09944B4b520289BeAAac646673095ca0fb1c4",
+        "DataProviderContract": "0xD12d930Edb56EDcbA54F9E812b450615E9046B73",
         "VaultLibraries": {
             "1": {
                 "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
