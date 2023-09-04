@@ -306,6 +306,41 @@
             "name": "USD+",
             "address": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
             "decimals": 6
+        },
+        "cbETH": {
+            "name": "cbETH",
+            "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+            "decimals": 18
+        },
+        "SONNE": {
+            "name": "SONNE",
+            "address": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
+            "decimals": 18
+        },
+        "tBTC": {
+            "name": "tBTC",
+            "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+            "decimals": 18
+        },
+        "MAI": {
+            "name": "MAI",
+            "address": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
+            "decimals": 18
+        },
+        "YFX": {
+            "name": "YFX",
+            "address": "0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0",
+            "decimals": 18
+        },
+        "UNIDX": {
+            "name": "UNIDX",
+            "address": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
+            "decimals": 18
+        },
+        "agEUR": {
+            "name": "agEUR",
+            "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
+            "decimals": 18
         }
     }
 }

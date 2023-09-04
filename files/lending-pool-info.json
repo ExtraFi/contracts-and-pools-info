@@ -519,6 +519,42 @@
             "underlyingToken": "0x9483ab65847a447e36d21af1cab8c87e9712ff93",
             "eTokenAddress": "0xad2b00f131af67b0bec9617e521159bddc4f1875",
             "stakingAddress": "0x1fc5c45645bf98cb5f24abbf24df12a0fb1a5f49"
+        },
+        "USDbC-STABLE": {
+            "ReserveId": "11",
+            "underlyingToken": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+            "eTokenAddress": "0xdb36037ad6fa6ece8e31a458cdf26d56d64cebae",
+            "stakingAddress": "0x0e30e5c9af804a026424987c30ba6d8ccea06697"
+        },
+        "DOLA-STABLE": {
+            "ReserveId": "12",
+            "underlyingToken": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+            "eTokenAddress": "0xb898f573c919dd4e719e4760601a0481fbfe8630",
+            "stakingAddress": "0x79a5a9e97dc8f4a1c2370e1049db960275431793"
+        },
+        "MAI-STABLE": {
+            "ReserveId": "13",
+            "underlyingToken": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
+            "eTokenAddress": "0x6265a22d6caec36d5dec69db74bc1133c5bf3fd9",
+            "stakingAddress": "0xce205b12b7106c56d81b9320b95c23da5d8773a5"
+        },
+        "WETH-STABLE": {
+            "ReserveId": "14",
+            "underlyingToken": "0x4200000000000000000000000000000000000006",
+            "eTokenAddress": "0xca221984f58da3701afb907ccd5da8bfacac55e4",
+            "stakingAddress": "0x9b767feb01525ea8f304a65d4483251cf18835b7"
+        },
+        "cbETH-STABLE": {
+            "ReserveId": "15",
+            "underlyingToken": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+            "eTokenAddress": "0x94d64b362850eb8c6e5c7ed5315606cc57b7d3c5",
+            "stakingAddress": "0x94e5deba1edbf9b2cc38d4e3aa587326d4709e41"
+        },
+        "tBTC-0": {
+            "ReserveId": "16",
+            "underlyingToken": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+            "eTokenAddress": "0x7c412a6543aa62e4383414bcad00a216b4a2af01",
+            "stakingAddress": "0xd51f35915e9779e9d8d77b3a65e14c433e8ffc5b"
         }
     }
 }
