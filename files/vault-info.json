@@ -1310,6 +1310,19 @@
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
             ]
+        },
+        "vAMMV2-WETH/UNIDX": {
+            "vaultVersion": "1",
+            "vaultId": "11",
+            "vaultAddress": "0x142d1ECe7a23d7279Ce21Ab6675a03f63aFD061e",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "17",
+            "veloGauge": "0x98F44CE76BDCaD37f00a98B275631B1D796862fa",
+            "veloPair": "0xA819Af1CC8AbE618eA8abaDeb464960F7451CEAB",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
+            "stable": false,
+            "rewards": ["0x940181a94A35A4569E4529A3CDfB74e38FD98631"]
         }
     }
 }

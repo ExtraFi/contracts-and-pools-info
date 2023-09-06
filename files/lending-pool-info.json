@@ -555,6 +555,12 @@
             "underlyingToken": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
             "eTokenAddress": "0x7c412a6543aa62e4383414bcad00a216b4a2af01",
             "stakingAddress": "0xd51f35915e9779e9d8d77b3a65e14c433e8ffc5b"
+        },
+        "UNIDX-0": {
+            "ReserveId": "17",
+            "underlyingToken": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
+            "eTokenAddress": "0x051d0ac941b4625c747b984e2ba5b7f4066ac537",
+            "stakingAddress": "0x124643e130171850f2b32861f7e9555f2c062e37"
         }
     }
 }
