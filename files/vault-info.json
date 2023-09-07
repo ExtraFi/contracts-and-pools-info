@@ -1323,6 +1323,21 @@
             "token1": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
             "stable": false,
             "rewards": ["0x940181a94A35A4569E4529A3CDfB74e38FD98631"]
+        },
+        "vAMMV2-WETH/DEUS": {
+            "vaultVersion": "1",
+            "vaultId": "12",
+            "vaultAddress": "0xB4E23d7AC93740c40421a815d7A6f4781E064Ee0",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "23",
+            "veloGauge": "0x7eC1926A50D2D253011cC9891935eBc476713bb1",
+            "veloPair": "0x9e4CB8b916289864321661CE02cf66aa5BA63C94",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ]
         }
     }
 }

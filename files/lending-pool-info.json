@@ -561,6 +561,42 @@
             "underlyingToken": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
             "eTokenAddress": "0x051d0ac941b4625c747b984e2ba5b7f4066ac537",
             "stakingAddress": "0x124643e130171850f2b32861f7e9555f2c062e37"
+        },
+        "ERN-0": {
+            "ReserveId": "18",
+            "underlyingToken": "0xa334884bf6b0a066d553d19e507315e839409e62",
+            "eTokenAddress": "0xef691f43d9842047324a312554ecccbd16791ad8",
+            "stakingAddress": "0xc1a0b7ca1a0a4db2731f724e6c609401dd6667c9"
+        },
+        "STG-0": {
+            "ReserveId": "19",
+            "underlyingToken": "0xe3b53af74a4bf62ae5511055290838050bf764df",
+            "eTokenAddress": "0xa4560592f741c37c8afeca037afed15ddb658aaf",
+            "stakingAddress": "0x744549e841e1283ff3f3a8c03d1d9253f22343c4"
+        },
+        "SONNE-0": {
+            "ReserveId": "20",
+            "underlyingToken": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
+            "eTokenAddress": "0x6d8beed5263768e6ce16ac455860799a2703a97e",
+            "stakingAddress": "0x70a638c0b1393cdb7b5a2e7907e787501a2dc191"
+        },
+        "YFX-0": {
+            "ReserveId": "21",
+            "underlyingToken": "0x8901cb2e82cc95c01e42206f8d1f417fe53e7af0",
+            "eTokenAddress": "0xe448c8ceacacdc23cdbe14ff5acaf5057a2fbbf1",
+            "stakingAddress": "0xf1ceb1805800cdf247390ad4c0e10a4f7b0c8dc9"
+        },
+        "agEUR-0": {
+            "ReserveId": "22",
+            "underlyingToken": "0xa61beb4a3d02decb01039e378237032b351125b4",
+            "eTokenAddress": "0x157be137f67295918712c82dc36247f23d86fa05",
+            "stakingAddress": "0xccbd9ea3cbb7cf97d3ef13ab07ac8d53da7c9b97"
+        },
+        "DEUS-0": {
+            "ReserveId": "23",
+            "underlyingToken": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+            "eTokenAddress": "0x10257ce01dc4abf1662fc4ac8f593a9a6c9f6be9",
+            "stakingAddress": "0x4db1cb2589f2a9d3d9c6a8c50900bb2e583048fd"
         }
     }
 }

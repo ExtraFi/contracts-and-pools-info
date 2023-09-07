@@ -341,6 +341,11 @@
             "name": "agEUR",
             "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
             "decimals": 18
+        },
+        "DEUS": {
+            "name": "DEUS",
+            "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+            "decimals": 18
         }
     }
 }
