@@ -346,6 +346,21 @@
             "name": "DEUS",
             "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
             "decimals": 18
+        },
+        "BASED": {
+            "name": "BASED",
+            "address": "0x9cbd543f1b1166b2df36b68eb6bb1dce24e6abdf",
+            "decimals": 18
+        },
+        "WELL": {
+            "name": "WELL",
+            "address": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
+            "decimals": 18
+        },
+        "USDC": {
+            "name": "USDC",
+            "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "decimals": 6
         }
     }
 }

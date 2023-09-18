@@ -597,6 +597,30 @@
             "underlyingToken": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
             "eTokenAddress": "0x10257ce01dc4abf1662fc4ac8f593a9a6c9f6be9",
             "stakingAddress": "0x4db1cb2589f2a9d3d9c6a8c50900bb2e583048fd"
+        },
+        "USDC-STABLE": {
+            "ReserveId": "24",
+            "underlyingToken": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "eTokenAddress": "0xa23b5b8f7c7a9c86f39849af12867addd1273e3c",
+            "stakingAddress": "0x93d4172b50e82f0fa1c8026782c0ed8ff39513af"
+        },
+        "USDC-0": {
+            "ReserveId": "25",
+            "underlyingToken": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "eTokenAddress": "0x559756d476d5ed4533edc3ac98e5a9468176378c",
+            "stakingAddress": "0xe61662c09c30e1f3f3cbaeb9bc1f13838ed18957"
+        },
+        "BASED-0": {
+            "ReserveId": "26",
+            "underlyingToken": "0x9cbd543f1b1166b2df36b68eb6bb1dce24e6abdf",
+            "eTokenAddress": "0x4cb7166e014c3559d7add753a6342d46927ef554",
+            "stakingAddress": "0x370b6d72de289ed1779f3b770d8dac6d290b69f8"
+        },
+        "WELL-0": {
+            "ReserveId": "27",
+            "underlyingToken": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
+            "eTokenAddress": "0xcf1bb49e36a976a3d9aeb52deba0a77497f9eb09",
+            "stakingAddress": "0x68484dfc807384f235578dab996d3d5028fb9d9c"
         }
     }
 }
