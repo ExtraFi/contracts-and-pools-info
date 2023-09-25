@@ -1158,6 +1158,21 @@
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
+        },
+        "sAMMV2-USDC/msUSD": {
+            "vaultVersion": "1",
+            "vaultId": "90",
+            "vaultAddress": "0xf3418867a71c703c1e2a22e3c5672a597c704ba7",
+            "borrowingReserveId0": "25",
+            "borrowingReserveId1": "63",
+            "veloGauge": "0xf9ddd38A4e0C3237563DBB651D1a155551e54ad6",
+            "veloPair": "0xe148D6Ae042De77c1f9fe0d6c495EbfD7b705B4c",
+            "token0": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "token1": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
         }
     },
     "base": {

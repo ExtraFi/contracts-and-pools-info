@@ -481,6 +481,13 @@
             "eTokenAddress": "0x2d292355ccfa8f023ab66d1701c0c3a2e191b1ed",
             "stakingAddress": "0xe098d086ec83327610c517f3f1793c2877ca2d89",
             "interestModel": "MODEL-2"
+        },
+        "msUSD-STABLE": {
+            "ReserveId": "63",
+            "underlyingToken": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
+            "eTokenAddress": "0xcf90c258f3996e63971e61ce23f01e121dbe37f8",
+            "stakingAddress": "0x6c997b89c37cb660237742cabf442e17e3f9a23f",
+            "interestModel": "MODEL-2"
         }
     },
     "base": {

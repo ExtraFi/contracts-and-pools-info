@@ -249,6 +249,11 @@
             "name": "USX",
             "address": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
             "decimals": 18
+        },
+        "msUSD": {
+            "name": "msUSD",
+            "address": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
+            "decimals": 18
         }
     },
     "base": {
