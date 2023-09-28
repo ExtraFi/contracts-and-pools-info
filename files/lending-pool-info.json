@@ -628,6 +628,12 @@
             "underlyingToken": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
             "eTokenAddress": "0xcf1bb49e36a976a3d9aeb52deba0a77497f9eb09",
             "stakingAddress": "0x68484dfc807384f235578dab996d3d5028fb9d9c"
+        },
+        "OVN-0": {
+            "ReserveId": "28",
+            "underlyingToken": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+            "eTokenAddress": "0x291ee82e394557c2fa4e4bcb97b0a2af25a6c3fa",
+            "stakingAddress": "0x9138a810947422cfa4f82ff14a57890f0d2bbbb3"
         }
     }
 }
