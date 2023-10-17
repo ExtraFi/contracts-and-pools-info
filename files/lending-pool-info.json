@@ -491,9 +491,9 @@
         },
         "OVN-0": {
             "ReserveId": "64",
-            "underlyingToken": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
-            "eTokenAddress": "0xcf90c258f3996e63971e61ce23f01e121dbe37f8",
-            "stakingAddress": "0x6c997b89c37cb660237742cabf442e17e3f9a23f",
+            "underlyingToken": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
+            "eTokenAddress": "0x9f8fcab0bc7839ed8cadb11826b70077244b8826",
+            "stakingAddress": "0x5fcb1222e1986faa7f6b7b889ad756f9394c12cf",
             "interestModel": "MODEL-2"
         }
     },
