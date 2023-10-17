@@ -254,6 +254,11 @@
             "name": "msUSD",
             "address": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
             "decimals": 18
+        },
+        "OVN": {
+            "name": "OVN",
+            "address": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
+            "decimals": 18
         }
     },
     "base": {
