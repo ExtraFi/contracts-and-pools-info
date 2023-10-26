@@ -259,6 +259,11 @@
             "name": "OVN",
             "address": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
             "decimals": 18
+        },
+        "msOP": {
+            "name": "msOP",
+            "address": "0x33bca143d9b41322479e8d26072a00a352404721",
+            "decimals": 18
         }
     },
     "base": {

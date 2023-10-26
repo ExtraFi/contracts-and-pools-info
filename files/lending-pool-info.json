@@ -495,6 +495,20 @@
             "eTokenAddress": "0x9f8fcab0bc7839ed8cadb11826b70077244b8826",
             "stakingAddress": "0x5fcb1222e1986faa7f6b7b889ad756f9394c12cf",
             "interestModel": "MODEL-2"
+        },
+        "msOP-STABLE": {
+            "ReserveId": "65",
+            "underlyingToken": "0x33bca143d9b41322479e8d26072a00a352404721",
+            "eTokenAddress": "0xcd0c27aedcd55fd1c18dd56256035cde455b7a7e",
+            "stakingAddress": "0x18cc6aa9c761036ba0d8fac6bc49a577d7ce41af",
+            "interestModel": "MODEL-STABLE"
+        },
+        "OP-STABLE": {
+            "ReserveId": "66",
+            "underlyingToken": "0x4200000000000000000000000000000000000042",
+            "eTokenAddress": "0xceb0d75ccceef863b660bda57146e411f4d5259b",
+            "stakingAddress": "0x650be800438e307bca919948e5779b875678fdc0",
+            "interestModel": "MODEL-STABLE"
         }
     },
     "base": {
