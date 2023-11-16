@@ -1,7 +1,9 @@
 {
     "optimism": {
+        "EXTRA_COMMUNITY": "0x89F0885DA2553232aeEf201692F8C97E24715c83",
         "EXTRA_TREASURY": "0x4059e170D325163e2eC96cF8Ca489C40B6927A8c",
         "EXTRA_GOV": "0x750f7153e6c92a24089a34eC6AFe65740C9bd40A",
+        "FLASHLOAN_LIQUIDATE_CONTRACT": "0x37b25EF89a21049B66eDc50a59678EF784544cAb",
         "VeloFactory": "0x25CbdDb98b35ab1FF77413456B31EC81A6B6B746",
         "VeloRouter": "0x9c12939390052919aF3155f41Bf4160Fd3666A6f",
         "VeloFactoryV2": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
@@ -17,10 +19,11 @@
         "VaultDeployerSelectorLib": "0xdCf0f4A0FC44F33DE35D8c80Ad5D248DBF838943",
         "VaultPositionManager": "0xf9cFB8a62f50e10AdDE5Aa888B44cF01C5957055",
         "Airdrop": "0x5b414093362A7c768273D5f0405744B8c09556a8",
-        "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
+        "VeRewardDistributorLegacy": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
+        "VeRewardDistributor": "0xc60e33B114131e9DD577bc6BEbf29C44C8c38600",
         "ChainLinkOracle": "0xBEdfdA828475005Dc8E4a09Aaa34BD0b8CA807e4",
         "DataProviderContract": "0x1A97E89572Fc303e4BfD4FA49d02Cd94161744DD",
-        "ExtraOftProxy": "",
+        "ExtraOftProxy": "0x0C9D44f5a573F6CfC9E8264A5cA72A1184616Ef4",
         "VaultLibraries": {
             "0": {
                 "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
@@ -55,7 +58,7 @@
         "VaultPositionManager": "0xf9cFB8a62f50e10AdDE5Aa888B44cF01C5957055",
         "VeTokenAddress": "0xe0BeC4F45aEF64CeC9dCB9010d4beFfB13e91466",
         "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
-        "SwapPathManager": "0xd625DAe03CC3E7A3aEFFF3Da25FBB94CD8150792",
+        "SwapPathManager": "0x5B5bf5A296aD2c98567B1950Cc4BC32bFA4b3308",
         "ChainLinkOracle": "0x93D09944B4b520289BeAAac646673095ca0fb1c4",
         "DataProviderContract": "0xD12d930Edb56EDcbA54F9E812b450615E9046B73",
         "VaultLibraries": {

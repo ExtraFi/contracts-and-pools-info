@@ -1,5 +1,10 @@
 {
     "optimism": {
+        "Z": {
+            "name": "",
+            "address": "",
+            "decimals": 18
+        },
         "fBOMB": {
             "name": "fBOMB",
             "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
@@ -120,6 +125,11 @@
             "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
             "decimals": 18
         },
+        "VELO": {
+            "name": "VELO",
+            "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+            "decimals": 18
+        },
         "DHT": {
             "name": "DHT",
             "address": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
@@ -200,8 +210,8 @@
             "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
             "decimals": 18
         },
-        "VELO": {
-            "name": "VELO",
+        "VELOV1": {
+            "name": "VELOV1",
             "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
             "decimals": 18
         },
@@ -263,6 +273,11 @@
         "msOP": {
             "name": "msOP",
             "address": "0x33bca143d9b41322479e8d26072a00a352404721",
+            "decimals": 18
+        },
+        "LDO": {
+            "name": "LDO",
+            "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
             "decimals": 18
         }
     },
@@ -380,6 +395,11 @@
         "OVN": {
             "name": "OVN",
             "address": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+            "decimals": 18
+        },
+        "wstETH": {
+            "name": "wstETH",
+            "address": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
             "decimals": 18
         }
     }

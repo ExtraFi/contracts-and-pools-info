@@ -20,7 +20,7 @@
             ],
             "interestModel": "MODEL-1"
         },
-        "VELO-0": {
+        "VELOV1-0": {
             "ReserveId": "3",
             "underlyingToken": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
             "eTokenAddress": "0xEeADaF138006063a0002BAa9490A564412e19656",
@@ -81,6 +81,16 @@
             "interestModel": "MODEL-2"
         },
         "USD+-0": {
+            "ReserveId": "9",
+            "underlyingToken": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+            "eTokenAddress": "0xdF1664691c640BB672E8465CcBC60A1b145951d5",
+            "stakingAddress": "0x2868eBcf5B4f24d5eE1C738ea0a954AC8d7ceb35",
+            "rewardsToken": [
+                "0x2dAD3a13ef0C6366220f989157009e501e7938F8"
+            ],
+            "interestModel": "MODEL-2"
+        },
+        "USD+-STABLE": {
             "ReserveId": "9",
             "underlyingToken": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
             "eTokenAddress": "0xdF1664691c640BB672E8465CcBC60A1b145951d5",
@@ -285,6 +295,13 @@
             "eTokenAddress": "0xE6Ef77179B740F6597C402842Ed6bc3959Ea440C",
             "stakingAddress": "0xae3C0Cc859358Dc90bd2B02b25B7a2EC39C61175",
             "interestModel": "MODEL-STABLE"
+        },
+        "VELO-0": {
+            "ReserveId": "35",
+            "underlyingToken": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+            "eTokenAddress": "0xC89Bddb6E5aada6Ef9e15eeA77E9C5e0dB9dAe5D",
+            "stakingAddress": "0x78D49Baa0FaE8CfB1CA2e51B2eA5C03fDdDFa4D5",
+            "interestModel": "MODEL-2"
         },
         "VELOV2-0": {
             "ReserveId": "35",
@@ -509,6 +526,20 @@
             "eTokenAddress": "0xceb0d75ccceef863b660bda57146e411f4d5259b",
             "stakingAddress": "0x650be800438e307bca919948e5779b875678fdc0",
             "interestModel": "MODEL-STABLE"
+        },
+        "wstETH-STABLE": {
+            "ReserveId": "67",
+            "underlyingToken": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+            "eTokenAddress": "0x4755079416693ac4cc90eefe71b8e73ce714ca96",
+            "stakingAddress": "0xd21b857766ac409f98488b93137806ab1a5ac9be",
+            "interestModel": "MODEL-STABLE"
+        },
+        "LDO-0": {
+            "ReserveId": "68",
+            "underlyingToken": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+            "eTokenAddress": "0x304a6109aac3ee72fce032e9bb8bd21f75ecbaee",
+            "stakingAddress": "0xc36295c964b44c5e20b3bbdb7db8b96c58fcc257",
+            "interestModel": "MODEL-2"
         }
     },
     "base": {
@@ -547,6 +578,30 @@
             "underlyingToken": "0x9483ab65847a447e36d21af1cab8c87e9712ff93",
             "eTokenAddress": "0xad2b00f131af67b0bec9617e521159bddc4f1875",
             "stakingAddress": "0x1fc5c45645bf98cb5f24abbf24df12a0fb1a5f49"
+        },
+        "DAI+-0": {
+            "ReserveId": "7",
+            "underlyingToken": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
+            "eTokenAddress": "0x4ba40bebc2b8270d2e61505c33f2ae45ec3abc0b",
+            "stakingAddress": "0x2868ebcf5b4f24d5ee1c738ea0a954ac8d7ceb35"
+        },
+        "USD+-0": {
+            "ReserveId": "8",
+            "underlyingToken": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+            "eTokenAddress": "0x2546fe1f2ca9a31ebed04035eba7c4544bff2745",
+            "stakingAddress": "0x7a883e7752f20f98869e3ea7e29e0f2478cd34a2"
+        },
+        "DAI+-STABLE": {
+            "ReserveId": "9",
+            "underlyingToken": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
+            "eTokenAddress": "0x4ba40bebc2b8270d2e61505c33f2ae45ec3abc0b",
+            "stakingAddress": "0x2868ebcf5b4f24d5ee1c738ea0a954ac8d7ceb35"
+        },
+        "USD+-STABLE": {
+            "ReserveId": "10",
+            "underlyingToken": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+            "eTokenAddress": "0x2546fe1f2ca9a31ebed04035eba7c4544bff2745",
+            "stakingAddress": "0x7a883e7752f20f98869e3ea7e29e0f2478cd34a2"
         },
         "USDbC-STABLE": {
             "ReserveId": "11",
@@ -655,6 +710,13 @@
             "underlyingToken": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
             "eTokenAddress": "0x291ee82e394557c2fa4e4bcb97b0a2af25a6c3fa",
             "stakingAddress": "0x9138a810947422cfa4f82ff14a57890f0d2bbbb3"
+        },
+        "wstETH-STABLE": {
+            "ReserveId": "29",
+            "underlyingToken": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+            "eTokenAddress": "0xbd4ae6f07e6570b53109501c017dfc2ad5af5734",
+            "stakingAddress": "0x4940a3f9db30e83a4a4f49bec7473eb525607060",
+            "interestModel": "MODEL-STABLE"
         }
     }
 }
