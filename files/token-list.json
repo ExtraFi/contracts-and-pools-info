@@ -279,7 +279,12 @@
             "name": "LDO",
             "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
             "decimals": 18
-        }
+        },
+        "USDV": {
+            "name": "USDV",
+            "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "decimals": 6
+         }
     },
     "base": {
         "WETH": {

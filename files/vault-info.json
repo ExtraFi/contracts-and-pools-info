@@ -1262,6 +1262,21 @@
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
+        },
+        "sAMMV2-USDV/USDC": {
+            "vaultVersion": "1",
+            "vaultId": "96",
+            "vaultAddress": "0x3f7aed46e20F3c48C1baF5f265d5ccb7d818eBd7",
+            "borrowingReserveId0": "69",
+            "borrowingReserveId1": "25",
+            "veloGauge": "0xe473B42E6ebD9048E80aa8ed0ceD9fF5a6b040d8",
+            "veloPair": "0x73DaC4c0e02CC9d66e5Fe00569360845C241d3aE",
+            "token0": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
         }
     },
     "base": {
@@ -1631,6 +1646,36 @@
             "token0": "0x4200000000000000000000000000000000000006",
             "token1": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
             "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ]
+        },
+        "vAMMV2-AERO/wstETH": {
+            "vaultVersion": "1",
+            "vaultId": "22",
+            "vaultAddress": "0xf755E062859E2C47C4ABcf1790fcAD8c1d933784",
+            "borrowingReserveId0": "3",
+            "borrowingReserveId1": "30",
+            "veloGauge": "0x26D6D4E9e3fAf1C7C19992B1Ca792e4A9ea4F833",
+            "veloPair": "0x82a0c1a0d4EF0c0cA3cFDA3AD1AA78309Cc6139b",
+            "token0": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "token1": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ]
+        },
+        "sAMMV2-WETH/BASED": {
+            "vaultVersion": "1",
+            "vaultId": "23",
+            "vaultAddress": "0xeF158Cd822a2dD1a490a5699bD5e7ea0cFe8036f",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "26",
+            "veloGauge": "0xA7919a78183d4B3980c01DfDaCd0158772eB5632",
+            "veloPair": "0x5F45e48F9C053286cE9Ca08Db897f8b7eb3f7992",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0x9cbd543f1b1166b2df36b68eb6bb1dce24e6abdf",
+            "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
             ]
