@@ -284,7 +284,7 @@
             "name": "USDV",
             "address": "0x323665443cef804a3b5206103304bd4872ea4253",
             "decimals": 6
-         }
+        }
     },
     "base": {
         "WETH": {
@@ -405,6 +405,11 @@
         "wstETH": {
             "name": "wstETH",
             "address": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+            "decimals": 18
+        },
+        "eUSD": {
+            "name": "eUSD",
+            "address": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
             "decimals": 18
         }
     }
