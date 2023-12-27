@@ -225,8 +225,8 @@
             "address": "0x4200000000000000000000000000000000000042",
             "decimals": 18
         },
-        "USDC": {
-            "name": "USDC",
+        "USDC.E": {
+            "name": "USDC.E",
             "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
             "decimals": 6
         },
@@ -283,6 +283,11 @@
         "USDV": {
             "name": "USDV",
             "address": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "decimals": 6
+        },
+        "USDC": {
+            "name": "USDC",
+            "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
             "decimals": 6
         }
     },
@@ -410,6 +415,11 @@
         "eUSD": {
             "name": "eUSD",
             "address": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+            "decimals": 18
+        },
+        "DAI": {
+            "name": "DAI",
+            "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
             "decimals": 18
         }
     }
