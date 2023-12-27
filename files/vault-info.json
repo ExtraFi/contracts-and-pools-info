@@ -1793,6 +1793,21 @@
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
             ]
+        },
+        "sAMMV2-DAI/USDC": {
+            "vaultVersion": "1",
+            "vaultId": "31",
+            "vaultAddress": "0x7d8Bb1a0cc64624E8341e8Ed76F6B8c79c88165F",
+            "borrowingReserveId0": "33",
+            "borrowingReserveId1": "24",
+            "veloGauge": "0x640e9ef68e1353112fF18826c4eDa844E1dC5eD0",
+            "veloPair": "0x67b00B46FA4f4F24c03855c5C8013C0B938B3eEc",
+            "token0": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+            "token1": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "stable": true,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ]
         }
     }
 }
