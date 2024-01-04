@@ -787,6 +787,13 @@
             "eTokenAddress": "0x40ca657a1f5a7565bad8282094e955f28c972c4c",
             "stakingAddress": "0xae3c0cc859358dc90bd2b02b25b7a2ec39c61175",
             "interestModel": "MODEL-1"
+        },
+        "DOG-0": {
+            "ReserveId": "35",
+            "underlyingToken": "0x9E53e88dCff56d3062510A745952DEC4cEFDff9E",
+            "eTokenAddress": "0x172CC0248d9eA0964Be431240B843D9212878A1c",
+            "stakingAddress": "0x78D49Baa0FaE8CfB1CA2e51B2eA5C03fDdDFa4D5",
+            "interestModel": "MODEL-2"
         }
     }
 }

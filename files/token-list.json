@@ -421,6 +421,11 @@
             "name": "DAI",
             "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
             "decimals": 18
+        },
+        "DOG": {
+            "name": "DOG",
+            "address": "0x9e53e88dcff56d3062510a745952dec4cefdff9e",
+            "decimals": 18
         }
     }
 }

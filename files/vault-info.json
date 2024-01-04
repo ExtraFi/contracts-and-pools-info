@@ -1838,6 +1838,21 @@
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
             ]
+        },
+        "vAMMV2-WETH/DOG": {
+            "vaultVersion": "1",
+            "vaultId": "34",
+            "vaultAddress": "0xE28413E8c44608139e31cEcb666aD41E8041bD41",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "35",
+            "veloGauge": "0x15093ed45C2A3F88393d41bC436003E2b8115aD5",
+            "veloPair": "0xF89042057D079debe2a65A1a899E48E0E825105F",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0x9e53e88dcff56d3062510a745952dec4cefdff9e",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ]
         }
     }
 }
