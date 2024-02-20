@@ -1,6 +1,6 @@
 {
     "optimism": {
-        "vAMMV2-wUSDR/USDC": {
+        "vAMMV2-wUSDR/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "34",
             "borrowingReserveId0": "16",
@@ -24,7 +24,7 @@
                 ]
             ]
         },
-        "vAMMV2-USDC/VELOV2": {
+        "vAMMV2-USDC.E/VELOV2": {
             "vaultVersion": "1",
             "vaultId": "35",
             "borrowingReserveId0": "2",
@@ -42,7 +42,7 @@
                 []
             ]
         },
-        "vAMMV2-WETH/USDC": {
+        "vAMMV2-WETH/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "36",
             "borrowingReserveId0": "1",
@@ -66,7 +66,7 @@
                 ]
             ]
         },
-        "vAMMV2-USDC/SNX": {
+        "vAMMV2-USDC.E/SNX": {
             "vaultVersion": "1",
             "vaultId": "37",
             "borrowingReserveId0": "2",
@@ -90,7 +90,7 @@
                 ]
             ]
         },
-        "vAMMV2-STG/USDC": {
+        "vAMMV2-STG/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "38",
             "borrowingReserveId0": "7",
@@ -114,7 +114,7 @@
                 ]
             ]
         },
-        "vAMMV2-LYRA/USDC": {
+        "vAMMV2-LYRA/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "39",
             "borrowingReserveId0": "14",
@@ -138,7 +138,7 @@
                 ]
             ]
         },
-        "vAMMV2-SONNE/USDC": {
+        "vAMMV2-SONNE/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "40",
             "borrowingReserveId0": "13",
@@ -252,7 +252,7 @@
                 ]
             ]
         },
-        "vAMMV2-THALES/USDC": {
+        "vAMMV2-THALES/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "46",
             "borrowingReserveId0": "18",
@@ -300,7 +300,7 @@
                 ]
             ]
         },
-        "vAMMV2-OP/USDC": {
+        "vAMMV2-OP/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "48",
             "borrowingReserveId0": "4",
@@ -324,7 +324,7 @@
                 ]
             ]
         },
-        "sAMMV2-USDC/USX": {
+        "sAMMV2-USDC.E/USX": {
             "vaultVersion": "1",
             "vaultId": "49",
             "borrowingReserveId0": "25",
@@ -348,7 +348,7 @@
                 ]
             ]
         },
-        "sAMMV2-USDC/DOLA": {
+        "sAMMV2-USDC.E/DOLA": {
             "vaultVersion": "1",
             "vaultId": "50",
             "borrowingReserveId0": "25",
@@ -459,7 +459,7 @@
                 ]
             ]
         },
-        "sAMMV2-USDC/MAI": {
+        "sAMMV2-USDC.E/MAI": {
             "vaultVersion": "1",
             "vaultId": "54",
             "borrowingReserveId0": "25",
@@ -594,7 +594,7 @@
                 ]
             ]
         },
-        "sAMMV2-USDC/ERN": {
+        "sAMMV2-USDC.E/ERN": {
             "vaultVersion": "1",
             "vaultId": "59",
             "borrowingReserveId0": "25",
@@ -618,7 +618,7 @@
                 ]
             ]
         },
-        "sAMMV2-USDC/BOB": {
+        "sAMMV2-USDC.E/BOB": {
             "vaultVersion": "1",
             "vaultId": "60",
             "borrowingReserveId0": "25",
@@ -690,7 +690,7 @@
                 ]
             ]
         },
-        "vAMMV2-EXTRA/USDC": {
+        "vAMMV2-EXTRA/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "63",
             "vaultAddress": "0x4F91f529c62F4f72DD06f0424Ac52A151B25688b",
@@ -714,7 +714,7 @@
                 ]
             ]
         },
-        "sAMMV2-USD+/USDC": {
+        "sAMMV2-USD+/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "64",
             "vaultAddress": "0x8D541094C6a4cE2fc5BA5D67cfdc58E0551acC51",
@@ -738,7 +738,7 @@
                 ]
             ]
         },
-        "sAMMV2-USDC/USDT": {
+        "sAMMV2-USDC.E/USDT": {
             "vaultVersion": "1",
             "vaultId": "65",
             "vaultAddress": "0x89497E2869ad74E4A329C4a59fC053Aaf9DD093E",
@@ -786,7 +786,7 @@
                 ]
             ]
         },
-        "vAMMV2-USDC/BLU": {
+        "vAMMV2-USDC.E/BLU": {
             "vaultVersion": "1",
             "vaultId": "67",
             "vaultAddress": "0x5cFF6A661f68c690F73E52f92735E67c0D3E5218",
@@ -861,7 +861,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "sAMMV2-USDC/sUSD": {
+        "sAMMV2-USDC.E/sUSD": {
             "vaultVersion": "1",
             "vaultId": "72",
             "vaultAddress": "0xD977D070c0Ab89163a7dd90db87c263994983bD3",
@@ -876,7 +876,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "sAMMV2-USDC/alUSD": {
+        "sAMMV2-USDC.E/alUSD": {
             "vaultVersion": "1",
             "vaultId": "73",
             "vaultAddress": "0x16d8B7a90651CCac527bF178CEaC6D5780CE3B50",
@@ -935,7 +935,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "vAMMV2-TAROTV1/USDC": {
+        "vAMMV2-TAROTV1/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "76",
             "vaultAddress": "0xF6D0D4044748d2e18c84d0fd1c8e4Fe6a6AeDE76",
@@ -1009,7 +1009,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "vAMMV2-TAROT/USDC": {
+        "vAMMV2-TAROT/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "80",
             "vaultAddress": "0x69cBEEb5Dc82FB32F4Bd9E6927Af0d31A89cc009",
@@ -1039,7 +1039,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "vAMMV2-USDC/wUSDR": {
+        "vAMMV2-USDC.E/wUSDR": {
             "vaultVersion": "1",
             "vaultId": "82",
             "vaultAddress": "0x5f88d6f7bed0538ca825404baf20c846b4073e5d",
@@ -1054,7 +1054,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "vAMMV2-GNode/USDC": {
+        "vAMMV2-GNode/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "83",
             "vaultAddress": "0xF68FC9a9a7D1118B0b54fEd80F2c335b802B1167",
@@ -1069,7 +1069,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "vAMMV2-USDC/agEUR-StableBorrow": {
+        "vAMMV2-USDC.E/agEUR-StableBorrow": {
             "vaultVersion": "1",
             "vaultId": "84",
             "vaultAddress": "0xc24E9BBf1eeB06458492738A607ccBd5005A4561",
@@ -1099,7 +1099,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "vAMMV2-USDC/PERP": {
+        "vAMMV2-USDC.E/PERP": {
             "vaultVersion": "1",
             "vaultId": "86",
             "vaultAddress": "0x7A45cb316f1209E1890Ac3350F75564AC90b50F5",
@@ -1144,7 +1144,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "vAMMV2-USDC/MTA": {
+        "vAMMV2-USDC.E/MTA": {
             "vaultVersion": "1",
             "vaultId": "89",
             "vaultAddress": "0x5C371b1F8B2c0e2fF00958d29e1D97788Dcd0cdb",
@@ -1159,7 +1159,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "sAMMV2-USDC/msUSD": {
+        "sAMMV2-USDC.E/msUSD": {
             "vaultVersion": "1",
             "vaultId": "90",
             "vaultAddress": "0xf3418867a71c703c1e2a22e3c5672a597c704ba7",
@@ -1263,7 +1263,7 @@
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
         },
-        "sAMMV2-USDV/USDC": {
+        "sAMMV2-USDV/USDC.E": {
             "vaultVersion": "1",
             "vaultId": "96",
             "vaultAddress": "0x3f7aed46e20F3c48C1baF5f265d5ccb7d818eBd7",
@@ -1273,6 +1273,36 @@
             "veloPair": "0x73DaC4c0e02CC9d66e5Fe00569360845C241d3aE",
             "token0": "0x323665443cef804a3b5206103304bd4872ea4253",
             "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-USDC/TAROT": {
+            "vaultVersion": "1",
+            "vaultId": "97",
+            "vaultAddress": "0xe95C88b0bb0D790977b5cfeF977f4f253fc2F2a2",
+            "borrowingReserveId0": "70",
+            "borrowingReserveId1": "56",
+            "veloGauge": "0x73d5C2f4EB0E4EB15B3234f8B880A10c553DA1ea",
+            "veloPair": "0x707ba27189e8Bf89e43b2198E6b88AAC4720124f",
+            "token0": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "token1": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "sAMMV2-USDC/ERN": {
+            "vaultVersion": "1",
+            "vaultId": "98",
+            "vaultAddress": "0x8A082957a26099344d5BF98B637B4D92dc683Ff2",
+            "borrowingReserveId0": "71",
+            "borrowingReserveId1": "32",
+            "veloGauge": "0x6b8242e74Bb0EF58e20414A93c8C69265E85Ef6C",
+            "veloPair": "0x605cCE502dEe6BD201b493782e351e645D44abBB",
+            "token0": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "token1": "0xc5b001DC33727F8F26880B184090D3E252470D45",
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
