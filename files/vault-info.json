@@ -1307,6 +1307,51 @@
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
             ]
+        },
+        "sAMMV2-USDT/LUSD": {
+            "vaultVersion": "1",
+            "vaultId": "99",
+            "vaultAddress": "0xDD2f69d2EB920A0e19190195Cd0Db5c140246701",
+            "borrowingReserveId0": "41",
+            "borrowingReserveId1": "52",
+            "veloGauge": "0x6A38Cdef57A9d3aA0A7F9295778ffdC0B4350117",
+            "veloPair": "0xe8B8bfF1E415258eb3d5FA8DeeE9C38406e609cd",
+            "token0": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+            "token1": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "sAMMV2-USDC/USDC.E": {
+            "vaultVersion": "1",
+            "vaultId": "100",
+            "vaultAddress": "0xc3f3eFC6401bE04D724Cc8B15b83dafd2AfE9b67",
+            "borrowingReserveId0": "71",
+            "borrowingReserveId1": "25",
+            "veloGauge": "0x6dd083cEe9638E0827Dc86805C9891c493f34C56",
+            "veloPair": "0x36E3c209B373b861c185ecdBb8b2EbDD98587BDb",
+            "token0": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "token1": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
+        },
+        "vAMMV2-USDC/VELO": {
+            "vaultVersion": "1",
+            "vaultId": "101",
+            "vaultAddress": "0x607014d617fF72EC8b27fE9fF405f81890553bE3",
+            "borrowingReserveId0": "70",
+            "borrowingReserveId1": "35",
+            "veloGauge": "0xFf6b058484517BF58450DfC4a6eb53F1A2171775",
+            "veloPair": "0xa0A215dE234276CAc1b844fD58901351a50fec8A",
+            "token0": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "token1": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ]
         }
     },
     "base": {
