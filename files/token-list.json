@@ -426,6 +426,11 @@
             "name": "DOG",
             "address": "0x9e53e88dcff56d3062510a745952dec4cefdff9e",
             "decimals": 18
+        },
+        "TYBG": {
+            "name": "TYBG",
+            "address": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
+            "decimals": 18
         }
     }
 }

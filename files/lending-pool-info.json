@@ -561,6 +561,13 @@
             "eTokenAddress": "0x4cca8940b1733c78a6b32427104c9656ac480a91",
             "stakingAddress": "0x85e6ccf15ea3f4bdc4569fde3bb8bca432f7a38e",
             "interestModel": "MODEL-STABLE"
+        },
+        "LUSD-0": {
+            "ReserveId": "72",
+            "underlyingToken": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+            "eTokenAddress": "0xce26a9cbb3ab20b3f49a8abbc754c43bac34a51e",
+            "stakingAddress": "0x2e4a303ae549a87a9aa6f2a51e8759fc63a97d98",
+            "interestModel": "MODEL-1"
         }
     },
     "base": {
@@ -807,6 +814,13 @@
             "underlyingToken": "0x9E53e88dCff56d3062510A745952DEC4cEFDff9E",
             "eTokenAddress": "0x172CC0248d9eA0964Be431240B843D9212878A1c",
             "stakingAddress": "0x78D49Baa0FaE8CfB1CA2e51B2eA5C03fDdDFa4D5",
+            "interestModel": "MODEL-2"
+        },
+        "TYBG-0": {
+            "ReserveId": "36",
+            "underlyingToken": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
+            "eTokenAddress": "0xdf4cd1beb1e88bf98c58b1d54bf55ca4b924cbe8",
+            "stakingAddress": "0x5dc1a8fa98508e342fa8cff0c49ab57138d53337",
             "interestModel": "MODEL-2"
         }
     }
