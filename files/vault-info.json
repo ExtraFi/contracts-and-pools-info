@@ -22,7 +22,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-USDC.E/VELOV2": {
             "vaultVersion": "1",
@@ -40,7 +52,19 @@
             ],
             "routes": [
                 []
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-WETH/USDC.E": {
             "vaultVersion": "1",
@@ -64,7 +88,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-USDC.E/SNX": {
             "vaultVersion": "1",
@@ -88,7 +124,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-STG/USDC.E": {
             "vaultVersion": "1",
@@ -112,7 +160,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-LYRA/USDC.E": {
             "vaultVersion": "1",
@@ -136,7 +196,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-SONNE/USDC.E": {
             "vaultVersion": "1",
@@ -160,7 +232,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/OP": {
             "vaultVersion": "1",
@@ -184,7 +268,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x4200000000000000000000000000000000000042",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-wstETH/OP": {
             "vaultVersion": "1",
@@ -208,7 +304,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+                        "to": "0x4200000000000000000000000000000000000042",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-OP/VELOV2": {
             "vaultVersion": "1",
@@ -226,7 +334,19 @@
             ],
             "routes": [
                 []
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000042",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-THALES/WETH": {
             "vaultVersion": "1",
@@ -250,7 +370,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-THALES/USDC.E": {
             "vaultVersion": "1",
@@ -274,7 +406,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/KWENTA": {
             "vaultVersion": "1",
@@ -298,7 +442,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x920Cf626a271321C151D027030D5d08aF699456b",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-OP/USDC.E": {
             "vaultVersion": "1",
@@ -322,7 +478,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000042",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/USX": {
             "vaultVersion": "1",
@@ -346,7 +514,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/DOLA": {
             "vaultVersion": "1",
@@ -370,7 +550,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USD+/DOLA": {
             "vaultVersion": "1",
@@ -399,7 +591,26 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-FRAX/DOLA": {
             "vaultVersion": "1",
@@ -428,7 +639,26 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-FRAX/USD+": {
             "vaultVersion": "1",
@@ -457,7 +687,26 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/MAI": {
             "vaultVersion": "1",
@@ -481,7 +730,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-DOLA/MAI": {
             "vaultVersion": "1",
@@ -510,7 +771,26 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USD+/DAI+": {
             "vaultVersion": "1",
@@ -568,7 +848,26 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-WETH/frxETH": {
             "vaultVersion": "1",
@@ -592,7 +891,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/ERN": {
             "vaultVersion": "1",
@@ -616,7 +927,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/BOB": {
             "vaultVersion": "1",
@@ -640,7 +963,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-alETH/WETH": {
             "vaultVersion": "1",
@@ -664,7 +999,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-msETH/WETH": {
             "vaultVersion": "1",
@@ -688,7 +1035,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-EXTRA/USDC.E": {
             "vaultVersion": "1",
@@ -712,7 +1071,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-USD+/USDC.E": {
             "vaultVersion": "1",
@@ -736,7 +1107,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-USDC.E/USDT": {
             "vaultVersion": "1",
@@ -760,7 +1143,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-FRAX/OP": {
             "vaultVersion": "1",
@@ -784,7 +1179,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000042",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-USDC.E/BLU": {
             "vaultVersion": "1",
@@ -799,7 +1206,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-RED/VELO": {
             "vaultVersion": "1",
@@ -814,7 +1233,26 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000042",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0x3417E54A51924C225330f8770514aD5560B9098D",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-RED/OP": {
             "vaultVersion": "1",
@@ -829,7 +1267,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000042",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0x3417E54A51924C225330f8770514aD5560B9098D",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-EXA/WETH": {
             "vaultVersion": "1",
@@ -844,7 +1294,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/WLD": {
             "vaultVersion": "1",
@@ -859,7 +1321,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/sUSD": {
             "vaultVersion": "1",
@@ -874,7 +1348,19 @@
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/alUSD": {
             "vaultVersion": "1",
@@ -889,7 +1375,19 @@
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-LUSD/ERN": {
             "vaultVersion": "1",
@@ -918,9 +1416,28 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
-        "vAMMV2-USDC/agEUR-VolatileBorrow": {
+        "vAMMV2-USDC.E/agEUR-VolatileBorrow": {
             "vaultVersion": "1",
             "vaultId": "75",
             "vaultAddress": "0x54015B124DcdCA1c6211fCf4efB57335bE4b4471",
@@ -933,7 +1450,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-TAROTV1/USDC.E": {
             "vaultVersion": "1",
@@ -948,7 +1477,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-UNIDX/WETH": {
             "vaultVersion": "1",
@@ -963,7 +1504,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-wBTC/tBTC": {
             "vaultVersion": "1",
@@ -992,7 +1545,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+                        "to": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-WETH/tBTC": {
             "vaultVersion": "1",
@@ -1007,7 +1572,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-TAROT/USDC.E": {
             "vaultVersion": "1",
@@ -1022,7 +1599,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-VELO/BLU": {
             "vaultVersion": "1",
@@ -1037,7 +1626,26 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-USDC.E/wUSDR": {
             "vaultVersion": "1",
@@ -1052,7 +1660,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-GNode/USDC.E": {
             "vaultVersion": "1",
@@ -1067,7 +1687,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x5976d4c3bcFc1c5f90aB1419D7f3dDF109cEA35a",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-USDC.E/agEUR-StableBorrow": {
             "vaultVersion": "1",
@@ -1082,7 +1714,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-OP/DHT": {
             "vaultVersion": "1",
@@ -1097,7 +1741,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000042",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-USDC.E/PERP": {
             "vaultVersion": "1",
@@ -1112,37 +1768,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
-        },
-        "vAMMV2-fBOMB/VELO": {
-            "vaultVersion": "1",
-            "vaultId": "87",
-            "vaultAddress": "0x5AF725dfeF6ebeFE674aEc278ecc3F1E40c9E46A",
-            "borrowingReserveId0": "62",
-            "borrowingReserveId1": "35",
-            "veloGauge": "0x80e79722F75e08d4D3EC5D138c03d9A59465b975",
-            "veloPair": "0x0af32614EEa68B8D2232B9592FbdB6512ab6DA73",
-            "token0": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
-            "token1": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
-            "stable": false,
-            "rewards": [
-                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
-        },
-        "vAMMV2-WETH/fBOMB": {
-            "vaultVersion": "1",
-            "vaultId": "88",
-            "vaultAddress": "0x0Cb33bDABD9DFc88E1CCa52882697E2BCF813424",
-            "borrowingReserveId0": "1",
-            "borrowingReserveId1": "62",
-            "veloGauge": "0x9f7Dc808aE9C08afF2bf71cb846B52236403e9A9",
-            "veloPair": "0x814e2d6E8f7477329BB6C196111A08464ABE11DD",
-            "token0": "0x4200000000000000000000000000000000000006",
-            "token1": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
-            "stable": false,
-            "rewards": [
-                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-USDC.E/MTA": {
             "vaultVersion": "1",
@@ -1157,7 +1795,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x929B939f8524c3Be977af57A4A0aD3fb1E374b50",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC.E/msUSD": {
             "vaultVersion": "1",
@@ -1172,7 +1822,19 @@
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-OVN/USD+": {
             "vaultVersion": "1",
@@ -1201,7 +1863,32 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    },
+                    {
+                        "from": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "to": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-msOP/OP": {
             "vaultVersion": "1",
@@ -1216,7 +1903,19 @@
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000042",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000042",
+                        "to": "0x33bca143d9b41322479e8d26072a00a352404721",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-wstETH/WETH": {
             "vaultVersion": "1",
@@ -1231,7 +1930,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-wstETH/LDO": {
             "vaultVersion": "1",
@@ -1246,7 +1957,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+                        "to": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-wstETH/VELO": {
             "vaultVersion": "1",
@@ -1261,7 +1984,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
+                        "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDV/USDC.E": {
             "vaultVersion": "1",
@@ -1276,7 +2011,19 @@
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "route0": [
+                    {
+                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "to": "0x323665443cef804a3b5206103304bd4872ea4253",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-USDC/TAROT": {
             "vaultVersion": "1",
@@ -1305,7 +2052,19 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                        "to": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC/ERN": {
             "vaultVersion": "1",
@@ -1320,7 +2079,19 @@
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                        "to": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDT/LUSD": {
             "vaultVersion": "1",
@@ -1349,7 +2120,19 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+                        "to": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC/USDC.E": {
             "vaultVersion": "1",
@@ -1364,7 +2147,19 @@
             "stable": true,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                        "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "stable": true,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-USDC/VELO": {
             "vaultVersion": "1",
@@ -1379,7 +2174,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                        "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         },
         "vAMMV2-WETH/LUSD": {
             "vaultVersion": "1",
@@ -1394,7 +2201,19 @@
             "stable": false,
             "rewards": [
                 "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         }
     },
     "base": {
@@ -1420,7 +2239,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/TAROT": {
             "vaultVersion": "1",
@@ -1444,7 +2275,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xF544251D25f3d243A36B07e7E7962a678f952691",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-EXTRA/USDbC": {
             "vaultVersion": "1",
@@ -1459,7 +2302,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/USDbC": {
             "vaultVersion": "1",
@@ -1483,7 +2338,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x4200000000000000000000000000000000000006",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-AERO/USDbC": {
             "vaultVersion": "1",
@@ -1498,7 +2365,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-cbETH/WETH": {
             "vaultVersion": "1",
@@ -1513,7 +2392,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-DOLA/USDbC": {
             "vaultVersion": "1",
@@ -1528,7 +2419,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-MAI/USDbC": {
             "vaultVersion": "1",
@@ -1543,7 +2446,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-tBTC/WETH": {
             "vaultVersion": "1",
@@ -1558,7 +2473,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-tBTC/USDbC": {
             "vaultVersion": "1",
@@ -1573,7 +2500,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/UNIDX": {
             "vaultVersion": "1",
@@ -1588,7 +2527,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-WETH/DEUS": {
             "vaultVersion": "1",
@@ -1603,7 +2554,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "sAMMV2-DOLA/MAI": {
             "vaultVersion": "1",
@@ -1632,9 +2595,28 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
-        "sAMMV2-USD+/USDbC": {
+        "sAMMV2-USD+/USDbC-DEPRECATED": {
             "vaultVersion": "1",
             "vaultId": "14",
             "vaultAddress": "0x6FBF4Ab888785C784baf08b4131ced6C4823E560",
@@ -1647,9 +2629,21 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
-        "sAMMV2-DOLA/USD+": {
+        "sAMMV2-DOLA/USD+-DEPRECATED": {
             "vaultVersion": "1",
             "vaultId": "15",
             "vaultAddress": "0x394b0Ff5748b68dd01c89bc76bF2e6A3dC31cD21",
@@ -1662,7 +2656,26 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-agEUR/USDbC": {
             "vaultVersion": "1",
@@ -1677,7 +2690,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xa61beb4a3d02decb01039e378237032b351125b4",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/WELL": {
             "vaultVersion": "1",
@@ -1692,7 +2717,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-SONNE/USDbC": {
             "vaultVersion": "1",
@@ -1707,7 +2744,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-USDC/USDbC": {
             "vaultVersion": "1",
@@ -1722,7 +2771,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-OVN/USD+": {
             "vaultVersion": "1",
@@ -1751,7 +2812,32 @@
                         "stable": true
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    },
+                    {
+                        "from": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+                        "to": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-WETH/wstETH": {
             "vaultVersion": "1",
@@ -1766,7 +2852,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-AERO/wstETH": {
             "vaultVersion": "1",
@@ -1781,7 +2879,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+                "route0": [
+                    {
+                        "from": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-WETH/BASED": {
             "vaultVersion": "1",
@@ -1796,7 +2906,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x9cbd543f1b1166b2df36b68eb6bb1dce24e6abdf",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "sAMMV2-eUSD/USDbC": {
             "vaultVersion": "1",
@@ -1811,7 +2933,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "route0": [
+                    {
+                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "to": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/USDC": {
             "vaultVersion": "1",
@@ -1826,7 +2960,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "sAMMV2-DOLA/USDC": {
             "vaultVersion": "1",
@@ -1841,7 +2987,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-USDC/MAI": {
             "vaultVersion": "1",
@@ -1856,7 +3014,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-USDC/AERO": {
             "vaultVersion": "1",
@@ -1871,7 +3041,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "sAMMV2-USDC/eUSD": {
             "vaultVersion": "1",
@@ -1895,7 +3077,19 @@
                         "stable": false
                     }
                 ]
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-SONNE/USDC": {
             "vaultVersion": "1",
@@ -1910,7 +3104,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-DAI/USDC": {
             "vaultVersion": "1",
@@ -1925,7 +3131,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "sAMMV2-cbETH/WETH": {
             "vaultVersion": "1",
@@ -1940,7 +3158,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-EXTRA/WETH": {
             "vaultVersion": "1",
@@ -1955,7 +3185,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         },
         "vAMMV2-WETH/DOG": {
             "vaultVersion": "1",
@@ -1970,7 +3212,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x9e53e88dcff56d3062510a745952dec4cefdff9e",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-TYBG/WETH": {
             "vaultVersion": "1",
@@ -1985,7 +3239,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         }
     }
 }

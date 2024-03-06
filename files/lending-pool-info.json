@@ -620,12 +620,12 @@
             "stakingAddress": "0x2868ebcf5b4f24d5ee1c738ea0a954ac8d7ceb35",
             "interestModel": "MODEL-2"
         },
-        "USD+-0": {
+        "USD+-STABLE": {
             "ReserveId": "8",
             "underlyingToken": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
-            "eTokenAddress": "0x2546fe1f2ca9a31ebed04035eba7c4544bff2745",
-            "stakingAddress": "0x7a883e7752f20f98869e3ea7e29e0f2478cd34a2",
-            "interestModel": "MODEL-2"
+            "eTokenAddress": "0x3510db57b98866b40dd5d913a73a0117fb6014f0",
+            "stakingAddress": "0xb8dfd948b4d36f9e4e11728dc4e6b38764dbbdd3",
+            "interestModel": "MODEL-STABLE"
         },
         "DAI+-STABLE": {
             "ReserveId": "9",
@@ -634,12 +634,12 @@
             "stakingAddress": "0x2868ebcf5b4f24d5ee1c738ea0a954ac8d7ceb35",
             "interestModel": "MODEL-STABLE"
         },
-        "USD+-STABLE": {
+        "USD+-0": {
             "ReserveId": "10",
             "underlyingToken": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
             "eTokenAddress": "0x2546fe1f2ca9a31ebed04035eba7c4544bff2745",
             "stakingAddress": "0x7a883e7752f20f98869e3ea7e29e0f2478cd34a2",
-            "interestModel": "MODEL-STABLE"
+            "interestModel": "MODEL-1"
         },
         "USDbC-STABLE": {
             "ReserveId": "11",
