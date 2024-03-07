@@ -431,6 +431,16 @@
             "name": "TYBG",
             "address": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
             "decimals": 18
+        },
+        "bsdETH": {
+            "name": "bsdETH",
+            "address": "0xcb327b99ff831bf8223cced12b1338ff3aa322ff",
+            "decimals": 18
+        },
+        "WELS": {
+            "name": "WELS",
+            "address": "0x7f62ac1e974d65fab4a81821ca6af659a5f46298",
+            "decimals": 18
         }
     }
 }
