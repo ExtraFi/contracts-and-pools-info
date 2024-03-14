@@ -441,6 +441,11 @@
             "name": "WELS",
             "address": "0x7f62ac1e974d65fab4a81821ca6af659a5f46298",
             "decimals": 18
+        },
+        "GB": {
+            "name": "GB",
+            "address": "0x2af864fb54b55900cd58d19c7102d9e4fa8d84a3",
+            "decimals": 18
         }
     }
 }

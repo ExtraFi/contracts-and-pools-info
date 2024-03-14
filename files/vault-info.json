@@ -2376,6 +2376,33 @@
                     }
                 ]
             }
+        },
+        "sAMMV2-USDC/sUSD": {
+            "vaultVersion": "1",
+            "vaultId": "114",
+            "vaultAddress": "0x3Fb128BF806e6cE5072669dd78691f39206feB60",
+            "borrowingReserveId0": "71",
+            "borrowingReserveId1": "43",
+            "veloGauge": "0x0E4c56B4a766968b12c286f67aE341b11eDD8b8d",
+            "veloPair": "0xbC26519f936A90E78fe2C9aA2A03CC208f041234",
+            "token0": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "token1": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                        "to": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         }
     },
     "base": {
@@ -3467,6 +3494,33 @@
                         "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
                     }
                 ]
+            }
+        },
+        "vAMMV2-GB/WETH": {
+            "vaultVersion": "1",
+            "vaultId": "38",
+            "vaultAddress": "0xd8f1973d7d394731cfdb83d1ac42cfbf63fc6800",
+            "borrowingReserveId0": "39",
+            "borrowingReserveId1": "1",
+            "veloGauge": "0x83FC503345Dcde6197b2BD8eaa82ccb4b737Be40",
+            "veloPair": "0x284ddaDA0B71F2D0D4e395B69b1013dBf6f3e6C1",
+            "token0": "0x2af864fb54b55900cd58d19c7102d9e4fa8d84a3",
+            "token1": "0x4200000000000000000000000000000000000006",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x2af864fb54b55900cd58d19c7102d9e4fa8d84a3",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
             }
         }
     }
