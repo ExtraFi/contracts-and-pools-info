@@ -1,5 +1,10 @@
 {
     "optimism": {
+        "2192": {
+            "name": "2192",
+            "address": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
+            "decimals": 18
+        },
         "Z": {
             "name": "",
             "address": "",

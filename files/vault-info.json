@@ -2403,6 +2403,33 @@
                     }
                 ]
             }
+        },
+        "vAMMV2-2192/WETH": {
+            "vaultVersion": "1",
+            "vaultId": "115",
+            "vaultAddress": "0x6b3980538D84c020e0aB8857eF8Af627Be5BB20A",
+            "borrowingReserveId0": "73",
+            "borrowingReserveId1": "1",
+            "veloGauge": "0x9031DF5Dac172e0D685d7c67F2a7C6Aa067D1B43",
+            "veloPair": "0x0E9DA98191551c417D25BeBE69F2CbE47DfB186f",
+            "token0": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
+            "token1": "0x4200000000000000000000000000000000000006",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ],
+                "route1": []
+            }
         }
     },
     "base": {
@@ -3521,6 +3548,67 @@
                     }
                 ],
                 "route1": []
+            }
+        },
+        "vAMMV2-WETH/AERO": {
+            "vaultVersion": "1",
+            "vaultId": "39",
+            "vaultAddress": "0xCec27adF31Bec4aaAb95c33A283d4BFF88E90927",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "3",
+            "veloGauge": "0x96a24aB830D4ec8b1F6f04Ceac104F1A3b211a01",
+            "veloPair": "0x7f670f78B17dEC44d5Ef68a48740b6f8849cc2e6",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
+        },
+        "vAMMV2-EXTRA/AERO": {
+            "vaultVersion": "1",
+            "vaultId": "40",
+            "vaultAddress": "0x574B20cB81fe752541dB90F136E7A1786dFa69C3",
+            "borrowingReserveId0": "4",
+            "borrowingReserveId1": "3",
+            "veloGauge": "0x6664867531c0FDd058881153FaBE7D2162833b07",
+            "veloPair": "0x688F778C51dB4D990bF1abaF8d33fD95e48C6641",
+            "token0": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+            "token1": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
             }
         }
     }
