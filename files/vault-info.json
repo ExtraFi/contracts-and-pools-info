@@ -2430,6 +2430,33 @@
                 ],
                 "route1": []
             }
+        },
+        "vAMMV2-USDC/SONNE": {
+            "vaultVersion": "1",
+            "vaultId": "116",
+            "vaultAddress": "0xFf29F92a849fA86B5364D9F2776fD2FA4431a581",
+            "borrowingReserveId0": "70",
+            "borrowingReserveId1": "13",
+            "veloGauge": "0x62D9e4e99482aF8D573d5ce1ed527C96783153ad",
+            "veloPair": "0xf8Bfd2C99409cfa2AbfB94448ab967288010399e",
+            "token0": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "token1": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                        "to": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
+                        "stable": false,
+                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                    }
+                ]
+            }
         }
     },
     "base": {
@@ -3624,7 +3651,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-WETH/MET": {
             "vaultVersion": "1",
@@ -3639,7 +3678,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x93dc5cb35627a759848c7a7f0079ea7b49e435a5",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "vAMMV2-WETH/THALES": {
             "vaultVersion": "1",
@@ -3654,7 +3705,19 @@
             "stable": false,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xf34e0cff046e154cafcae502c7541b9e5fd8c249",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
+            }
         },
         "sAMMV2-LUSD/USDC": {
             "vaultVersion": "1",
@@ -3669,7 +3732,19 @@
             "stable": true,
             "rewards": [
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
-            ]
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "stable": true,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": []
+            }
         }
     }
 }

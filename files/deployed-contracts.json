@@ -22,7 +22,7 @@
         "VeRewardDistributorLegacy": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
         "VeRewardDistributor": "0xc60e33B114131e9DD577bc6BEbf29C44C8c38600",
         "ChainLinkOracle": "0xBEdfdA828475005Dc8E4a09Aaa34BD0b8CA807e4",
-        "DataProviderContract": "0x73CF4132F6759AcA258C86Ed9952B8a9e7119199",
+        "DataProviderContract": "0xe06C1bdA58079236a5BD599c1209289E1827c6d0",
         "ExtraOftProxy": "0x0C9D44f5a573F6CfC9E8264A5cA72A1184616Ef4",
         "VaultLibraries": {
             "0": {
@@ -60,7 +60,7 @@
         "VeRewardDistributor": "0xB7D8613728efCfbB18bCD63dEeC06F64441D322a",
         "SwapPathManager": "0x5B5bf5A296aD2c98567B1950Cc4BC32bFA4b3308",
         "ChainLinkOracle": "0x93D09944B4b520289BeAAac646673095ca0fb1c4",
-        "DataProviderContract": "0x992E93D231915a25920BDb2E07229E5fff7Fac59",
+        "DataProviderContract": "0x4cBd1af1Db7960Db8B4962d9a0389D912C3bc0b0",
         "VaultLibraries": {
             "1": {
                 "VaultDeployerLib": "0x2C58eCe45aC754B80FD39F5e7E67a4b0E91a1525",
