@@ -294,6 +294,11 @@
             "name": "USDC",
             "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
             "decimals": 6
+        },
+        "pxETH": {
+            "name": "pxETH",
+            "address": "0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4",
+            "decimals": 18
         }
     },
     "base": {
@@ -470,6 +475,36 @@
         "LUSD": {
             "name": "LUSD",
             "address": "0x368181499736d0c0cc614dbb145e2ec1ac86b8c6",
+            "decimals": 18
+        },
+        "RSR": {
+            "name": "RSR",
+            "address": "0xab36452dbac151be02b16ca17d8919826072f64a",
+            "decimals": 18
+        },
+        "VIRTUAL": {
+            "name": "VIRTUAL",
+            "address": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+            "decimals": 18
+        },
+        "SEXY": {
+            "name": "SEXY",
+            "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+            "decimals": 18
+        },
+        "TKN": {
+            "name": "TKN",
+            "address": "0x78b3c724a2f663d11373c4a1978689271895256f",
+            "decimals": 18
+        },
+        "wBaseDOGE": {
+            "name": "wBaseDOGE",
+            "address": "0x373504da48418c67e6fcd071f33cb0b3b47613c7",
+            "decimals": 18
+        },
+        "DEGEN": {
+            "name": "DEGEN",
+            "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
             "decimals": 18
         }
     }
