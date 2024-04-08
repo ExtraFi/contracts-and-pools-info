@@ -920,6 +920,20 @@
             "eTokenAddress": "0x8cf7a27920918389e2910f3653b751d3fee3efdf",
             "stakingAddress": "0x99d009f296fb9bd0fead9a92bd1ef9c62b160cb3",
             "interestModel": "MODEL-2"
+        },
+        "WETH-LRT": {
+            "ReserveId": "49",
+            "underlyingToken": "0x4200000000000000000000000000000000000006",
+            "eTokenAddress": "0x57ae662e6515fb3a38dd19aa577dd0bfc7c4780e",
+            "stakingAddress": "0x0977c04feb8ebf38a6ed1c0176cbc42f45cdaef5",
+            "interestModel": "MODEL-2"
+        },
+        "ezETH-0": {
+            "ReserveId": "50",
+            "underlyingToken": "0x2416092f143378750bb29b79ed961ab195cceea5",
+            "eTokenAddress": "0x697717320c731c03f306d6a2d3eb223e615fbae9",
+            "stakingAddress": "0x128baeb558edcc1861044fad3f7bb8dd04c95eec",
+            "interestModel": "MODEL-2"
         }
     }
 }

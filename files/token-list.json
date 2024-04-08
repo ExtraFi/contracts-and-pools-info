@@ -506,6 +506,11 @@
             "name": "DEGEN",
             "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
             "decimals": 18
+        },
+        "ezETH": {
+            "name": "ezETH",
+            "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+            "decimals": 18
         }
     }
 }
