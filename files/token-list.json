@@ -299,6 +299,11 @@
             "name": "pxETH",
             "address": "0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4",
             "decimals": 18
+        },
+        "TKN": {
+            "name": "TKN",
+            "address": "0x3eb398fec5f7327c6b15099a9681d9568ded2e82",
+            "decimals": 18
         }
     },
     "base": {
@@ -526,6 +531,21 @@
             "name": "USDC+",
             "address": "0x85483696cc9970ad9edd786b2c5ef735f38d156f",
             "decimals": 6
+        },
+        "crvUSD": {
+            "name": "crvUSD",
+            "address": "0x417ac0e078398c154edfadd9ef675d30be60af93",
+            "decimals": 18
+        },
+        "WELL-NATIVE": {
+            "name": "WELL-NATIVE",
+            "address": "0xa88594d404727625a9437c3f886c7643872296ae",
+            "decimals": 18
+        },
+        "ANIME": {
+            "name": "ANIME",
+            "address": "0x0e0c9756a3290cd782cf4ab73ac24d25291c9564",
+            "decimals": 18
         }
     }
 }
