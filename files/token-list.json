@@ -304,6 +304,11 @@
             "name": "TKN",
             "address": "0x3eb398fec5f7327c6b15099a9681d9568ded2e82",
             "decimals": 18
+        },
+        "wrsETH": {
+            "name": "wrsETH",
+            "address": "0x87eee96d50fb761ad85b1c982d28a042169d61b1",
+            "decimals": 18
         }
     },
     "base": {
@@ -550,6 +555,11 @@
         "weETH": {
             "name": "weETH",
             "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+            "decimals": 18
+        },
+        "wrsETH": {
+            "name": "wrsETH",
+            "address": "0xedfa23602d0ec14714057867a78d01e94176bea0",
             "decimals": 18
         }
     }
