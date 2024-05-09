@@ -974,6 +974,27 @@
             "eTokenAddress": "0xdd925a6e86d4a12fa311b94893aedce3aca136d2",
             "stakingAddress": "0xc154b7325122bca3be3f19eddb919df8d2830bf8",
             "interestModel": "MODEL-2"
+        },
+        "QI-0": {
+            "ReserveId": "59",
+            "underlyingToken": "0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7",
+            "eTokenAddress": "0x24623f69703c8a0a73f27d3c6bbaf7ad8c11597d",
+            "stakingAddress": "0xbb2ab089d087c01b3006de91105611f8b846c4e7",
+            "interestModel": "MODEL-2"
+        },
+        "KLIMA-0": {
+            "ReserveId": "60",
+            "underlyingToken": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
+            "eTokenAddress": "0xe8ac89ceed886368b3afd651592e43f656f996a4",
+            "stakingAddress": "0xcdc61440531107ac8218b11f311f400e4bfd8d0e",
+            "interestModel": "MODEL-2"
+        },
+        "TOWER-0": {
+            "ReserveId": "61",
+            "underlyingToken": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee",
+            "eTokenAddress": "0xbf9008b077ac3f692a723e6fea6360329aff929a",
+            "stakingAddress": "0x88abe6b68a01cd49229d244e634e159e0cc968e8",
+            "interestModel": "MODEL-2"
         }
     }
 }

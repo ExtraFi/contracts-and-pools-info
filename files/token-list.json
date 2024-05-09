@@ -309,6 +309,11 @@
             "name": "wrsETH",
             "address": "0x87eee96d50fb761ad85b1c982d28a042169d61b1",
             "decimals": 18
+        },
+        "esEXA": {
+            "name": "esEXA",
+            "address": "0xbea586A167853ADddEF12818f264f1F9823fBc18",
+            "decimals": 18
         }
     },
     "base": {
@@ -560,6 +565,21 @@
         "wrsETH": {
             "name": "wrsETH",
             "address": "0xedfa23602d0ec14714057867a78d01e94176bea0",
+            "decimals": 18
+        },
+        "QI": {
+            "name": "QI",
+            "address": "0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7",
+            "decimals": 18
+        },
+        "KLIMA": {
+            "name": "KLIMA",
+            "address": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
+            "decimals": 9
+        },
+        "TOWER": {
+            "name": "TOWER",
+            "address": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee",
             "decimals": 18
         }
     }
