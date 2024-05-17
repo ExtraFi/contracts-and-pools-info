@@ -2622,10 +2622,10 @@
         },
         "vAMMV2-USDA/EURA": {
             "vaultVersion": "1",
-            "vaultId": "123",
-            "vaultAddress": "0x60adEB7677b5aC46f13c70C503eB4F45aC2D06a0",
+            "vaultId": "124",
+            "vaultAddress": "0x7623A52e7cF7ABEf86Ea4EF5430CF944BDc831Ca",
             "borrowingReserveId0": "78",
-            "borrowingReserveId1": "79",
+            "borrowingReserveId1": "59",
             "veloGauge": "0x23e5b45c0E9f89FD5356E788fb344f0Fbc018576",
             "veloPair": "0xce85B91A150Cd04945dcb5523fbe76F8088bEe57",
             "token0": "0x0000206329b97db379d5e1bf586bbdb969c63274",

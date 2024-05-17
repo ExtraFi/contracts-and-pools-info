@@ -385,13 +385,6 @@
             "stakingAddress": "0x128baeb558edcc1861044fad3f7bb8dd04c95eec",
             "interestModel": "MODEL-2"
         },
-        "agEUR-0": {
-            "ReserveId": "51",
-            "underlyingToken": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
-            "eTokenAddress": "0x9b9cb58a9f6f12bc4e3ea3af639aec7ab7594d11",
-            "stakingAddress": "0xca2fd7916a68e7246b852ad6b0ee1b960c6d8a06",
-            "interestModel": "MODEL-2"
-        },
         "LUSD-STABLE": {
             "ReserveId": "52",
             "underlyingToken": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
@@ -441,7 +434,7 @@
             "stakingAddress": "0xc154b7325122bca3be3f19eddb919df8d2830bf8",
             "interestModel": "MODEL-2"
         },
-        "auEUR-0": {
+        "EURA-0": {
             "ReserveId": "59",
             "underlyingToken": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
             "eTokenAddress": "0x9e75628a053665d3139505479e0457b3ae1a7b70",
@@ -579,13 +572,6 @@
             "underlyingToken": "0x0000206329b97db379d5e1bf586bbdb969c63274",
             "eTokenAddress": "0xb1d24422fe45787ee68d2cb0d7cc45cf3251a9a1",
             "stakingAddress": "0xb237a054397cbad6e9bc8f28a951203eed6d8d1e",
-            "interestModel": "MODEL-2"
-        },
-        "EURA-0": {
-            "ReserveId": "79",
-            "underlyingToken": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
-            "eTokenAddress": "0xd71b3c3d90b00d34c3fce615a2fed18c213f63c8",
-            "stakingAddress": "0xc2158af009fa72c1d9453bc7eaf625564f654f45",
             "interestModel": "MODEL-2"
         }
     },
