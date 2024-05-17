@@ -314,6 +314,16 @@
             "name": "esEXA",
             "address": "0xbea586A167853ADddEF12818f264f1F9823fBc18",
             "decimals": 18
+        },
+        "USDA": {
+            "name": "USDA",
+            "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+            "decimals": 18
+        },
+        "EURA": {
+            "name": "EURA",
+            "address": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
+            "decimals": 18
         }
     },
     "base": {
@@ -580,6 +590,16 @@
         "TOWER": {
             "name": "TOWER",
             "address": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee",
+            "decimals": 18
+        },
+        "USDA": {
+            "name": "USDA",
+            "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+            "decimals": 18
+        },
+        "EURA": {
+            "name": "EURA",
+            "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
             "decimals": 18
         }
     }
