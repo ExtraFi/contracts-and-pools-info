@@ -573,6 +573,13 @@
             "eTokenAddress": "0xb1d24422fe45787ee68d2cb0d7cc45cf3251a9a1",
             "stakingAddress": "0xb237a054397cbad6e9bc8f28a951203eed6d8d1e",
             "interestModel": "MODEL-2"
+        },
+        "TLX-0": {
+            "ReserveId": "80",
+            "underlyingToken": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
+            "eTokenAddress": "0x4ef473db2ba6b503ef6ff2db47027607e787b59c",
+            "stakingAddress": "0xeb2a33c64dd60eca79951c421b79509c16206a48",
+            "interestModel": "MODEL-2"
         }
     },
     "base": {
