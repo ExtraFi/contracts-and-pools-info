@@ -611,6 +611,11 @@
             "name": "USDz",
             "address": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
             "decimals": 18
+        },
+        "GHST": {
+            "name": "GHST",
+            "address": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
+            "decimals": 18
         }
     }
 }

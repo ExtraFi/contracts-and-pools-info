@@ -1023,6 +1023,13 @@
             "eTokenAddress": "0x02ed841c12461dcb22efa4763e6aeb7ef5adc2c0",
             "stakingAddress": "0x6c997b89c37cb660237742cabf442e17e3f9a23f",
             "interestModel": "MODEL-2"
+        },
+        "GHST-0": {
+            "ReserveId": "65",
+            "underlyingToken": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
+            "eTokenAddress": "0x4ef65aa18a0f274f772bd1fba2b7ea604cfff25d",
+            "stakingAddress": "0x18cc6aa9c761036ba0d8fac6bc49a577d7ce41af",
+            "interestModel": "MODEL-2"
         }
     }
 }
