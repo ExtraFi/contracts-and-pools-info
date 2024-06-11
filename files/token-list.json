@@ -616,6 +616,11 @@
             "name": "GHST",
             "address": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
             "decimals": 18
+        },
+        "HBR": {
+            "name": "HBR",
+            "address": "0x416bd43bc76d496ff49923c20ecaf86b52ab078d",
+            "decimals": 18
         }
     }
 }

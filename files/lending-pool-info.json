@@ -1030,6 +1030,13 @@
             "eTokenAddress": "0x4ef65aa18a0f274f772bd1fba2b7ea604cfff25d",
             "stakingAddress": "0x18cc6aa9c761036ba0d8fac6bc49a577d7ce41af",
             "interestModel": "MODEL-2"
+        },
+        "HBR-0": {
+            "ReserveId": "66",
+            "underlyingToken": "0x416bd43Bc76D496ff49923c20eCaf86b52Ab078d",
+            "eTokenAddress": "0x607aaAA99e1e654d6c342561a703BefC7B154B53",
+            "stakingAddress": "0x650Be800438e307BCa919948E5779B875678fDc0",
+            "interestModel": "MODEL-2"
         }
     }
 }
