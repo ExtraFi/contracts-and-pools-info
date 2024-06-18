@@ -621,6 +621,16 @@
             "name": "HBR",
             "address": "0x416bd43bc76d496ff49923c20ecaf86b52ab078d",
             "decimals": 18
+        },
+        "msETH": {
+            "name": "msETH",
+            "address": "0x7ba6f01772924a82d9626c126347a28299e98c98",
+            "decimals": 18
+        },
+        "msUSD": {
+            "name": "msUSD",
+            "address": "0x526728dbc96689597f85ae4cd716d4f7fccbae9d",
+            "decimals": 18
         }
     }
 }
