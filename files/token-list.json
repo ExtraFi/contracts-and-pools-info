@@ -631,6 +631,11 @@
             "name": "msUSD",
             "address": "0x526728dbc96689597f85ae4cd716d4f7fccbae9d",
             "decimals": 18
+        },
+        "BAVA": {
+            "name": "BAVA",
+            "address": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
+            "decimals": 18
         }
     }
 }

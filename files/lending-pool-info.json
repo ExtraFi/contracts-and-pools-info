@@ -1051,6 +1051,13 @@
             "eTokenAddress": "0xbb40faaa08bb76a8793cde6b5aa80e6c47d753b2",
             "stakingAddress": "0xc36295c964b44c5e20b3bbdb7db8b96c58fcc257",
             "interestModel": "MODEL-2"
+        },
+        "BAVA-0": {
+            "ReserveId": "69",
+            "underlyingToken": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
+            "eTokenAddress": "0xe714870af8d0047d77129aa3de1606f5ac95ffa0",
+            "stakingAddress": "0x61f0c6afd3d4775a2072f9ffd502dbeab1560f36",
+            "interestModel": "MODEL-2"
         }
     }
 }

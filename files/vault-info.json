@@ -4818,9 +4818,9 @@
                 "route1": [
                     {
                         "from": "0x4200000000000000000000000000000000000006",
-                        "to": "0x7f62ac1e974d65fab4a81821ca6af659a5f46298",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
                     }
                 ]
             }
@@ -4958,6 +4958,46 @@
                     }
                 ],
                 "route1": []
+            }
+        },
+        "vAMMV2-BAVA/AERO": {
+            "vaultVersion": "1",
+            "vaultId": "76",
+            "vaultAddress": "0x172541df2112DD0Edd20DAc2b340fE0De0932845",
+            "borrowingReserveId0": "69",
+            "borrowingReserveId1": "3",
+            "veloGauge": "0xE3Da183CDBbd0F01867605C632F1E275e7eD6E3D",
+            "veloPair": "0xD3c2fa602B8da5b0b9c25dFBE7F2f31Bb512dB13",
+            "token0": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
+            "token1": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    },
+                    {
+                        "from": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "to": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+                        "stable": false,
+                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                    }
+                ]
             }
         }
     }
