@@ -580,6 +580,13 @@
             "eTokenAddress": "0x4ef473db2ba6b503ef6ff2db47027607e787b59c",
             "stakingAddress": "0xeb2a33c64dd60eca79951c421b79509c16206a48",
             "interestModel": "MODEL-2"
+        },
+        "weETH-0": {
+            "ReserveId": "81",
+            "underlyingToken": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+            "eTokenAddress": "0xff488d1dc0074fdc243bff9b68d8a2d9c4eae627",
+            "stakingAddress": "0xa7431a464f1664246795ac6e223cf812fd52461c",
+            "interestModel": "MODEL-2"
         }
     },
     "base": {

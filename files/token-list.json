@@ -329,6 +329,11 @@
             "name": "TLX",
             "address": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
             "decimals": 18
+        },
+        "weETH": {
+            "name": "weETH",
+            "address": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
+            "decimals": 18
         }
     },
     "base": {
