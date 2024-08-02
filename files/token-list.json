@@ -641,6 +641,21 @@
             "name": "BAVA",
             "address": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
             "decimals": 18
+        },
+        "zunUSD": {
+            "name": "zunUSD",
+            "address": "0x6ef3864876424ade834a7c1be8c0cf3d71208b84",
+            "decimals": 18
+        },
+        "sUSDz": {
+            "name": "sUSDz",
+            "address": "0xe31ee12bdfdd0573d634124611e85338e2cbf0cf",
+            "decimals": 18
+        },
+        "BCT": {
+            "name": "BCT",
+            "address": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2",
+            "decimals": 18
         }
     }
 }

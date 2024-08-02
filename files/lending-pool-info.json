@@ -1027,8 +1027,8 @@
         "USDz-0": {
             "ReserveId": "64",
             "underlyingToken": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
-            "eTokenAddress": "0x02ed841c12461dcb22efa4763e6aeb7ef5adc2c0",
-            "stakingAddress": "0x6c997b89c37cb660237742cabf442e17e3f9a23f",
+            "eTokenAddress": "0xcBafA036638F9B128Bed110420D4594353d03C55",
+            "stakingAddress": "0x5FcB1222E1986Faa7F6b7B889Ad756f9394C12cf",
             "interestModel": "MODEL-2"
         },
         "GHST-0": {
@@ -1064,6 +1064,20 @@
             "underlyingToken": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
             "eTokenAddress": "0xe714870af8d0047d77129aa3de1606f5ac95ffa0",
             "stakingAddress": "0x61f0c6afd3d4775a2072f9ffd502dbeab1560f36",
+            "interestModel": "MODEL-2"
+        },
+        "sUSDz-0": {
+            "ReserveId": "70",
+            "underlyingToken": "0xe31ee12bdfdd0573d634124611e85338e2cbf0cf",
+            "eTokenAddress": "0x719aaa50953e6bb41cc839aff021e76e297cfc81",
+            "stakingAddress": "0x894a902c835bf00a6579d50acfcba5af13b4315d",
+            "interestModel": "MODEL-2"
+        },
+        "BCT-0": {
+            "ReserveId": "71",
+            "underlyingToken": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2",
+            "eTokenAddress": "0xfb43a995011bc34a6f52fdc628fb26b59d571a89",
+            "stakingAddress": "0x85e6ccf15ea3f4bdc4569fde3bb8bca432f7a38e",
             "interestModel": "MODEL-2"
         }
     }
