@@ -656,6 +656,11 @@
             "name": "BCT",
             "address": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2",
             "decimals": 18
+        },
+        "EURC": {
+            "name": "EURC",
+            "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+            "decimals": 6
         }
     }
 }

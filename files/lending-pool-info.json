@@ -1079,6 +1079,13 @@
             "eTokenAddress": "0xfb43a995011bc34a6f52fdc628fb26b59d571a89",
             "stakingAddress": "0x85e6ccf15ea3f4bdc4569fde3bb8bca432f7a38e",
             "interestModel": "MODEL-2"
+        },
+        "EURC-0": {
+            "ReserveId": "72",
+            "underlyingToken": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+            "eTokenAddress": "0xeafb03a018a660a9a08168262e331378102f96fd",
+            "stakingAddress": "0x2e4a303ae549a87a9aa6f2a51e8759fc63a97d98",
+            "interestModel": "MODEL-2"
         }
     }
 }
