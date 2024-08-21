@@ -666,6 +666,11 @@
             "name": "PDT",
             "address": "0xeff2a458e464b07088bdb441c21a42ab4b61e07e",
             "decimals": 18
+        },
+        "ION": {
+            "name": "ION",
+            "address": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
+            "decimals": 18
         }
     }
 }
