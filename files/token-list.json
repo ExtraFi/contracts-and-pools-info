@@ -671,6 +671,11 @@
             "name": "ION",
             "address": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
             "decimals": 18
+        },
+        "MODE": {
+            "name": "MODE",
+            "address": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
+            "decimals": 18
         }
     }
 }
