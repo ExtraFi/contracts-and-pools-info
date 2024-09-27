@@ -676,6 +676,21 @@
             "name": "MODE",
             "address": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
             "decimals": 18
+        },
+        "cbBTC": {
+            "name": "cbBTC",
+            "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "decimals": 8
+        },
+        "OGN": {
+            "name": "OGN",
+            "address": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7",
+            "decimals": 18
+        },
+        "superOETHb": {
+            "name": "superOETHb",
+            "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+            "decimals": 18
         }
     }
 }

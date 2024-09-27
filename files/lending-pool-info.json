@@ -1107,6 +1107,27 @@
             "eTokenAddress": "0x8feecf49c7c92876e857b634827294924f1bffbd",
             "stakingAddress": "0x31fa59b7b8cb93baedb92363e61e1b6dc0ed88d9",
             "interestModel": "MODEL-2"
+        },
+        "cbBTC-0": {
+            "ReserveId": "76",
+            "underlyingToken": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "eTokenAddress": "0x1cc24200e91e83c04f829329cf4ad8c3d345f5fd",
+            "stakingAddress": "0x5e322a2521d06f0bd98271943e522245303b646f",
+            "interestModel": "MODEL-2"
+        },
+        "OGN-0": {
+            "ReserveId": "77",
+            "underlyingToken": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7",
+            "eTokenAddress": "0x11d0e099129b14e85b6d5fc61a90fb427248c77e",
+            "stakingAddress": "0x01ef58e98e389ff5fb80a7b00e495b81cb6298d9",
+            "interestModel": "MODEL-2"
+        },
+        "superOETHb-0": {
+            "ReserveId": "78",
+            "underlyingToken": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+            "eTokenAddress": "0xab50499fd8d8830c502286fbb21ade3038d5ca1f",
+            "stakingAddress": "0xb237a054397cbad6e9bc8f28a951203eed6d8d1e",
+            "interestModel": "MODEL-2"
         }
     }
 }
