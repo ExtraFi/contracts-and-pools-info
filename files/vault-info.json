@@ -30,7 +30,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -61,7 +62,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -97,7 +99,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -133,7 +136,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -168,7 +172,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -204,7 +209,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -240,7 +246,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -277,7 +284,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x4200000000000000000000000000000000000042",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -313,7 +321,8 @@
                         "from": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
                         "to": "0x4200000000000000000000000000000000000042",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -343,7 +352,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -378,7 +388,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -414,7 +425,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x217D47011b23BB961eB6D93cA9945B7501a5BB11",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -451,7 +463,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x920Cf626a271321C151D027030D5d08aF699456b",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -487,7 +500,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -523,7 +537,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -559,7 +574,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -599,7 +615,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -607,7 +624,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -647,7 +665,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -655,7 +674,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -695,7 +715,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -703,7 +724,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -739,7 +761,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -779,7 +802,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -787,7 +811,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xdFA46478F9e5EA86d57387849598dbFB2e964b02",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -856,7 +881,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -864,7 +890,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -900,7 +927,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -936,7 +964,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xc5b001DC33727F8F26880B184090D3E252470D45",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -972,7 +1001,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1007,7 +1037,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x3E29D3A9316dAB217754d13b28646B76607c5f04",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1043,7 +1074,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x1610e3c85dd44Af31eD7f33a63642012Dca0C5A5",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1079,7 +1111,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1115,7 +1148,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1152,7 +1186,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1187,7 +1222,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1215,7 +1251,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1241,7 +1278,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0x3417E54A51924C225330f8770514aD5560B9098D",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -1249,7 +1287,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1275,7 +1314,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0x3417E54A51924C225330f8770514aD5560B9098D",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1302,7 +1342,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x1e925De1c68ef83bD98eE3E130eF14a50309C01B",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1330,7 +1371,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1357,7 +1399,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1384,7 +1427,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1424,7 +1468,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -1432,7 +1477,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xc5b001DC33727F8F26880B184090D3E252470D45",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1459,7 +1505,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1485,7 +1532,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1512,7 +1560,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x28b42698Caf46B4B012CF38b6C75867E0762186D",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1554,7 +1603,8 @@
                         "from": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
                         "to": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1581,7 +1631,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1607,7 +1658,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1634,7 +1686,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -1642,7 +1695,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1669,7 +1723,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0xC03b43d492d904406db2d7D57e67C7e8234bA752",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1695,7 +1750,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x5976d4c3bcFc1c5f90aB1419D7f3dDF109cEA35a",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1723,7 +1779,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1750,7 +1807,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0xAF9fE3B5cCDAe78188B1F8b9a49Da7ae9510F151",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1777,7 +1835,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1804,7 +1863,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x929B939f8524c3Be977af57A4A0aD3fb1E374b50",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1831,7 +1891,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1871,13 +1932,15 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
                         "to": "0x3b08fcd15280e7B5A6e404c4abb87F7C774D1B2e",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -1885,7 +1948,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x73cb180bf0521828d8849bc8CF2B920918e23032",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1911,7 +1975,8 @@
                         "from": "0x4200000000000000000000000000000000000042",
                         "to": "0x33bca143d9b41322479e8d26072a00a352404721",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1938,7 +2003,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -1966,7 +2032,8 @@
                         "from": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
                         "to": "0xfdb794692724153d1488ccdbe0c56c252596735f",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -1993,7 +2060,8 @@
                         "from": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
                         "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2019,7 +2087,8 @@
                         "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "to": "0x323665443cef804a3b5206103304bd4872ea4253",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2061,7 +2130,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x1F514A61bcde34F94Bc39731235690ab9da737F7",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2088,7 +2158,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0xc5b001DC33727F8F26880B184090D3E252470D45",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2129,7 +2200,8 @@
                         "from": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
                         "to": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2156,7 +2228,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2183,7 +2256,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2210,7 +2284,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xc40F949F8a4e094D1b49a23ea9241D289B7b2819",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2236,7 +2311,8 @@
                         "from": "0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb",
                         "to": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2264,7 +2340,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2291,7 +2368,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2318,7 +2396,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x323665443cef804a3b5206103304bd4872ea4253",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2345,7 +2424,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0xbfD291DA8A403DAAF7e5E9DC1ec0aCEaCd4848B9",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2372,7 +2452,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x4200000000000000000000000000000000000042",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2399,7 +2480,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2425,7 +2507,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2453,7 +2536,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x1DB2466d9F5e10D7090E7152B68d62703a2245F0",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2480,7 +2564,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x9dabae7274d28a45f0b65bf8ed201a5731492ca0",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2506,7 +2591,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2534,7 +2620,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2560,7 +2647,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x3eb398fec5f7327c6b15099a9681d9568ded2e82",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2588,7 +2676,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x87eee96d50fb761ad85b1c982d28a042169d61b1",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2614,7 +2703,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2655,7 +2745,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -2663,13 +2754,15 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "to": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2709,7 +2802,8 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -2717,13 +2811,15 @@
                         "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "to": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2750,7 +2846,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2777,7 +2874,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
                         "stable": false,
-                        "factory": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2814,7 +2912,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2851,7 +2950,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xF544251D25f3d243A36B07e7E7962a678f952691",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -2877,7 +2977,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2913,7 +3014,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x4200000000000000000000000000000000000006",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2940,7 +3042,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2967,7 +3070,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -2994,7 +3098,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3021,7 +3126,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3048,7 +3154,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3075,7 +3182,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3103,7 +3211,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3130,7 +3239,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3170,7 +3280,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -3178,7 +3289,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3204,7 +3316,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3231,7 +3344,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -3239,7 +3353,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3265,7 +3380,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0xa61beb4a3d02decb01039e378237032b351125b4",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3293,7 +3409,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3319,7 +3436,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3340,16 +3458,17 @@
                 "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
             ],
             "flashLoanLiqData": {
-                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-                "route0": [
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [],
+                "route1": [
                     {
-                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-                        "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
-                ],
-                "route1": []
+                ]
             }
         },
         "vAMMV2-OVN/USD+": {
@@ -3381,27 +3500,30 @@
                 ]
             ],
             "flashLoanLiqData": {
-                "borrowAsset": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                 "route0": [
                     {
-                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 3,
+                        "tickSpacing": 1
                     },
                     {
                         "from": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "to": "0xa3d1a8deb97b111454b294e2324efad13a9d8396",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
                     {
-                        "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 3,
+                        "tickSpacing": 1
                     }
                 ]
             }
@@ -3428,7 +3550,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3454,7 +3577,8 @@
                         "from": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3482,7 +3606,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x9cbd543f1b1166b2df36b68eb6bb1dce24e6abdf",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3508,7 +3633,8 @@
                         "from": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
                         "to": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3536,7 +3662,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3562,7 +3689,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3590,7 +3718,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xbf1aea8670d2528e08334083616dd9c5f3b087ae",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3617,7 +3746,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3653,7 +3783,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3679,7 +3810,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x22a2488fe295047ba13bd8cccdbc8361dbd8cf7c",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3706,7 +3838,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3733,7 +3866,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3760,7 +3894,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3788,7 +3923,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x9e53e88dcff56d3062510a745952dec4cefdff9e",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3814,7 +3950,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x0d97f261b1e88845184f678e2d1e7a98d9fd38de",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3842,7 +3979,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xcb327b99ff831bf8223cced12b1338ff3aa322ff",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3869,7 +4007,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x7f62ac1e974d65fab4a81821ca6af659a5f46298",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3895,7 +4034,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x2af864fb54b55900cd58d19c7102d9e4fa8d84a3",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -3923,7 +4063,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3949,7 +4090,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -3957,7 +4099,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -3984,7 +4127,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xc19669a405067927865b40ea045a2baabbbe57f5",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4011,7 +4155,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x93dc5cb35627a759848c7a7f0079ea7b49e435a5",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4038,7 +4183,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xf34e0cff046e154cafcae502c7541b9e5fd8c249",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4064,7 +4210,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4091,7 +4238,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4119,7 +4267,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4146,7 +4295,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x78b3c724a2f663d11373c4a1978689271895256f",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4172,7 +4322,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x373504da48418c67e6fcd071f33cb0b3b47613c7",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4200,7 +4351,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4226,7 +4378,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x2416092f143378750bb29b79ed961ab195cceea5",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4253,7 +4406,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x22e6966b799c4d5b13be962e1d117b56327fda66",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4280,13 +4434,15 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "to": "0x78b3c724a2f663d11373c4a1978689271895256f",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -4294,7 +4450,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4320,7 +4477,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -4328,7 +4486,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4354,13 +4513,15 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "to": "0x85483696cc9970ad9edd786b2c5ef735f38d156f",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -4368,7 +4529,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4395,7 +4557,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4421,13 +4584,15 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "to": "0x78b3c724a2f663d11373c4a1978689271895256f",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -4435,7 +4600,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4464,7 +4630,8 @@
                     {
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
-                        "stable": true
+                        "stable": true,
+                        "tickSpacing": 0
                     }
                 ]
             ],
@@ -4475,13 +4642,15 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "to": "0x78b3c724a2f663d11373c4a1978689271895256f",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -4489,7 +4658,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4516,7 +4686,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xa88594d404727625a9437c3f886c7643872296ae",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4542,7 +4713,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x417ac0e078398c154edfadd9ef675d30be60af93",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4569,7 +4741,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x0e0c9756a3290cd782cf4ab73ac24d25291c9564",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4596,7 +4769,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4624,7 +4798,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xedfa23602d0ec14714057867a78d01e94176bea0",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4651,7 +4826,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xd3fdcb837dafdb7c9c3ebd48fe22a53f6dd3d7d7",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4678,7 +4854,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4705,7 +4882,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4732,7 +4910,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xf7c1cefcf7e1dd8161e00099facd3e1db9e528ee",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4758,7 +4937,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4799,7 +4979,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -4807,13 +4988,15 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x0000206329b97db379d5e1bf586bbdb969c63274",
                         "to": "0xa61beb4a3d02decb01039e378237032b351125b4",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4839,7 +5022,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x7f62ac1e974d65fab4a81821ca6af659a5f46298",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -4847,7 +5031,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4873,7 +5058,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4901,7 +5087,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4927,7 +5114,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x416bd43bc76d496ff49923c20ecaf86b52ab078d",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -4955,7 +5143,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x7ba6f01772924a82d9626c126347a28299e98c98",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -4981,7 +5170,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x526728dbc96689597f85ae4cd716d4f7fccbae9d",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -5008,13 +5198,15 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "to": "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -5022,7 +5214,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -5062,7 +5255,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": [
@@ -5070,13 +5264,15 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
                         "stable": true,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     },
                     {
                         "from": "0x04d5ddf5f3a8939889f11e97f8c4bb48317f1938",
                         "to": "0xe31ee12bdfdd0573d634124611e85338e2cbf0cf",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -5102,7 +5298,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x576bca23dcb6d94ff8e537d88b0d3e1bead444a2",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -5129,7 +5326,8 @@
                         "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "to": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -5157,7 +5355,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xeff2a458e464b07088bdb441c21a42ab4b61e07e",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ]
             }
@@ -5183,7 +5382,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -5210,7 +5410,8 @@
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -5251,7 +5452,8 @@
                         "from": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
                         "to": "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
                         "stable": false,
-                        "factory": "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+                        "routeType": 2,
+                        "tickSpacing": 0
                     }
                 ],
                 "route1": []
@@ -5286,9 +5488,60 @@
                 ]
             ],
             "flashLoanLiqData": {
-                "borrowAsset": "",
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+                        "stable": false,
+                        "routeType": 3,
+                        "tickSpacing": 1
+                    },
+                    {
+                        "from": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+                        "to": "0x7002458b1df59eccb57387bc79ffc7c29e22e6f7",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+                        "stable": false,
+                        "routeType": 3,
+                        "tickSpacing": 1
+                    }
+                ]
+            }
+        },
+        "vAMMV2-WETH/LRDS": {
+            "vaultVersion": "1",
+            "vaultId": "85",
+            "vaultAddress": "0xa783a3ae0e346eddd42e87ebec6a4615d05e1a88",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "79",
+            "veloGauge": "0x2BED28EDa5B8902FF20256ac001aa6A4bEb1cEc2",
+            "veloPair": "0x14f7Ce67e16c435C876AFF4092eb547584121312",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
                 "route0": [],
-                "route1": []
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
             }
         }
     }

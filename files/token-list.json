@@ -691,6 +691,11 @@
             "name": "superOETHb",
             "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
             "decimals": 18
+        },
+        "LRDS": {
+            "name": "LRDS",
+            "address": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
+            "decimals": 18
         }
     }
 }

@@ -1128,6 +1128,13 @@
             "eTokenAddress": "0xab50499fd8d8830c502286fbb21ade3038d5ca1f",
             "stakingAddress": "0xb237a054397cbad6e9bc8f28a951203eed6d8d1e",
             "interestModel": "MODEL-2"
+        },
+        "LRDS-0": {
+            "ReserveId": "79",
+            "underlyingToken": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
+            "eTokenAddress": "0xa38bff4889c00d2ead8d02104b15decfb63193a1",
+            "stakingAddress": "0xc2158af009fa72c1d9453bc7eaf625564f654f45",
+            "interestModel": "MODEL-2"
         }
     }
 }
