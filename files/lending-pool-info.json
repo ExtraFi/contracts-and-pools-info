@@ -189,13 +189,6 @@
             "stakingAddress": "0x4DB1Cb2589f2a9d3d9C6a8C50900bB2E583048Fd",
             "interestModel": "MODEL-2"
         },
-        "DAI-0": {
-            "ReserveId": "24",
-            "underlyingToken": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-            "eTokenAddress": "0x796836229a75c5cb230CD1FAE4EDBC1dA6EE18D8",
-            "stakingAddress": "0x93d4172b50E82f0fa1C8026782c0ed8Ff39513AF",
-            "interestModel": "MODEL-2"
-        },
         "USDC.E-STABLE": {
             "ReserveId": "25",
             "underlyingToken": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",

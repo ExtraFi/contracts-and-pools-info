@@ -875,25 +875,17 @@
                 ]
             ],
             "flashLoanLiqData": {
-                "borrowAsset": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                "borrowAsset": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
                 "route0": [
                     {
-                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+                        "from": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
                         "to": "0xCa0E54b636DB823847B29F506BFFEE743F57729D",
                         "stable": true,
                         "routeType": 2,
                         "tickSpacing": 0
                     }
                 ],
-                "route1": [
-                    {
-                        "from": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
-                        "to": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
-                        "stable": true,
-                        "routeType": 2,
-                        "tickSpacing": 0
-                    }
-                ]
+                "route1": []
             }
         },
         "sAMMV2-WETH/frxETH": {
@@ -5537,6 +5529,90 @@
                     {
                         "from": "0x4200000000000000000000000000000000000006",
                         "to": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
+        },
+        "vAMMV2-WETH/cbBTC": {
+            "vaultVersion": "1",
+            "vaultId": "86",
+            "vaultAddress": "0xb12400e6c7bb0482d8f5d17bb5943e49d7099b64",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "76",
+            "veloGauge": "0xAFdEBa12B6a870d6639d043030b4b49F9C7c62BB",
+            "veloPair": "0x2578365B3dfA7FfE60108e181EFb79FeDdec2319",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "stable": false,
+                        "routeType": 3,
+                        "tickSpacing": 100
+                    }
+                ]
+            }
+        },
+        "vAMMV2-USDC/cbBTC": {
+            "vaultVersion": "1",
+            "vaultId": "87",
+            "vaultAddress": "0x84f077b0d09134839a9df7c93c36a1d21ac0431f",
+            "borrowingReserveId0": "25",
+            "borrowingReserveId1": "76",
+            "veloGauge": "0xEDC76895e053A9bbAC456B5a9c5B49144eee0080",
+            "veloPair": "0x9c38b55f9A9Aba91BbCEDEb12bf4428f47A6a0B8",
+            "token0": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "token1": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "stable": false,
+                        "routeType": 3,
+                        "tickSpacing": 100
+                    }
+                ]
+            }
+        },
+        "vAMMV2-cbBTC/TAROT": {
+            "vaultVersion": "1",
+            "vaultId": "88",
+            "vaultAddress": "0x9c481e614221d4ff53331392fbd4d54695af1045",
+            "borrowingReserveId0": "76",
+            "borrowingReserveId1": "5",
+            "veloGauge": "0xD9f451A489d622E46E77b74dBD95A5616bca41e2",
+            "veloPair": "0x2E26a29f782e51296d9D31f78D4883462a2d339d",
+            "token0": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "token1": "0xF544251D25f3d243A36B07e7E7962a678f952691",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "to": "0xF544251D25f3d243A36B07e7E7962a678f952691",
                         "stable": false,
                         "routeType": 2,
                         "tickSpacing": 0
