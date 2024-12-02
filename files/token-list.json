@@ -696,6 +696,11 @@
             "name": "LRDS",
             "address": "0xb676f87a6e701f0de8de5ab91b56b66109766db1",
             "decimals": 18
+        },
+        "BOTTO": {
+            "name": "BOTTO",
+            "address": "0x24914cb6bd01e6a0cf2a9c0478e33c25926e6a0c",
+            "decimals": 18
         }
     }
 }
