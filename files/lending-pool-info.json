@@ -1130,7 +1130,7 @@
             "interestModel": "MODEL-2"
         },
         "BOTTO-0": {
-            "ReesrveId": "80",
+            "ReserveId": "80",
             "underlyingToken": "0x24914cb6bd01e6a0cf2a9c0478e33c25926e6a0c",
             "eTokenAddress": "0xe1ca9b5733dbb068540b94926f84be4922405285",
             "stakingAddress": "0xeb2a33c64dd60eca79951c421b79509c16206a48",
