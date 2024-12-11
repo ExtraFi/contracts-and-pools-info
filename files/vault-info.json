@@ -5748,6 +5748,90 @@
                 ],
                 "route1": []
             }
+        },
+        "vAMMV2-WETH/ANZ": {
+            "vaultVersion": "1",
+            "vaultId": "92",
+            "vaultAddress": "0xa4b93f69fb6f99ccec4c1a819668492c708b6b5c",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "81",
+            "veloGauge": "0xED2fE03dE7F663CC1265bCfF93af9f15Ff60AcC1",
+            "veloPair": "0xE4faa73134C66832c272f067adC401f0963A9D7a",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
+        },
+        "vAMMV2-cbBTC/CHAMP": {
+            "vaultVersion": "1",
+            "vaultId": "93",
+            "vaultAddress": "0xb5a86f997e8a609242a8f8ae231f5a3e3abc4cff",
+            "borrowingReserveId0": "76",
+            "borrowingReserveId1": "82",
+            "veloGauge": "0xCFede447ca3b4885720B5a327e3BFb02078f06e8",
+            "veloPair": "0x32450CEBe156B2Ca77Dd517e0182409d89b723Ff",
+            "token0": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "token1": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "to": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
+        },
+        "vAMMV2-cbBTC/KLIMA": {
+            "vaultVersion": "1",
+            "vaultId": "94",
+            "vaultAddress": "0x465e43d871283340bb8937477b50018da5a4688f",
+            "borrowingReserveId0": "76",
+            "borrowingReserveId1": "60",
+            "veloGauge": "0xC913c26A4e8a79604fcd3d5a44560F5bE38aE32c",
+            "veloPair": "0x6CD89bc86E4a418f7f11e453384904B4493C4077",
+            "token0": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "token1": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "to": "0xdcefd8c8fcc492630b943abcab3429f12ea9fea2",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
         }
     }
 }

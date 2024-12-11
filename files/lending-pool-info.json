@@ -1135,6 +1135,20 @@
             "eTokenAddress": "0xe1ca9b5733dbb068540b94926f84be4922405285",
             "stakingAddress": "0xeb2a33c64dd60eca79951c421b79509c16206a48",
             "interestModel": "MODEL-2"
+        },
+        "ANZ-0": {
+            "ReserveId": "81",
+            "underlyingToken": "0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3",
+            "eTokenAddress": "0x087efbbf9350a558d0b9ad36a9249703f83cca62",
+            "stakingAddress": "0xa7431a464f1664246795ac6e223cf812fd52461c",
+            "interestModel": "MODEL-2"
+        },
+        "CHAMP-0": {
+            "ReserveId": "82",
+            "underlyingToken": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
+            "eTokenAddress": "0x03394e3a41baf847befad0ecbead3ad6886ea28f",
+            "stakingAddress": "0x52f8d3247752898a4e983b31d4efc7e12759cf04",
+            "interestModel": "MODEL-2"
         }
     }
 }

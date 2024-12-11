@@ -701,6 +701,16 @@
             "name": "BOTTO",
             "address": "0x24914cb6bd01e6a0cf2a9c0478e33c25926e6a0c",
             "decimals": 18
+        },
+        "ANZ": {
+            "name": "ANZ",
+            "address": "0xeec468333ccc16d4bf1cef497a56cf8c0aae4ca3",
+            "decimals": 18
+        },
+        "CHAMP": {
+            "name": "CHAMP",
+            "address": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
+            "decimals": 18
         }
     }
 }
