@@ -1149,6 +1149,13 @@
             "eTokenAddress": "0x03394e3a41baf847befad0ecbead3ad6886ea28f",
             "stakingAddress": "0x52f8d3247752898a4e983b31d4efc7e12759cf04",
             "interestModel": "MODEL-2"
+        },
+        "HENLO-0": {
+            "ReserveId": "83",
+            "underlyingToken": "0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9",
+            "eTokenAddress": "0x28e3fdc928e68e3a1b61f9abcb2dd79c6f1590bd",
+            "stakingAddress": "0x24e779b8de1a45f3e77a1836bb7ee59a52d19d03",
+            "interestModel": "MODEL-2"
         }
     }
 }

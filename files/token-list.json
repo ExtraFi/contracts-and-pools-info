@@ -711,6 +711,11 @@
             "name": "CHAMP",
             "address": "0xeb6d78148f001f3aa2f588997c5e102e489ad341",
             "decimals": 18
+        },
+        "HENLO": {
+            "name": "HENLO",
+            "address": "0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9",
+            "decimals": 18
         }
     }
 }
