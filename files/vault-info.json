@@ -2879,6 +2879,34 @@
                     }
                 ]
             }
+        },
+        "vAMMV2-WETH/VELO": {
+            "vaultVersion": "1",
+            "vaultId": "127",
+            "vaultAddress": "0x236aa1d49dba7665cb816c943133b53c2241c366",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "35",
+            "veloGauge": "0x8329c9c93B63dB8a56a3b9a0c44c2edAbD6572A8",
+            "veloPair": "0x58e6433A6903886E440Ddf519eCC573c4046a6b2",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+            "stable": false,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
         }
     },
     "base": {
@@ -5859,6 +5887,34 @@
                     }
                 ],
                 "route1": []
+            }
+        },
+        "vAMMV2-WETH/RFL": {
+            "vaultVersion": "1",
+            "vaultId": "96",
+            "vaultAddress": "0xaed36f08ea4dafc2984fe60388652648a98082bc",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "84",
+            "veloGauge": "0x937c527EB4f27030f6667078C64982B3202257d5",
+            "veloPair": "0x37785d5bE19D0d9559D4634a5385c72c419b25Da",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
             }
         }
     }

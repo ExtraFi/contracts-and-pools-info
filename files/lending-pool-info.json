@@ -1156,6 +1156,13 @@
             "eTokenAddress": "0x28e3fdc928e68e3a1b61f9abcb2dd79c6f1590bd",
             "stakingAddress": "0x24e779b8de1a45f3e77a1836bb7ee59a52d19d03",
             "interestModel": "MODEL-2"
+        },
+        "RFL-0": {
+            "ReserveId": "84",
+            "underlyingToken": "0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e",
+            "eTokenAddress": "0xad090fce30dd2c2bb8454ae8fb281c1573cbfa96",
+            "stakingAddress": "0xeb407f6a5739d55c2916a5b282b3f87a9a9d096b",
+            "interestModel": "MODEL-2"
         }
     }
 }

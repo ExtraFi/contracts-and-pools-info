@@ -716,6 +716,11 @@
             "name": "HENLO",
             "address": "0x23A96680Ccde03Bd4Bdd9a3e9a0Cb56A5D27F7c9",
             "decimals": 18
+        },
+        "RFL": {
+            "name": "RFL",
+            "address": "0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e",
+            "decimals": 18
         }
     }
 }
