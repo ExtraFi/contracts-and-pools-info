@@ -5916,6 +5916,34 @@
                     }
                 ]
             }
+        },
+        "vAMMV2-WETH/HEU": {
+            "vaultVersion": "1",
+            "vaultId": "97",
+            "vaultAddress": "0xe9178c91c2207a3657abc7d23d69b9ef9715e81f",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "85",
+            "veloGauge": "0xa936fcE0237cA8F36d66BC2605B0f28584f8036b",
+            "veloPair": "0xF930E1342fC23c5c7BceaE58cBbc776Eeb4cFb87",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0xef22cb48b8483df6152e1423b19df5553bbd818b",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xef22cb48b8483df6152e1423b19df5553bbd818b",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
         }
     }
 }

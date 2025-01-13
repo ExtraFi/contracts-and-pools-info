@@ -1163,6 +1163,13 @@
             "eTokenAddress": "0xad090fce30dd2c2bb8454ae8fb281c1573cbfa96",
             "stakingAddress": "0xeb407f6a5739d55c2916a5b282b3f87a9a9d096b",
             "interestModel": "MODEL-2"
+        },
+        "HEU-0": {
+            "ReserveId": "85",
+            "underlyingToken": "0xef22cb48b8483df6152e1423b19df5553bbd818b",
+            "eTokenAddress": "0xe0fe396f94d950fe37aa5c967441fbf140720d3c",
+            "stakingAddress": "0x4eda0ab06d0695b915efa3882e0f62ca26f3d291",
+            "interestModel": "MODEL-2"
         }
     }
 }

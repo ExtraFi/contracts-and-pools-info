@@ -721,6 +721,11 @@
             "name": "RFL",
             "address": "0x6e2c81b6c2c0e02360f00a0da694e489acb0b05e",
             "decimals": 18
+        },
+        "HEU": {
+            "name": "HEU",
+            "address": "0xef22cb48b8483df6152e1423b19df5553bbd818b",
+            "decimals": 18
         }
     }
 }
