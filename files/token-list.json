@@ -726,6 +726,16 @@
             "name": "HEU",
             "address": "0xef22cb48b8483df6152e1423b19df5553bbd818b",
             "decimals": 18
+        },
+        "DRV": {
+            "name": "DRV",
+            "address": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+            "decimals": 18
+        },
+        "YFI": {
+            "name": "YFI",
+            "address": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
+            "decimals": 18
         }
     }
 }
