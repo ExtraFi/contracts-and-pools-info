@@ -1184,6 +1184,20 @@
             "eTokenAddress": "0x51729e7C6fFC6254E598bE78C000Ea29A9e69742",
             "stakingAddress": "0x9178B6B8Bc6f48bbE27Ab2b4d5dBE8fA3C8DE1c4",
             "interestModel": "MODEL-2"
+        },
+        "FAI-0": {
+            "ReserveId": "88",
+            "underlyingToken": "0xb33ff54b9f7242ef1593d2c9bcd8f9df46c77935",
+            "eTokenAddress": "0x8a570fef9a01d677ac880bd7c9bb2e828b464a0b",
+            "stakingAddress": "0x266b993a42a39e8a5c064e508dd0e413046e0cbb",
+            "interestModel": "MODEL-2"
+        },
+        "VVV-0": {
+            "ReserveId": "89",
+            "underlyingToken": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
+            "eTokenAddress": "0xadeb09e63d41a28181fc170468bfc5fb8f1e8b4e",
+            "stakingAddress": "0x2251431798874cf8e593824030f047cb0c0092f8",
+            "interestModel": "MODEL-2"
         }
     }
 }
