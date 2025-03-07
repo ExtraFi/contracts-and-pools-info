@@ -746,6 +746,11 @@
             "name": "VVV",
             "address": "0xacfe6019ed1a7dc6f7b508c02d1b04ec88cc21bf",
             "decimals": 18
+        },
+        "WMTX": {
+            "name": "WMTX",
+            "address": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
+            "decimals": 6
         }
     }
 }

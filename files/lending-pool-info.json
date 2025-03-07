@@ -1198,6 +1198,13 @@
             "eTokenAddress": "0xadeb09e63d41a28181fc170468bfc5fb8f1e8b4e",
             "stakingAddress": "0x2251431798874cf8e593824030f047cb0c0092f8",
             "interestModel": "MODEL-2"
+        },
+        "WMTX-0": {
+            "ReserveId": "90",
+            "underlyingToken": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
+            "eTokenAddress": "0xb774598bbda127ed68d7394580b75c98d0f5d1db",
+            "stakingAddress": "0x8157da082d13efaa692b73afcade2b5fe3dc8937",
+            "interestModel": "MODEL-2"
         }
     }
 }
