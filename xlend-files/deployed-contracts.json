@@ -1,0 +1,36 @@
+{
+  "optimism": {
+    "poolAddressesProvider": "0xA98cC6031Ba6908d73dC5615ca82B607096D721d",
+    "pool": "0x345D2827f36621b02B783f7D5004B4a2fec00186",
+    "poolConfigurator": "0xc1504B3D0e72C717151957ceb0252FF8f93A9A1e",
+    "poolDataProvider": "0xCC61E9470B5f0CE21a3F6255c73032B47AaeA9C0",
+    "uiIncentiveDataProviderV3": "0x5E720631caa34168281b0d21c07E1668d6D254B3",
+    "uiPoolDataProviderV3": "0xd7602b8c1b6a6a2BBF6D6f72f271A32d23e22af7",
+    "incentivesController": "0x3Bbf68f18A792d34A288407f34734d16829B457E",
+    "emissionManager": "0x5c9fB6dE2aCBfA151C56a47e7a5B4cB26007A1ba",
+    "aaveOracle": "0x1bc889345C912d5462b71e019F9dCcbA33d83db4",
+    "accountFactory": "0x90cF2763CC710B9Ce215584A89c77F70bbb96B44",
+    "paraSwapDebtSwapAdapter": "0x435A36DE609beD9c45805b98273b3f75c85fcd5D",
+    "paraSwapLiquiditySwapAdapter": "0x26FC7Be76A2f9C2A3C267734AC0DcF56cb360B2c",
+    "paraSwapRepayAdapter": "0x4Dc7782F09F16F38aD72706fce6941D13731D75B",
+    "paraSwapWithdrawSwapAdapter": "0x2DBC044E65ac708B564e42707409AEA30928E3D6",
+    "stataTokenFactory": "0x9B96D2631Ecea7793081B68905f06C1696352055"
+  },
+  "base": {
+    "poolAddressesProvider": "0x1E35e657d469F134ea9cfE52E28949586f1a9c29",
+    "pool": "0x09b11746DFD1b5a8325e30943F8B3D5000922E03",
+    "poolConfigurator": "0x359551A0c6e91956A96700316Fcf5b39704a3e1E",
+    "poolDataProvider": "0x1566DA4640b6a0b32fF309b07b8df6Ade40fd98D",
+    "uiIncentiveDataProviderV3": "0xEd4Fcb36d725cE3A493F1A27Cb7dd798Fd300F5B",
+    "uiPoolDataProviderV3": "0x692319af78063bE19fe7B57ddA7d0fEB3f3Fc13e",
+    "incentivesController": "0x25831c91273706732b12FF57dBdB6FA0024072E6",
+    "emissionManager": "0x1c078De487a63B49d4610f6217EF6459d6Abfe9b",
+    "aaveOracle": "0xe4f11109EeE64a9a6BEB5D3BCf4a5d9c70054DEc",
+    "accountFactory": "0x2623e7518cf2bFC71786EdC033fa5a5474b3ff89",
+    "paraSwapDebtSwapAdapter": "0x6bbF905db04B85DC51CfBd4d708A68d6D50510e4",
+    "paraSwapLiquiditySwapAdapter": "0xa7dF1c43858710F00AE3CeC647A2a0259C7FF369",
+    "paraSwapRepayAdapter": "0x27570f2B2F0ef4475Ac9d5847Fce7220004060a8",
+    "paraSwapWithdrawSwapAdapter": "0xC9F39fcd56a9D9E2f835ACf7dCF53846eCA0a334",
+    "stataTokenFactory": "0x1FAC21a100D9120750307A183C8e52867bE67fb8"
+  }
+}

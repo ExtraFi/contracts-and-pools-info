@@ -1,0 +1,85 @@
+{
+  "optimism": {
+    "DAI": {
+      "Reserve": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "ATokenAddress": "0x80F7084272D861f5c5F5f60648c085B1F7a2FE41",
+      "DebtTokenAddress": "0x01b7435E33844fbBaF948a8C88FBfB8C67A4e663",
+      "StaticAToken": "0x53Edc6b91a24610960F7d2b84cAD11ACfd827a4B"
+    },
+    "USDC": {
+      "Reserve": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+      "ATokenAddress": "0xbA2111F1498627E66f930cC539b7fbBdd5044F6D",
+      "DebtTokenAddress": "0x60C85491232E553B5D8121d41ecd41CEFdB034B9",
+      "StaticAToken": "0xceEc0e24Ef6F7cFc6230cA9a1b0de6FA541f4bF9"
+    },
+    "WETH": {
+      "Reserve": "0x4200000000000000000000000000000000000006",
+      "ATokenAddress": "0xf58BEc4C57F8A459dB9840236613082aE17eb23F",
+      "DebtTokenAddress": "0x3663d302ce1294d182BAfeC89b4B28345fa99db3",
+      "StaticAToken": "0x562175Ca2E764f41B5B2A56eA46E5a4baF0b4688"
+    },
+    "USDT": {
+      "Reserve": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "ATokenAddress": "0xea299346c31a13f85CCf70Ca337d83e93EA6BdF3",
+      "DebtTokenAddress": "0x49C7B5dd887e4fF60416b420e110a6f09F5A9702",
+      "StaticAToken": "0xBba84F67939042AB554267a41a56724aB5E6F0Fe"
+    },
+    "WSTETH": {
+      "Reserve": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+      "ATokenAddress": "0xe40EC46C8554eDAf61829AC68c0AE8183B0b23B5",
+      "DebtTokenAddress": "0xC71dC31bF7989E78f9E6Cc167Ede9141b83535D7",
+      "StaticAToken": "0xcf2eF4D2fC41a424Fd1bE8950FF56094D364FCF3"
+    },
+    "OP": {
+      "Reserve": "0x4200000000000000000000000000000000000042",
+      "ATokenAddress": "0xb4F8a17E9917a7dd45C3726041bCD3848C5c2e94",
+      "DebtTokenAddress": "0x7C47c84C57a9237ed8164E30db7e7b7F4bba5d59",
+      "StaticAToken": "0xC8019cCbe625BE8Ac8115632CD4A2b6d03EADdB4"
+    },
+    "WBTC": {
+      "Reserve": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "ATokenAddress": "0x920f4A7510f138b1FcD90a8a7DdedB7b4Cb0a04F",
+      "DebtTokenAddress": "0x2f48c271a55c3CBD3514c51D343E72d681284326",
+      "StaticAToken": "0xa627550920602f01dDBBfcEe574F6170c2D7dD1e"
+    },
+    "rETH": {
+      "Reserve": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d",
+      "ATokenAddress": "0x15e24124E93892EdCDbb835Fe82C00Ff2eb0e766",
+      "DebtTokenAddress": "0x856A83D43243871924B9214201CB1e2BC250Bf9C",
+      "StaticAToken": "0x31161ECB1a01a98a825779090eB4c3dA702c691a"
+    }
+  },
+  "base": {
+    "USDC": {
+      "Reserve": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+      "ATokenAddress": "0xf17182f6f28Ded63B77A2Bb774c58aDe44612bE4",
+      "DebtTokenAddress": "0x26CeD5493511cAB401C64a58a5F29D55Dbe494c5",
+      "StaticAToken": "0x589A7339C6d0c8777E7429F57f2f95c069c37288"
+    },
+    "WETH": {
+      "Reserve": "0x4200000000000000000000000000000000000006",
+      "ATokenAddress": "0x9Ef15597B0B900bfceE4A77204F72bd20C85d7c8",
+      "DebtTokenAddress": "0xe99Ec9b8EA5322D8B5BDC66dad3D2294dC61b740",
+      "StaticAToken": "0x3DFab48957692Ea210A882cD50dd7044C608384C"
+    },
+    "WSTETH": {
+      "Reserve": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
+      "ATokenAddress": "0x749Fc8D298A41A55AB305164602a185dB29f8F2B",
+      "DebtTokenAddress": "0x28bBF6ca0762e9Ba99d0745F079f71BfD8A7D0D6",
+      "StaticAToken": "0xE43E3C637D9c44c80b0D5F06d5E0e27Ce1eA47DA"
+    },
+    "CBETH": {
+      "Reserve": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+      "ATokenAddress": "0x2308Fc7785597cC40aB53f302b491294b8d8d8bE",
+      "DebtTokenAddress": "0x3d54e017E1902c055a1FDCee85B0117A52dFcFf1",
+      "StaticAToken": "0x365037cB73C8Ff79139c08D92C5D43e5E6Dc4328"
+    },
+    "CBBTC": {
+      "Reserve": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "ATokenAddress": "0xdf2730830c77780A11248945C342c002DB73A8Be",
+      "DebtTokenAddress": "0x2AF3a2518d0a33907b0647E0654b75939dCA4D8A",
+      "StaticAToken": "0x23c59B23AaAa32DB0Fd88998fc4bB728BEEFCe88"
+    }
+  }
+}
+
