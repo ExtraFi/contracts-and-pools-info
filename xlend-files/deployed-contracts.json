@@ -14,7 +14,7 @@
     "paraSwapLiquiditySwapAdapter": "0x26FC7Be76A2f9C2A3C267734AC0DcF56cb360B2c",
     "paraSwapRepayAdapter": "0x4Dc7782F09F16F38aD72706fce6941D13731D75B",
     "paraSwapWithdrawSwapAdapter": "0x2DBC044E65ac708B564e42707409AEA30928E3D6",
-    "stataTokenFactory": "0x9B96D2631Ecea7793081B68905f06C1696352055"
+    "staticATokenFactory": "0x38809378C35023188E67693479f197EB6960c3b2"
   },
   "base": {
     "poolAddressesProvider": "0x1E35e657d469F134ea9cfE52E28949586f1a9c29",
@@ -31,6 +31,6 @@
     "paraSwapLiquiditySwapAdapter": "0xa7dF1c43858710F00AE3CeC647A2a0259C7FF369",
     "paraSwapRepayAdapter": "0x27570f2B2F0ef4475Ac9d5847Fce7220004060a8",
     "paraSwapWithdrawSwapAdapter": "0xC9F39fcd56a9D9E2f835ACf7dCF53846eCA0a334",
-    "stataTokenFactory": "0x1FAC21a100D9120750307A183C8e52867bE67fb8"
+    "staticATokenFactory": "0x4bF83A901F36cAc667FD3303701d2d0B209292AF"
   }
 }
