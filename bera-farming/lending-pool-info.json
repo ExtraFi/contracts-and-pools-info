@@ -1,0 +1,53 @@
+{
+  "WETH": {
+      "ReserveId": 1,
+      "underlyingToken": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "eToken": "0x2a42b4eb27159509e6a2b03735f6633a7f57531a",
+      "stakingAddress": "0x5f8d42635a2fa74d03b5f91c825de6f44c443da5"
+  },
+  "WBERA": {
+      "ReserveId": 2,
+      "underlyingToken": "0x6969696969696969696969696969696969696969",
+      "eToken": "0xbabdc39c56359df8cb541901feb45e6c5a455d0e",
+      "stakingAddress": "0x21c43d9b3b7c25c740b0d5dc9f62495aec0d1ecc"
+  },
+
+  "USDC.e": {
+      "ReserveId": 3,
+      "underlyingToken": "0x549943e04f40284185054145c6E4e9568C1D3241",
+      "eToken": "0x74be8f765d664b4b48b5ffd773bad50821ae07e4",
+      "stakingAddress": "0x8f480b12b321dac9d5427aad8f3e560fca2b3216"
+  },
+  "HONEY": {
+      "ReserveId": 4,
+      "underlyingToken": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+      "eToken": "0xf5271a2c51fb9ba15309efcf909025d3e1bb797a",
+      "stakingAddress": "0x89a049290cc6d56a316ed7e8d0422f54ad2bfeac"
+  },
+  "WBTC": {
+      "ReserveId": 5,
+      "underlyingToken": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "eToken": "0x1db9202e2bb2385cc3be05b71cd9a7ac95912131",
+      "stakingAddress": "0xf767dd4dd089948254477a918e63f3ee55ba3f74"
+  },
+  "BYUSD": {
+      "ReserveId": 6,
+      "underlyingToken": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82",
+      "eToken": "0x47a16e82a03a2c9919fbb23c7883d040e333c6ad",
+      "stakingAddress": "0x1fc5c45645bf98cb5f24abbf24df12a0fb1a5f49"
+  },
+
+  "beraETH": {
+      "ReserveId": 7,
+      "underlyingToken": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+      "eToken": "0x6Be582F5828bffe05829312525641114d9BbaD25",
+      "stakingAddress": "0x20d49B0F7536BE3694Fc1B87adBFA8D16d23B861"
+  },
+
+  "iBERA": {
+      "ReserveId": 8,
+      "underlyingToken": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5",
+      "eToken": "0x17f12732D9F71D126a42d04B022b85911827AB47",
+      "stakingAddress": "0xB8dFD948b4D36F9E4e11728Dc4E6b38764dBBDd3"
+  }
+}

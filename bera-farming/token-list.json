@@ -1,0 +1,42 @@
+{
+  "WETH": {
+      "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "symbol": "WETH",
+      "decimals": 18
+  },
+  "WBERA": {
+      "address": "0x6969696969696969696969696969696969696969",
+      "symbol": "WBERA",
+      "decimals": 18
+  },
+  "USDC.e": {
+      "address": "0x549943e04f40284185054145c6E4e9568C1D3241",
+      "symbol": "USDC.e",
+      "decimals": 6
+  },
+  "HONEY": {
+      "address": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
+      "symbol": "HONEY",
+      "decimals": 18
+  },
+  "WBTC": {
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "symbol": "WBTC",
+      "decimals": 8
+  },
+  "BYUSD": {
+      "address": "0x688e72142674041f8f6Af4c808a4045cA1D6aC82",
+      "symbol": "BYUSD",
+      "decimals": 6
+  },
+  "beraETH": {
+      "address": "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d",
+      "symbol": "beraETH",
+      "decimals": 18
+  },
+  "iBERA": {
+      "address": "0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5",
+      "symbol": "iBERA",
+      "decimals": 18
+  }
+}
