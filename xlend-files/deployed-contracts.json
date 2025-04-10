@@ -1,5 +1,8 @@
 {
   "optimism": {
+    "aclManager": "0x70Cdb45f5b0660c122708286198446d23872595f",
+    "timelockController": "0xFc8d7fa8c72D2C063fF8cd2408f48bEfB1602241",
+    "poolAddressesProviderRegistry": "0xdc5F70e4E2572f8686F909f3b52F8c5F9A197E4A",    
     "poolAddressesProvider": "0xA98cC6031Ba6908d73dC5615ca82B607096D721d",
     "pool": "0x345D2827f36621b02B783f7D5004B4a2fec00186",
     "poolConfigurator": "0xc1504B3D0e72C717151957ceb0252FF8f93A9A1e",
@@ -17,6 +20,9 @@
     "staticATokenFactory": "0x38809378C35023188E67693479f197EB6960c3b2"
   },
   "base": {
+    "aclManager": "0x4b4C8a1841B0e0d2a3Af086850d84ff968B8c956",
+    "timelockController": "0x953691B73C9Dfae6896F7212a924DBd4f913c6c1",
+    "poolAddressesProviderRegistry": "0x61f94fA13151c197498B174471ECEdb16Bfbf4a5",
     "poolAddressesProvider": "0x1E35e657d469F134ea9cfE52E28949586f1a9c29",
     "pool": "0x09b11746DFD1b5a8325e30943F8B3D5000922E03",
     "poolConfigurator": "0x359551A0c6e91956A96700316Fcf5b39704a3e1E",
