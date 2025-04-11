@@ -1205,6 +1205,20 @@
             "eTokenAddress": "0xb774598bbda127ed68d7394580b75c98d0f5d1db",
             "stakingAddress": "0x8157da082d13efaa692b73afcade2b5fe3dc8937",
             "interestModel": "MODEL-2"
+        },
+        "KTA-0": {
+            "ReserveId": "91",
+            "underlyingToken": "0xc0634090f2fe6c6d75e61be2b949464abb498973",
+            "eTokenAddress": "0xb7ee9da002adc392841fd9bf2eb8d50092524534",
+            "stakingAddress": "0x662dd43907958bbaa8e5dba0fdda46498f1a5a14",
+            "interestModel": "MODEL-2"
+        },
+        "MAVIA-0": {
+            "ReserveId": "92",
+            "underlyingToken": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
+            "eTokenAddress": "0x8ed3b5c74d2d7342719aaf2d009201da4680bd23",
+            "stakingAddress": "0x37828ff6f1c744ef66330919a61d54b632c29505",
+            "interestModel": "MODEL-2"
         }
     }
 }
