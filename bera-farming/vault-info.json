@@ -3,6 +3,7 @@
     "vaultId": 1,
     "vaultAddress": "0x48c24521762e7a8e34e3856a457078095ca5c2e7",
     "poolType": 1,
+    "stakeType": 1,
     "poolAddress": "0xf961a8f6d8c69e7321e78d254ecafbcc3a637621",
     "rewardVault": "0xf99be47baf0c22b7eb5eac42c8d91b9942dc7e84",
     "assets": [
@@ -15,14 +16,21 @@
       0,
       4
     ],
-    "rewardsToken": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapTarget": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
-    "rewardsSwapPoolId": "0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002"
+    "rewardsTokens": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapTargets": [
+      "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce"
+    ],
+    "rewardsSwapPoolIds": [
+      "0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002"
+    ]
   },
   "BEX_WBERA/HONEY": {
     "vaultId": 2,
     "vaultAddress": "0x65a60ece80d7791279a8877254457329ee0afaf8",
     "poolType": 2,
+    "stakeType": 1,
     "poolAddress": "0x2c4a603a2aa5596287a06886862dc29d56dbc354",
     "rewardVault": "0xC2BaA8443cDA8EBE51a640905A8E6bc4e1f9872c",
     "assets": [
@@ -33,14 +41,21 @@
       2,
       4
     ],
-    "rewardsToken": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapTarget": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
-    "rewardsSwapPoolId": "0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002"
+    "rewardsTokens": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapTargets": [
+      "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce"
+    ],
+    "rewardsSwapPoolIds": [
+      "0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002"
+    ]
   },
   "BEX_BYUSD/HONEY": {
     "vaultId": 3,
     "vaultAddress": "0x8bF6E761188Ed28BDD51E29C58aeD8Eb20c413aF",
     "poolType": 1,
+    "stakeType": 1,
     "poolAddress": "0xde04c469ad658163e2a5e860a03a86b52f6fa8c8",
     "rewardVault": "0x6649bc987a7c0fb0199c523de1b1b330cd0457a8",
     "assets": [
@@ -53,14 +68,21 @@
       0,
       4
     ],
-    "rewardsToken": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapTarget": "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce",
-    "rewardsSwapPoolId": "0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002"
+    "rewardsTokens": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapTargets": [
+      "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce"
+    ],
+    "rewardsSwapPoolIds": [
+      "0x2c4a603a2aa5596287a06886862dc29d56dbc354000200000000000000000002"
+    ]
   },
   "BEX_WETH/WBERA": {
     "vaultId": 4,
     "vaultAddress": "0xE608a79a82B29EEF92116f3D330cc8a32B8F4afB",
     "poolType": 2,
+    "stakeType": 1,
     "poolAddress": "0xDd70A5eF7d8CfE5C5134b5f9874b09Fb5Ce812b4",
     "rewardVault": "0x17376aD6167a5592FbEAA42e6068c132474a513d",
     "assets": [
@@ -71,14 +93,21 @@
       1,
       2
     ],
-    "rewardsToken": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapTarget": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapPoolId": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    "rewardsTokens": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapTargets": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapPoolIds": [
+      "0x0000000000000000000000000000000000000000000000000000000000000000"
+    ]
   },
   "BEX_WBTC/WBERA": {
     "vaultId": 5,
     "vaultAddress": "0x402D5E3f3af37025A5Db4fA8AfD22Ac598B61E09",
     "poolType": 2,
+    "stakeType": 1,
     "poolAddress": "0x38fdD999Fe8783037dB1bBFE465759e312f2d809",
     "rewardVault": "0x086f82fa0cA310Cc835a9DB4f53697687ef149c7",
     "assets": [
@@ -89,14 +118,21 @@
       5,
       2
     ],
-    "rewardsToken": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapTarget": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapPoolId": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    "rewardsTokens": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapTargets": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapPoolIds": [
+      "0x0000000000000000000000000000000000000000000000000000000000000000"
+    ]
   },
   "BEX_WETH/beraETH": {
     "vaultId": 6,
     "vaultAddress": "0x37eb8a5F1E998f0f2188892Fb98256a61e9A51C1",
     "poolType": 1,
+    "stakeType": 1,
     "poolAddress": "0x258d8933b625566fbe057874121783a2808adafa",
     "rewardVault": "0x1932d24df32ec4cfdeca7824f36fd06c1458434c",
     "assets": [
@@ -109,14 +145,21 @@
       1,
       7
     ],
-    "rewardsToken": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapTarget": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
-    "rewardsSwapPoolId": "0xdd70a5ef7d8cfe5c5134b5f9874b09fb5ce812b4000200000000000000000003"
+    "rewardsTokens": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapTargets": [
+      "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+    ],
+    "rewardsSwapPoolIds": [
+      "0xdd70a5ef7d8cfe5c5134b5f9874b09fb5ce812b4000200000000000000000003"
+    ]
   },
   "BEX_WBERA/iBERA": {
     "vaultId": 8,
     "vaultAddress": "0x889ecA44313261095343c84236B4C7c7AaCCb681",
     "poolType": 1,
+    "stakeType": 1,
     "poolAddress": "0x62c030b29a6fef1b32677499e4a1f1852a8808c0",
     "rewardVault": "0x92af7d5fcdef44c3df168ecfdcd03dea1807af28",
     "assets": [
@@ -129,8 +172,41 @@
       2,
       8
     ],
-    "rewardsToken": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapTarget": "0x6969696969696969696969696969696969696969",
-    "rewardsSwapPoolId": "0x0000000000000000000000000000000000000000000000000000000000000000"
+    "rewardsTokens": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapTargets": [
+      "0x6969696969696969696969696969696969696969"
+    ],
+    "rewardsSwapPoolIds": [
+      "0x0000000000000000000000000000000000000000000000000000000000000000"
+    ]
+  },
+  "INFRARED_BEX_WETH/beraETH": {
+    "vaultId": 9,
+    "vaultAddress": "0x21c57dbD6E387D5F9a790A82912c63d0d20ffbA7",
+    "poolType": 1,
+    "stakeType": 2,
+    "poolAddress": "0x258d8933b625566fbe057874121783a2808adafa",
+    "rewardVault": "0xdEc4d737680B8C3f3FaA507B2Af78Bf85d74A48e",
+    "assets": [
+      "0x258d8933b625566fbe057874121783a2808adafa",
+      "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "0x6fc6545d5cDE268D5C7f1e476D444F39c995120d"
+    ],
+    "reserveIds": [
+      0,
+      1,
+      7
+    ],
+    "rewardsTokens": [
+      "0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b"
+    ],
+    "rewardsSwapTargets": [
+      "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"
+    ],
+    "rewardsSwapPoolIds": [
+      "0x0000000000000000000000000000000000000000000000000000000000000000"
+    ]
   }
 }
