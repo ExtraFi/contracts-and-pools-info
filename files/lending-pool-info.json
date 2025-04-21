@@ -1219,6 +1219,13 @@
             "eTokenAddress": "0x8ed3b5c74d2d7342719aaf2d009201da4680bd23",
             "stakingAddress": "0x37828ff6f1c744ef66330919a61d54b632c29505",
             "interestModel": "MODEL-2"
+        },
+        "EDGE-0": {
+            "ReserveId": "93",
+            "underlyingToken": "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
+            "eTokenAddress": "0x219d2a56e4855e3a5a46baaccf1dfdbe17ed27bd",
+            "stakingAddress": "0xa456e618701b8ebf0c4088e1e6f04694b98d04a0",
+            "interestModel": "MODEL-2"
         }
     }
 }

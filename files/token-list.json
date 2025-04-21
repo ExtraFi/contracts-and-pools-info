@@ -761,6 +761,11 @@
             "name": "MAVIA",
             "address": "0x24fcFC492C1393274B6bcd568ac9e225BEc93584",
             "decimals": 18
+        },
+        "EDGE": {
+            "name": "EDGE",
+            "address": "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
+            "decimals": 18
         }
     }
 }

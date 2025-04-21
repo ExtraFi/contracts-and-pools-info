@@ -6168,6 +6168,62 @@
                 ],
                 "route1": []
             }
+        },
+        "vAMMV2-EXTRA/cbBTC": {
+            "vaultVersion": "1",
+            "vaultId": "106",
+            "vaultAddress": "0x0fcedc308a5bb8d37dc3f12be1e47881b36c05a0",
+            "borrowingReserveId0": "4",
+            "borrowingReserveId1": "76",
+            "veloGauge": "0x0c807068a3b80B56Ae3547Dc1Cee72F6f0D550B6",
+            "veloPair": "0x112aAB1af0393325Ae24ba4cF4555783574E16F7",
+            "token0": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+            "token1": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                "route0": [
+                    {
+                        "from": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "to": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ],
+                "route1": []
+            }
+        },
+        "vAMMV2-cbBTC/EDGE": {
+            "vaultVersion": "1",
+            "vaultId": "107",
+            "vaultAddress": "0x1a54074aa21269797ad0530bd3ab8e55133a4eb5",
+            "borrowingReserveId0": "76",
+            "borrowingReserveId1": "93",
+            "veloGauge": "0x6e64524E3620C0Cd6af727B3D9Bd998396441aD0",
+            "veloPair": "0x594b83709464A83F37aC77E69DDD447a8A33c0EE",
+            "token0": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "token1": "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "to": "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
         }
     }
 }
