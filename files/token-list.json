@@ -766,6 +766,11 @@
             "name": "EDGE",
             "address": "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
             "decimals": 18
+        },
+        "oUSDT": {
+            "name": "oUSDT",
+            "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+            "decimals": 6
         }
     }
 }

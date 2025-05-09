@@ -1226,6 +1226,13 @@
             "eTokenAddress": "0x219d2a56e4855e3a5a46baaccf1dfdbe17ed27bd",
             "stakingAddress": "0xa456e618701b8ebf0c4088e1e6f04694b98d04a0",
             "interestModel": "MODEL-2"
+        },
+        "oUSDT-STABLE": {
+            "ReserveId": "94",
+            "underlyingToken": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+            "eTokenAddress": "0x45aa9629bcc5546a6b8e2c9fb6114ef829e50bd6",
+            "stakingAddress": "0x49f1fdff431ed78b39fdb396fa527a9a558a0f6c",
+            "interestModel": "MODEL-STABLE-800"
         }
     }
 }

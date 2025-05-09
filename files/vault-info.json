@@ -2907,6 +2907,34 @@
                     }
                 ]
             }
+        },
+        "sAMMV2-USDC/alUSD": {
+            "vaultVersion": "1",
+            "vaultId": "128",
+            "vaultAddress": "0x01b10f922c354fec74e2cef807653aebdb6e2d23",
+            "borrowingReserveId0": "71",
+            "borrowingReserveId1": "44",
+            "veloGauge": "0xE8b219c285e4e4ec28ac80Fdc4b9739b18cB8890",
+            "veloPair": "0x124D69DaeDA338b1b31fFC8e429e39c9A991164e",
+            "token0": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "token1": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+            "stable": true,
+            "rewards": [
+                "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+                        "to": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+                        "stable": true,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
         }
     },
     "base": {
@@ -6223,6 +6251,34 @@
                         "tickSpacing": 0
                     }
                 ]
+            }
+        },
+        "sAMMV2-oUSDT/USDC": {
+            "vaultVersion": "1",
+            "vaultId": "108",
+            "vaultAddress": "0xca5a6cdde7e11801f59021a092ddbabc749b9537",
+            "borrowingReserveId0": "94",
+            "borrowingReserveId1": "24",
+            "veloGauge": "0xe68921DD3923E90e7970c109B0d6f3c4a8B28Ca7",
+            "veloPair": "0xc84f7c63742EA1894EE04e5F49fbaE8C3a4a734d",
+            "token0": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+            "token1": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "stable": true,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+                        "stable": true,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ],
+                "route1": []
             }
         }
     }
