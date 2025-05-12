@@ -215,7 +215,7 @@
     "poolType": 1,
     "stakeType": 2,
     "poolAddress": "0x62c030b29a6fef1b32677499e4a1f1852a8808c0",
-    "rewardVault": "0x92af7d5fcdef44c3df168ecfdcd03dea1807af28",
+    "rewardVault": "0xD3d50Fe6Dbbb452eD30c7736D70678E4E0D277C8",
     "assets": [
       "0x62c030b29a6fef1b32677499e4a1f1852a8808c0",
       "0x6969696969696969696969696969696969696969",
@@ -242,7 +242,7 @@
     "poolType": 2,
     "stakeType": 2,
     "poolAddress": "0x2c4a603a2aa5596287a06886862dc29d56dbc354",
-    "rewardVault": "0xC2BaA8443cDA8EBE51a640905A8E6bc4e1f9872c",
+    "rewardVault": "0xe2d8941dfb85435419d90397b09d18024ebeef2c",
     "assets": [
       "0x6969696969696969696969696969696969696969",
       "0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce"
@@ -267,7 +267,7 @@
     "poolType": 2,
     "stakeType": 2,
     "poolAddress": "0xDd70A5eF7d8CfE5C5134b5f9874b09Fb5Ce812b4",
-    "rewardVault": "0x17376aD6167a5592FbEAA42e6068c132474a513d",
+    "rewardVault": "0x0df14916796854d899576cbde69a35bafb923c22",
     "assets": [
       "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
       "0x6969696969696969696969696969696969696969"
