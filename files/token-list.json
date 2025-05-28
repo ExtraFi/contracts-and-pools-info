@@ -771,6 +771,16 @@
             "name": "oUSDT",
             "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
             "decimals": 6
+        },
+        "USR": {
+            "name": "USR",
+            "address": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+            "decimals": 18
+        },
+        "COOKIE": {
+            "name": "COOKIE",
+            "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+            "decimals": 18
         }
     }
 }

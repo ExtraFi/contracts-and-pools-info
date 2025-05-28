@@ -278,7 +278,7 @@
             "underlyingToken": "0x4200000000000000000000000000000000000006",
             "eTokenAddress": "0x919db75700945210EB5C7e25ccD3637f376d47F2",
             "stakingAddress": "0x5DC1a8Fa98508e342FA8CFf0c49ab57138d53337",
-            "interestModel": "MODEL-STABLE"
+            "interestModel": "MODEL-STABLE-500"
         },
         "frxETH-0": {
             "ReserveId": "37",
@@ -516,7 +516,7 @@
             "underlyingToken": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
             "eTokenAddress": "0x4cca8940b1733c78a6b32427104c9656ac480a91",
             "stakingAddress": "0x85e6ccf15ea3f4bdc4569fde3bb8bca432f7a38e",
-            "interestModel": "MODEL-STABLE"
+            "interestModel": "MODEL-STABLE-800"
         },
         "LUSD-0": {
             "ReserveId": "72",
@@ -679,7 +679,7 @@
             "underlyingToken": "0x4200000000000000000000000000000000000006",
             "eTokenAddress": "0xca221984f58da3701afb907ccd5da8bfacac55e4",
             "stakingAddress": "0x9b767feb01525ea8f304a65d4483251cf18835b7",
-            "interestModel": "MODEL-STABLE"
+            "interestModel": "MODEL-STABLE-500"
         },
         "cbETH-STABLE": {
             "ReserveId": "15",
@@ -749,7 +749,7 @@
             "underlyingToken": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
             "eTokenAddress": "0xa23b5b8f7c7a9c86f39849af12867addd1273e3c",
             "stakingAddress": "0x93d4172b50e82f0fa1c8026782c0ed8ff39513af",
-            "interestModel": "MODEL-STABLE"
+            "interestModel": "MODEL-STABLE-800"
         },
         "USDC-0": {
             "ReserveId": "25",
@@ -1233,6 +1233,20 @@
             "eTokenAddress": "0x45aa9629bcc5546a6b8e2c9fb6114ef829e50bd6",
             "stakingAddress": "0x49f1fdff431ed78b39fdb396fa527a9a558a0f6c",
             "interestModel": "MODEL-STABLE-800"
+        },
+        "USR-0": {
+            "ReserveId": "95",
+            "underlyingToken": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+            "eTokenAddress": "0x6993953a23779f78f120ed7cd650c1ee7d286a82",
+            "stakingAddress": "0x259bd06e236228b88f892cefa4cadaa133c75905",
+            "interestModel": "MODEL-2"
+        },
+        "COOKIE-0": {
+            "ReserveId": "96",
+            "underlyingToken": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+            "eTokenAddress": "0x40a92f14183945467a5d4ee02c18adfc44183e59",
+            "stakingAddress": "0x02ca230e3894de85efecebe36f64a82bc9350e0f",
+            "interestModel": "MODEL-2"
         }
     }
 }

@@ -6280,6 +6280,62 @@
                 ],
                 "route1": []
             }
+        },
+        "sAMMV2-USR/USDC": {
+            "vaultVersion": "1",
+            "vaultId": "109",
+            "vaultAddress": "0x3f5430a340176c5eca2a0b53662af7901dec6706",
+            "borrowingReserveId0": "95",
+            "borrowingReserveId1": "24",
+            "veloGauge": "0xBbebd633E692C892EAa6DDfbbD1517bEb3F0358A",
+            "veloPair": "0xd3eE0a3B349237D68517DF30bFB66Be971f46Ad9",
+            "token0": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+            "token1": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "stable": true,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9",
+                        "stable": true,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ],
+                "route1": []
+            }
+        },
+        "vAMMV2-WETH/COOKIE": {
+            "vaultVersion": "1",
+            "vaultId": "110",
+            "vaultAddress": "0xcc4ed9832d33bdd7179d6f5eada357de0a9d766e",
+            "borrowingReserveId0": "1",
+            "borrowingReserveId1": "96",
+            "veloGauge": "0x6cf5A745dd93e1Bf18f5893409b1B1DaCBe7cc11",
+            "veloPair": "0xeD445A77E75F18B04818d940d0E490C15C6072B7",
+            "token0": "0x4200000000000000000000000000000000000006",
+            "token1": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x4200000000000000000000000000000000000006",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x4200000000000000000000000000000000000006",
+                        "to": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
         }
     }
 }
