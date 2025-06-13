@@ -334,6 +334,11 @@
             "name": "weETH",
             "address": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
             "decimals": 18
+        },
+        "BOLD": {
+            "name": "BOLD",
+            "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+            "decimals": 18
         }
     },
     "base": {
@@ -780,6 +785,11 @@
         "COOKIE": {
             "name": "COOKIE",
             "address": "0xc0041ef357b183448b235a8ea73ce4e4ec8c265f",
+            "decimals": 18
+        },
+        "BOLD": {
+            "name": "BOLD",
+            "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
             "decimals": 18
         }
     }
