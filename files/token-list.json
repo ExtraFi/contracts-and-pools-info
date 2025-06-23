@@ -791,6 +791,11 @@
             "name": "BOLD",
             "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
             "decimals": 18
+        },
+        "axlOP": {
+            "name": "axlOP",
+            "address": "0x994ac01750047B9d35431a7Ae4Ed312ee955E030",
+            "decimals": 18
         }
     }
 }

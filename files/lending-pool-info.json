@@ -516,7 +516,7 @@
             "underlyingToken": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
             "eTokenAddress": "0x4cca8940b1733c78a6b32427104c9656ac480a91",
             "stakingAddress": "0x85e6ccf15ea3f4bdc4569fde3bb8bca432f7a38e",
-            "interestModel": "MODEL-STABLE-800"
+            "interestModel": "MODEL-STABLE-600-8500"
         },
         "LUSD-0": {
             "ReserveId": "72",
@@ -756,7 +756,7 @@
             "underlyingToken": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
             "eTokenAddress": "0xa23b5b8f7c7a9c86f39849af12867addd1273e3c",
             "stakingAddress": "0x93d4172b50e82f0fa1c8026782c0ed8ff39513af",
-            "interestModel": "MODEL-STABLE-800"
+            "interestModel": "MODEL-STABLE-600-8500"
         },
         "USDC-0": {
             "ReserveId": "25",

@@ -6392,6 +6392,34 @@
                 ],
                 "route1": []
             }
+        },
+        "sAMMV2-tBTC/cbBTC": {
+            "vaultVersion": "1",
+            "vaultId": "112",
+            "vaultAddress": "0x26f34a1Ad2cCB76f7Bc98a26943C6BF782979dfe",
+            "borrowingReserveId0": "16",
+            "borrowingReserveId1": "76",
+            "veloGauge": "0x80AAd55965d1eA36bAf15Ae6Ed798145ec65916F",
+            "veloPair": "0x488d6ea6064eEE9352fdCDB7BC50d98A7fF3AD4E",
+            "token0": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+            "token1": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+            "stable": true,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                "route0": [
+                    {
+                        "from": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+                        "to": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+                        "stable": true,
+                        "routeType": 3,
+                        "tickSpacing": 1
+                    }
+                ],
+                "route1": []
+            }
         }
     }
 }
