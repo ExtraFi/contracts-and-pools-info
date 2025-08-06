@@ -1261,6 +1261,13 @@
             "eTokenAddress": "0x672b58e81fed6e97d16e00410ce95e02f0f0894b",
             "stakingAddress": "0x09fdc74376be526b3f7c4213f0a2cb7045f8634f",
             "interestModel": "MODEL-2"
+        },
+        "VEIL-0": {
+            "ReserveId": "98",
+            "underlyingToken": "0x767a739d1a152639e9ea1d8c1bd55fdc5b217d7f",
+            "eTokenAddress": "0xdE1F658895f8366c94bc25D9936F7910F086711B",
+            "stakingAddress": "0x992E6250d363aC69D8E5A091d57080937bfB126D",
+            "interestModel": "MODEL-2"
         }
     }
 }
