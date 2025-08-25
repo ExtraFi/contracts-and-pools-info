@@ -801,6 +801,11 @@
             "name": "VEIL",
             "address": "0x767a739d1a152639e9ea1d8c1bd55fdc5b217d7f",
             "decimals": 18
+        },
+        "CREATOR": {
+            "name": "CREATOR",
+            "address": "0x0fd122a924c4528a78a8141bddd38a0e5ba35fa5",
+            "decimals": 18
         }
     }
 }
