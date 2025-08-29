@@ -806,6 +806,11 @@
             "name": "CREATOR",
             "address": "0x0fd122a924c4528a78a8141bddd38a0e5ba35fa5",
             "decimals": 18
+        },
+        "RIPE": {
+            "name": "RIPE",
+            "address": "0x2a0a59d6b975828e781ecac125dba40d7ee5ddc0",
+            "decimals": 18
         }
     }
 }
