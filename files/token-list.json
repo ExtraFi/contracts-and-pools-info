@@ -811,6 +811,16 @@
             "name": "RIPE",
             "address": "0x2a0a59d6b975828e781ecac125dba40d7ee5ddc0",
             "decimals": 18
+        },
+        "OVER": {
+            "name": "OVER",
+            "address": "0x7750c092e284e2c7366f50c8306f43c7eb2e82a2",
+            "decimals": 18
+        },
+        "MCADE": {
+            "name": "MCADE",
+            "address": "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
+            "decimals": 18
         }
     }
 }
