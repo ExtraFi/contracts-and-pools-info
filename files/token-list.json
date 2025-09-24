@@ -821,6 +821,11 @@
             "name": "MCADE",
             "address": "0xc48823ec67720a04a9dfd8c7d109b2c3d6622094",
             "decimals": 18
+        },
+        "FLOCK": {
+            "name": "FLOCK",
+            "address": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+            "decimals": 18
         }
     }
 }
