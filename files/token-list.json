@@ -826,6 +826,11 @@
             "name": "FLOCK",
             "address": "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
             "decimals": 18
+        },
+        "SYND": {
+            "name": "SYND",
+            "address": "0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
+            "decimals": 18
         }
     }
 }
