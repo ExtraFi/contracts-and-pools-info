@@ -831,6 +831,11 @@
             "name": "SYND",
             "address": "0x11dc28d01984079b7efe7763b533e6ed9e3722b9",
             "decimals": 18
+        },
+        "SEND": {
+            "name": "SEND",
+            "address": "0xeab49138ba2ea6dd776220fe26b7b8e446638956",
+            "decimals": 18
         }
     }
 }

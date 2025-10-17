@@ -6616,6 +6616,34 @@
                 ],
                 "route1": []
             }
+        },
+        "vAMMV2-USDC/SEND": {
+            "vaultVersion": "1",
+            "vaultId": "120",
+            "vaultAddress": "0xb5d48c697ffbe691d2f51603f47f1495919852b0",
+            "borrowingReserveId0": "25",
+            "borrowingReserveId1": "105",
+            "veloGauge": "0x342D92F92b2365e15126b852A56820427Af56900",
+            "veloPair": "0x69bc1d350fE13F499c6AedEd2C5eA9471b2a599A",
+            "token0": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "token1": "0xeab49138ba2ea6dd776220fe26b7b8e446638956",
+            "stable": false,
+            "rewards": [
+                "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+            ],
+            "flashLoanLiqData": {
+                "borrowAsset": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                "route0": [],
+                "route1": [
+                    {
+                        "from": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+                        "to": "0xeab49138ba2ea6dd776220fe26b7b8e446638956",
+                        "stable": false,
+                        "routeType": 2,
+                        "tickSpacing": 0
+                    }
+                ]
+            }
         }
     }
 }
