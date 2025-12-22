@@ -836,6 +836,11 @@
             "name": "SEND",
             "address": "0xeab49138ba2ea6dd776220fe26b7b8e446638956",
             "decimals": 18
+        },
+        "EDEL": {
+            "name": "EDEL",
+            "address": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
+            "decimals": 18
         }
     }
 }

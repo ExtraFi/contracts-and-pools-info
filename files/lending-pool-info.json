@@ -1317,6 +1317,13 @@
             "eTokenAddress": "0xbf291e82140f7216b8dbf552927c5978e45a6f8d",
             "stakingAddress": "0xf8fc286518c51a65ec60b80bfc9b1a704a86aad9",
             "interestModel": "MODEL-2"
+        },
+        "EDEL-0": {
+            "ReserveId": "106",
+            "underlyingToken": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
+            "eTokenAddress": "0x66dd001fcbad0451af6f64bc2ac7ecbf48733757",
+            "stakingAddress": "0x79ce67e9bd420588f780a6a6d9194f622623d007",
+            "interestModel": "MODEL-2"
         }
     }
 }
