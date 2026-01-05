@@ -1324,6 +1324,13 @@
             "eTokenAddress": "0x66dd001fcbad0451af6f64bc2ac7ecbf48733757",
             "stakingAddress": "0x79ce67e9bd420588f780a6a6d9194f622623d007",
             "interestModel": "MODEL-2"
+        },
+        "NOCK-0": {
+            "ReserveId": "107",
+            "underlyingToken": "0x9b5e262cf9bb04869ab40b19af91d2dc85761722",
+            "eTokenAddress": "0x7417d5050e10bec62f42b3384800d5916eb95126",
+            "stakingAddress": "0xcf4ef06394be965e8e0c5cab7479cbb7b4b67c07",
+            "interestModel": "MODEL-2"
         }
     }
 }

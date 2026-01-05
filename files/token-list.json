@@ -841,6 +841,11 @@
             "name": "EDEL",
             "address": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
             "decimals": 18
+        },
+        "NOCK": {
+            "name": "NOCK",
+            "address": "0x9b5e262cf9bb04869ab40b19af91d2dc85761722",
+            "decimals": 18
         }
     }
 }
